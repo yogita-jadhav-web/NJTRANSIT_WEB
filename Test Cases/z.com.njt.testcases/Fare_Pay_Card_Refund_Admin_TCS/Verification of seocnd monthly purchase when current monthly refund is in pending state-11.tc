@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of seocnd monthly purchase when current monthly refund is in pending state-11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69041d8b-fc7d-4873-8993-b1562d36bd3b</testCaseGuid>
+</TestCaseEntity>

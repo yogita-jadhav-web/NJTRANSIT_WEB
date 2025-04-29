@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108223_Verification_of_Trip_Details_VISA_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>052d3e84-4c36-44ae-be6f-91f1b8e2c342</testCaseGuid>
+</TestCaseEntity>

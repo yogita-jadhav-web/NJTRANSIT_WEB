@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_Autoreload_For_Card_Master</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce5a59a7-0473-4d46-9a0a-cb97a821ed23</testCaseGuid>
+</TestCaseEntity>

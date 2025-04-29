@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147090_To verify_that_user_is_able_to_subscribe_bus_monthly_AutoReload_Tickets_using_Existing_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02d40ebe-7d9e-4e1d-91a3-50d8513ff468</testCaseGuid>
+</TestCaseEntity>

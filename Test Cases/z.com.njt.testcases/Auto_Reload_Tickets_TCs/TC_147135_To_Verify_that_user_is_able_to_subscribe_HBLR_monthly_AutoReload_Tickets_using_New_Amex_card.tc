@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147135_To_Verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_New_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbf69e1a-cdfc-43c7-89dc-65ae2b76061d</testCaseGuid>
+</TestCaseEntity>

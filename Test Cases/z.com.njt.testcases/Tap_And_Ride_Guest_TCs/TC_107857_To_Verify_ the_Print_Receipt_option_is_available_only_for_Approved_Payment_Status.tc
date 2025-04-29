@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107857_To_Verify_ the_Print_Receipt_option_is_available_only_for_Approved_Payment_Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30679409-168b-49ac-9f4a-f7163c31ce9c</testCaseGuid>
+</TestCaseEntity>

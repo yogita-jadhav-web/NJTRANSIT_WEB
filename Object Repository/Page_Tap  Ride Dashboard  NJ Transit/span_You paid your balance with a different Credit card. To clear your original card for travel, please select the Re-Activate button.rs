@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_You paid your balance with a different Credit card. To clear your original card for travel, please select the Re-Activate button</name>
+   <tag></tag>
+   <elementGuidId>e28e363b-2d64-4f0e-9feb-0fd263abe360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='desc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;You paid your balance with a different Credit card. To clear your original card &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6d1e5ef-00c8-4cfc-aa9c-3154fb1c2234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-desc css-c0laln</value>
+      <webElementGuid>80a4dbb6-de06-404a-a5b6-2fd707bf7117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>566124fe-b37f-4d95-b2e1-7a60b269a9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You paid your balance with a different Credit card. To clear your original card for travel, please select the Re-Activate button. </value>
+      <webElementGuid>8cbd9aeb-5f31-4279-88d0-b84046d9c1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payDebtModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-1ty026z&quot;]/p[@class=&quot;MuiTypography-root MuiDialogContentText-root MuiTypography-body1 MuiDialogContentText-root css-1wvkpe0&quot;]/span[@id=&quot;desc&quot;]</value>
+      <webElementGuid>c71100a8-3d65-4706-b445-36a10f46e5aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='desc']</value>
+      <webElementGuid>3d27dc1c-6117-4841-800b-2e3b81107887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payDebtModal']/div[3]/div/div[2]/p/span</value>
+      <webElementGuid>0c21c386-ea05-477f-b13b-07b8579242c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanks for paying your outstanding balance.'])[1]/following::span[1]</value>
+      <webElementGuid>6b82b0f8-a765-4390-9ce9-8b3e162fc92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-Activate Card'])[1]/following::span[2]</value>
+      <webElementGuid>3395078b-4dd1-4f6e-a030-8eb42ec5958f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>30f3cebb-0d5a-4113-abf5-f3425d0c6d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-Activate'])[2]/preceding::span[1]</value>
+      <webElementGuid>87f6d7c7-fd1c-4b27-a7e5-a5d846327cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You paid your balance with a different Credit card. To clear your original card for travel, please select the Re-Activate button.']/parent::*</value>
+      <webElementGuid>da8572e6-8b1a-4f4d-b1a7-670d6cd1748b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>3fc660d5-7564-481d-a420-5761ff793bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'desc' and (text() = 'You paid your balance with a different Credit card. To clear your original card for travel, please select the Re-Activate button. ' or . = 'You paid your balance with a different Credit card. To clear your original card for travel, please select the Re-Activate button. ')]</value>
+      <webElementGuid>d34243cc-8d87-4189-8c2d-7a292270c75a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

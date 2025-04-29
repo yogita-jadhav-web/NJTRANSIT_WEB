@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108166_Verification_of_Tap_and_Ride_Card_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fef78a7-53ee-4a6a-a451-ca571e807cff</testCaseGuid>
+</TestCaseEntity>

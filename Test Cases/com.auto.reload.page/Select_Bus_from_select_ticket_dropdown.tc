@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Bus_from_select_ticket_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>513732aa-7fd4-4eaf-97f3-1606b5b4f709</testCaseGuid>
+</TestCaseEntity>

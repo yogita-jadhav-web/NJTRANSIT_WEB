@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_OTP_Using_Random_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99f7b0f3-6f11-4269-a6ab-5fb2a78b043e</testCaseGuid>
+</TestCaseEntity>

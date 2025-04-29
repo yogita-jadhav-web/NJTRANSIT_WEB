@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disabled_Verification of contract refund for card which is hotlisted and then replaced-27</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42e784fc-8101-4bd0-86aa-8635d5bbe77e</testCaseGuid>
+</TestCaseEntity>

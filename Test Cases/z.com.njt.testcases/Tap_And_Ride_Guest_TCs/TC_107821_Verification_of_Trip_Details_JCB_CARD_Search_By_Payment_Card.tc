@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107821_Verification_of_Trip_Details_JCB_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>402fc483-a856-4382-bfd4-ec145ff31a98</testCaseGuid>
+</TestCaseEntity>

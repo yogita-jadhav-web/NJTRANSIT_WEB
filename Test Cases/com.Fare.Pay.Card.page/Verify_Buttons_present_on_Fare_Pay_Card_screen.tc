@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Buttons_present_on_Fare_Pay_Card_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a7e1bb9-9410-43ac-89c0-e7016d3462ac</testCaseGuid>
+</TestCaseEntity>

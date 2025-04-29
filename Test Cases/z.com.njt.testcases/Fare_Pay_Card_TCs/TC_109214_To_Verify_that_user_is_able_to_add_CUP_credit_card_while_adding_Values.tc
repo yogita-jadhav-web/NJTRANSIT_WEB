@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109214_To_Verify_that_user_is_able_to_add_CUP_credit_card_while_adding_Values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99bf426c-f616-402d-8d6a-603b16fe382f</testCaseGuid>
+</TestCaseEntity>

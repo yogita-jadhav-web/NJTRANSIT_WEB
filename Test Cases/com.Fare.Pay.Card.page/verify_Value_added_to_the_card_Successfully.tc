@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Value_added_to_the_card_Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf260b6d-4531-48ad-8f2f-e42af72d3545</testCaseGuid>
+</TestCaseEntity>

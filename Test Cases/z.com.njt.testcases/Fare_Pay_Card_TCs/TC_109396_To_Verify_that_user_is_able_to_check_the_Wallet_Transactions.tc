@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109396_To_Verify_that_user_is_able_to_check_the_Wallet_Transactions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a967cee-5883-489c-bf0d-05160df0d85c</testCaseGuid>
+</TestCaseEntity>

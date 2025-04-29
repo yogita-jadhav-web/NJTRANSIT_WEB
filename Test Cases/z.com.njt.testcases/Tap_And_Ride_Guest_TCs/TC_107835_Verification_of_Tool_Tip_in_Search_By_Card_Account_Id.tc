@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107835_Verification_of_Tool_Tip_in_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6565948-f452-4b9c-91a7-fae267661dec</testCaseGuid>
+</TestCaseEntity>

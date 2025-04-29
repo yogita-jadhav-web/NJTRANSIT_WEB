@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Card_Nickname_is_required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>148fc4b8-df35-4898-ba06-16fdd52e5184</testCaseGuid>
+</TestCaseEntity>

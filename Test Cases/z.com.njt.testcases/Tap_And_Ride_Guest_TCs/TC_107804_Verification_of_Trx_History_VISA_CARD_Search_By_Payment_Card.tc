@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107804_Verification_of_Trx_History_VISA_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28e353ff-0dfc-4427-b63e-60720fd1ab9b</testCaseGuid>
+</TestCaseEntity>

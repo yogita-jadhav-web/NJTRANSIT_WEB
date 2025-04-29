@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146339_Verification_of_boundary_value_for_Reload_and_threshold_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7b8438f-69bc-4015-a0af-f40a9fc4b263</testCaseGuid>
+</TestCaseEntity>

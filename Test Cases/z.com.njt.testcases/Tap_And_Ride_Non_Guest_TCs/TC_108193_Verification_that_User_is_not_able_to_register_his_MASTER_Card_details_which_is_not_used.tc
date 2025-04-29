@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108193_Verification_that_User_is_not_able_to_register_his_MASTER_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3533e537-26e0-4d16-a4f5-bd5604324572</testCaseGuid>
+</TestCaseEntity>

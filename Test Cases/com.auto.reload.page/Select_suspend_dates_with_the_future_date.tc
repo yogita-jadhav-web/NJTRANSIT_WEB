@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_suspend_dates_with_the_future_date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3f90994-d7bf-4d89-b179-f97bcb32ea53</testCaseGuid>
+</TestCaseEntity>

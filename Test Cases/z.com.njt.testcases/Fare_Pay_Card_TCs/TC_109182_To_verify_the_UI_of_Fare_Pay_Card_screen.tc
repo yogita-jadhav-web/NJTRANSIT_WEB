@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109182_To_verify_the_UI_of_Fare_Pay_Card_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>728012e3-f8a8-4343-b446-918ea21bba21</testCaseGuid>
+</TestCaseEntity>

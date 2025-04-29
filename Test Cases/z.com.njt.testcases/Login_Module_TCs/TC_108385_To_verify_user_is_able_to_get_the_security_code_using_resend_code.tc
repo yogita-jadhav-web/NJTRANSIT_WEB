@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108385_To_verify_user_is_able_to_get_the_security_code_using_resend_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3aa17cb5-218a-40ec-ac42-25181e5ca558</testCaseGuid>
+</TestCaseEntity>

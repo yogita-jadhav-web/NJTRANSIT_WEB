@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_p_web_trx_refunds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4ca1242-da58-466f-b47d-8c60a3b535c1</testCaseGuid>
+</TestCaseEntity>

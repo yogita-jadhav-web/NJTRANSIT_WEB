@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Payment Card Deleted Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcec6d49-bedc-461d-83e0-d06a3d4a65d5</testCaseGuid>
+</TestCaseEntity>

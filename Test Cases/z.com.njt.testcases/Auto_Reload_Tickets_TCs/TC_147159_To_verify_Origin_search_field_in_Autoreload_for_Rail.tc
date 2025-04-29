@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147159_To_verify_Origin_search_field_in_Autoreload_for_Rail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5f84366-bd7d-459b-953f-86f40393c66d</testCaseGuid>
+</TestCaseEntity>

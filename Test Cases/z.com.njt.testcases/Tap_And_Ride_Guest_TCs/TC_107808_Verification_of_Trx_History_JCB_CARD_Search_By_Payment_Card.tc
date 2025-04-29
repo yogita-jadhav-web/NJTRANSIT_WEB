@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107808_Verification_of_Trx_History_JCB_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51f8a8bc-e3d2-47ab-9799-fcd4536b75f0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109318_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_while_adding_new_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>233808fe-3ea9-4774-9d8c-01946b6f58c6</testCaseGuid>
+</TestCaseEntity>

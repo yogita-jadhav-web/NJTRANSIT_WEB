@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Refresh_Until_Card_Value_Changes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c2d6f60-e7d3-4009-8c73-1e92e0b21a70</testCaseGuid>
+</TestCaseEntity>

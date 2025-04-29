@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification_of_Full_Refund_for_HBLR_10_Trip_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da61f2a8-935a-46f4-9b02-2079e0b51c71</testCaseGuid>
+</TestCaseEntity>

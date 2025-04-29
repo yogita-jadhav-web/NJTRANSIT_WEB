@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108200_Verification_of_Register_Payment_By_Card_Account_Id_option_for_AMEX_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98489137-832e-4b09-871d-5883f53de4c0</testCaseGuid>
+</TestCaseEntity>

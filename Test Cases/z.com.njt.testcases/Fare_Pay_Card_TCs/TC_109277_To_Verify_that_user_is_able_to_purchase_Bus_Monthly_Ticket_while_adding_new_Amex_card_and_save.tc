@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109277_To_Verify_that_user_is_able_to_purchase_Bus_Monthly_Ticket_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdcada97-3a68-4639-9084-525958ceec29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108391_To_verify_user_activation_with_old_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cac31a65-2c33-4bd8-9346-1da15844fff8</testCaseGuid>
+</TestCaseEntity>

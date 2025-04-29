@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146352_Verification_of_Auto_Reload_Suspend_for_future_dates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>125e1c5d-f012-4ab0-afc8-08d5de06df55</testCaseGuid>
+</TestCaseEntity>

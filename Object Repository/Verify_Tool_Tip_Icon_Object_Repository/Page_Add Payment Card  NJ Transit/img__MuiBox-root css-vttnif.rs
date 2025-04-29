@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__MuiBox-root css-vttnif</name>
+   <tag></tag>
+   <elementGuidId>518e3fd1-5da8-4501-83e6-e11c63feab1f</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':r7:']/div/img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@alt = 'Screenshot of a credit card statement table. There is a callout indicating that your Account ID can be found on the Invoice Number of a transaction from New Jersey Transit. It is the 8 characters following the letters NJT in the Invoice Number.' and @src = '/njt-web/static/media/bank_statememnts.274c617288d329209379.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiBox-root.css-vttnif</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Screenshot of a credit card statement table. There is a callout indicating that your Account ID can be found on the Invoice Number of a transaction from New Jersey Transit. It is the 8 characters following the letters NJT in the Invoice Number.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4b7ec3fe-ced7-4ef5-aeb0-7ab196e9d05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-vttnif</value>
+      <webElementGuid>f98de49d-c96b-4663-b0a9-af85a32b959c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltipMessage</value>
+      <webElementGuid>e6090758-8473-4967-b5ec-4f6db635d55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Screenshot of a credit card statement table. There is a callout indicating that your Account ID can be found on the Invoice Number of a transaction from New Jersey Transit. It is the 8 characters following the letters NJT in the Invoice Number.</value>
+      <webElementGuid>7eba6c45-ae10-4683-a580-b0920ea1988f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/njt-web/static/media/bank_statememnts.274c617288d329209379.png</value>
+      <webElementGuid>73175a3f-dcc8-4265-b7f3-5c6384c1f1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r7:&quot;)/div[@class=&quot;MuiTooltip-tooltip MuiTooltip-tooltipPlacementBottom css-1spb1s5&quot;]/img[@class=&quot;MuiBox-root css-vttnif&quot;]</value>
+      <webElementGuid>74ddafa6-3f49-454c-98ec-0953bfe80b4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r7:']/div/img</value>
+      <webElementGuid>f289b355-2291-41e2-b97f-8a283c509e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Screenshot of a credit card statement table. There is a callout indicating that your Account ID can be found on the Invoice Number of a transaction from New Jersey Transit. It is the 8 characters following the letters NJT in the Invoice Number.']</value>
+      <webElementGuid>b644d38b-1278-40a8-927c-eca3d2720240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/img</value>
+      <webElementGuid>3bec8e00-8e79-4fd2-95d7-72a12b904259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Screenshot of a credit card statement table. There is a callout indicating that your Account ID can be found on the Invoice Number of a transaction from New Jersey Transit. It is the 8 characters following the letters NJT in the Invoice Number.' and @src = '/njt-web/static/media/bank_statememnts.274c617288d329209379.png']</value>
+      <webElementGuid>0e0ce7df-a3b0-4b27-a5a7-3cedb0d43ff3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Nickname_DISCOVER</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6389dbea-a53d-4b6a-836a-062b0cc05026</testCaseGuid>
+</TestCaseEntity>

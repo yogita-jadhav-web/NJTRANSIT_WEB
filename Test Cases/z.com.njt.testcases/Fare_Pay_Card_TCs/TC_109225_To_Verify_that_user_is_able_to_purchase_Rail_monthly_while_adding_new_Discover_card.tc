@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109225_To_Verify_that_user_is_able_to_purchase_Rail_monthly_while_adding_new_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>315ca7ae-fe60-4b8e-9309-1964599514cb</testCaseGuid>
+</TestCaseEntity>

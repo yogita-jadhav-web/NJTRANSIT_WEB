@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_User does not have any saved credit cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f2990af-cb2e-4936-ab52-a1029bba89e1</testCaseGuid>
+</TestCaseEntity>

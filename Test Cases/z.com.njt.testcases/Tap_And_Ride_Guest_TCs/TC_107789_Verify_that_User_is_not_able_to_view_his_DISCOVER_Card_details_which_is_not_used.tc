@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107789_Verify_that_User_is_not_able_to_view_his_DISCOVER_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cdd3f0f-7456-4015-a90c-b3185e3d61d9</testCaseGuid>
+</TestCaseEntity>

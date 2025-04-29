@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147157_To_Verify_cancel_Auto_Reload_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da48b46c-239a-4865-850c-840414cffcae</testCaseGuid>
+</TestCaseEntity>

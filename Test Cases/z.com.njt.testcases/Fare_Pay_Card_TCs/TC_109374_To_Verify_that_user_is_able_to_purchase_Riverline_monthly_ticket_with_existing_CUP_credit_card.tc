@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109374_To_Verify_that_user_is_able_to_purchase_Riverline_monthly_ticket_with_existing_CUP_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db0a3ab1-707d-468a-9cfc-74475bcd9fda</testCaseGuid>
+</TestCaseEntity>

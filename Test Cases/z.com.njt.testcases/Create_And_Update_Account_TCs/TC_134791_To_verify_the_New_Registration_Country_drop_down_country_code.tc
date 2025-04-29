@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134791_To_verify_the_New_Registration_Country_drop_down_country_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93740036-e3c2-4d83-b72e-c62a9286f0e8</testCaseGuid>
+</TestCaseEntity>

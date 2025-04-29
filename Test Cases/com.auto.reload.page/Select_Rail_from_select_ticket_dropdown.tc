@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Rail_from_select_ticket_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0ac75e4-c7be-4955-bc31-9b884ae8cdcc</testCaseGuid>
+</TestCaseEntity>

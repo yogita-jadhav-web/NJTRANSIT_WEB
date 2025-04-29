@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146348_Verification_of_Reload_and_Threshold_fields_for_modification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcc941aa-bbaf-400f-a66d-e275dcc7e12a</testCaseGuid>
+</TestCaseEntity>

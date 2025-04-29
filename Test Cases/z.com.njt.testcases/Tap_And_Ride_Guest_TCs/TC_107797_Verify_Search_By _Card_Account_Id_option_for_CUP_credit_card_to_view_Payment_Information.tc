@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107797_Verify_Search_By _Card_Account_Id_option_for_CUP_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b47b24c-0d1a-42fb-8744-5f20defcbfd7</testCaseGuid>
+</TestCaseEntity>

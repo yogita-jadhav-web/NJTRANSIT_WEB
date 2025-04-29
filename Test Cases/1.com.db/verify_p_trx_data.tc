@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_p_trx_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6dd58f8-0f2e-4c0c-a28d-39a7a9b0c83e</testCaseGuid>
+</TestCaseEntity>

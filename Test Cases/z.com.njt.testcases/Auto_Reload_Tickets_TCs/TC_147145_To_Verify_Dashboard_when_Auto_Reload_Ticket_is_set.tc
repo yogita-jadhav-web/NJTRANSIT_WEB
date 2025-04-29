@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147145_To_Verify_Dashboard_when_Auto_Reload_Ticket_is_set</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1924adf2-84a6-4157-b0b8-9c74564f51a5</testCaseGuid>
+</TestCaseEntity>

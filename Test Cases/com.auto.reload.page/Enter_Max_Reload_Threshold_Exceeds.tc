@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Max_Reload_Threshold_Exceeds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a1f5aee-456a-473d-a564-a8e80428e9ec</testCaseGuid>
+</TestCaseEntity>

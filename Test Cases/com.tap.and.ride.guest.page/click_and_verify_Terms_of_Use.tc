@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_and_verify_Terms_of_Use</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1c01478-7dfd-4904-bcff-62214f814b56</testCaseGuid>
+</TestCaseEntity>

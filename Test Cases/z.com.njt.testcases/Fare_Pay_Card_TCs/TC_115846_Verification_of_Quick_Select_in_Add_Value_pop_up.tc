@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115846_Verification_of_Quick_Select_in_Add_Value_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>709720c6-87de-467e-92d7-037224f11b65</testCaseGuid>
+</TestCaseEntity>

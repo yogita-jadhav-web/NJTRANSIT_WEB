@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_End_Date_less_Than_Start_Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7bc229b-40c0-4315-a73e-25e3162c6645</testCaseGuid>
+</TestCaseEntity>

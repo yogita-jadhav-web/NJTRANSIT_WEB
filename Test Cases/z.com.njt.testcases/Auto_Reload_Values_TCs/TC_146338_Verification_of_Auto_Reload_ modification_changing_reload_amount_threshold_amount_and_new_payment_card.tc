@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146338_Verification_of_Auto_Reload_ modification_changing_reload_amount_threshold_amount_and_new_payment_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5db022c4-45c4-4c37-9fac-576e97d4699c</testCaseGuid>
+</TestCaseEntity>

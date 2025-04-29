@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_the_p_subscription_trx</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e04787d-9a4c-46c8-8e6d-7e053da3b40b</testCaseGuid>
+</TestCaseEntity>

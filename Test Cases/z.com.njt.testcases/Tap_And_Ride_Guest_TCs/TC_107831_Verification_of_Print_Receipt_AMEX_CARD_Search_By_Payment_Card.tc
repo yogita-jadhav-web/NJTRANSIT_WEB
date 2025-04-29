@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107831_Verification_of_Print_Receipt_AMEX_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97d9e54e-01b2-4f36-946e-f7314151ae1d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_FARE-PAY Card</name>
+   <tag></tag>
+   <elementGuidId>c3d71366-a81e-4a98-9e2f-44ae4f3a2004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menuItem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='menuItem']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;FARE-PAY Card&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b932b3bb-575a-41a9-9176-744a60e1bd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-12xv5a</value>
+      <webElementGuid>fc8d3628-a6a0-4cfb-a05a-aad6e7518718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menuItem</value>
+      <webElementGuid>84598908-21e3-4c63-aa3f-395f5009cd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FARE-PAY Card</value>
+      <webElementGuid>a47e631c-7223-4687-be26-009ecc989f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root layout css-ie5neq&quot;]/div[@class=&quot;MuiCardContent-root card-data css-1cy95ze&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 css-tk7ivn&quot;]/div[@class=&quot;universalBlue menuItem MuiBox-root css-0&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-9yqtol&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-15waowg&quot;]/p[@id=&quot;menuItem&quot;]</value>
+      <webElementGuid>58628fbc-cb97-4298-b08c-8d120c5429bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='menuItem']</value>
+      <webElementGuid>8e5670fb-d9f5-4b59-8b43-6385b242edd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/div/ul/li/p</value>
+      <webElementGuid>cba2a1b1-904d-4b65-bd5a-d540d903d4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestA Fqknhr'])[1]/following::p[1]</value>
+      <webElementGuid>f5a9595c-2b83-413e-87bc-cf407436858a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Tap &amp; Ride Card'])[1]/preceding::p[6]</value>
+      <webElementGuid>04649fdb-f44c-488b-be10-f0ce3a9dd134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FARE-PAY Card']/parent::*</value>
+      <webElementGuid>27a6ac7f-beb2-4639-8a15-e6bae6495d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>9a034e30-e4dd-4338-8d6d-346f289cc8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'menuItem' and (text() = 'FARE-PAY Card' or . = 'FARE-PAY Card')]</value>
+      <webElementGuid>51150f15-1420-409d-b12d-ec06503cb454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Chk_Precondition_TC_109399_To_Verify_that_user_is_able_to_submit_Report_Lost_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d233803-9866-4ff6-98e0-1bb85852415f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>109178_To_verify_that_user_is_able_to_register_an_active fare_pay_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2aa36d27-f18b-48ae-a13b-53e647d62115</testCaseGuid>
+</TestCaseEntity>

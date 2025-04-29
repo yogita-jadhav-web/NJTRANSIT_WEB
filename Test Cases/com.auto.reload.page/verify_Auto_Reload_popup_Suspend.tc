@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Auto_Reload_popup_Suspend</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d3e8049-3039-4885-81a6-d84239e9ac46</testCaseGuid>
+</TestCaseEntity>

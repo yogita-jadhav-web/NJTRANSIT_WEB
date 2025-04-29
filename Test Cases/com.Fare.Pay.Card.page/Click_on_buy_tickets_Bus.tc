@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_on_buy_tickets_Bus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fea8cda-09a0-4ca8-9283-63e727a60d0c</testCaseGuid>
+</TestCaseEntity>

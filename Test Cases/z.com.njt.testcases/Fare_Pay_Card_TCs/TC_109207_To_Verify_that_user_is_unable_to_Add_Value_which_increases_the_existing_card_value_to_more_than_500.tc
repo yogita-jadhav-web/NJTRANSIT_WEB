@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109207_To_Verify_that_user_is_unable_to_Add_Value_which_increases_the_existing_card_value_to_more_than_500</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f02329a6-5596-4fa1-bdf8-e5f316665206</testCaseGuid>
+</TestCaseEntity>

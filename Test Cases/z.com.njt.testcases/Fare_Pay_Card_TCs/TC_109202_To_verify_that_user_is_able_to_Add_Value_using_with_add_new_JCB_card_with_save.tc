@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109202_To_verify_that_user_is_able_to_Add_Value_using_with_add_new_JCB_card_with_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5142e5f4-a154-4872-8d0e-bf568936ba2b</testCaseGuid>
+</TestCaseEntity>

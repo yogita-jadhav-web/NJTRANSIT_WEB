@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Phone_field_validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65225bce-d95e-4498-99db-5cd4a011e099</testCaseGuid>
+</TestCaseEntity>

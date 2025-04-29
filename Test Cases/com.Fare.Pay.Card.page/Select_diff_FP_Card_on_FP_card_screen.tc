@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_diff_FP_Card_on_FP_card_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c58b4c5-2771-45a9-ad07-277149622e95</testCaseGuid>
+</TestCaseEntity>

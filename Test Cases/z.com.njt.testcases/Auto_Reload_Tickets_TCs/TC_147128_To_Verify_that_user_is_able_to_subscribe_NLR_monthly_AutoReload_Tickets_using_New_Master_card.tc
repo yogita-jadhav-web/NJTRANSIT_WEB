@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147128_To_Verify_that_user_is_able_to_subscribe_NLR_monthly_AutoReload_Tickets_using_New_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ada8359c-84f7-4074-9cd2-4b4132c141f4</testCaseGuid>
+</TestCaseEntity>

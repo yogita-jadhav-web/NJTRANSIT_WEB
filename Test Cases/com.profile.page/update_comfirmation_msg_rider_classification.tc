@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>update_comfirmation_msg_rider_classification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ffe4ddc-bf6c-4615-99b1-73bec305993b</testCaseGuid>
+</TestCaseEntity>

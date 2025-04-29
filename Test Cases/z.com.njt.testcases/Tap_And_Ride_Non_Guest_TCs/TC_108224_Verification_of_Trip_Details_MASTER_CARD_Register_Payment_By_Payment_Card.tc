@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108224_Verification_of_Trip_Details_MASTER_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ac92797-e9a2-4d7f-a9d7-027a928e5a32</testCaseGuid>
+</TestCaseEntity>

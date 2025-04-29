@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107830_Verification_of_Print_Receipt_MASTER_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc2533a1-e68c-48a6-83ca-dad28c5c9cec</testCaseGuid>
+</TestCaseEntity>

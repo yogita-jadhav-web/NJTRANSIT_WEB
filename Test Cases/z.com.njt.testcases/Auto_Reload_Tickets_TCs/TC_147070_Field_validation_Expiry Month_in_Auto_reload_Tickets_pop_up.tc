@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147070_Field_validation_Expiry Month_in_Auto_reload_Tickets_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fe7ce05-0383-4839-8efb-2b26374fae54</testCaseGuid>
+</TestCaseEntity>

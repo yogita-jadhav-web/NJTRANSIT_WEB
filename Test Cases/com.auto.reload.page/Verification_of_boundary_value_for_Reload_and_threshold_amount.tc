@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification_of_boundary_value_for_Reload_and_threshold_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cf04f72-5703-4d7d-ba0e-21c2c096c3e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67896_To_verfiy_the_user_profile_phone_number_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14fccd24-9c15-44c6-9e1a-22d8f4ba0157</testCaseGuid>
+</TestCaseEntity>

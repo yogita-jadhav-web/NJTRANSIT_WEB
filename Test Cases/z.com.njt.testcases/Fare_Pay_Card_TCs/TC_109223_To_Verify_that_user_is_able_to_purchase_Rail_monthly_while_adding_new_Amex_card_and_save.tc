@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109223_To_Verify_that_user_is_able_to_purchase_Rail_monthly_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49151098-1b1b-4f5a-ad0b-5a06d69537ad</testCaseGuid>
+</TestCaseEntity>

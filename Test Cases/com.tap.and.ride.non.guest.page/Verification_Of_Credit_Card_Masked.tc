@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification_Of_Credit_Card_Masked</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f857b9d8-eb9e-4464-ba14-2933e5fba694</testCaseGuid>
+</TestCaseEntity>

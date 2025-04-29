@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Account_Id_DISCOVER</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33c07159-6e20-4f85-8540-86d38c5a130c</testCaseGuid>
+</TestCaseEntity>

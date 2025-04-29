@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_NLR_from_select_ticket_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cae3220e-90e0-472a-b9e4-2e9963e9dec0</testCaseGuid>
+</TestCaseEntity>

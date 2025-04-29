@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146379_Verification_of_Unregister_card_while_card_is_having_autoreload_value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d1d9578-44d5-4df5-8dac-71590ee37e1b</testCaseGuid>
+</TestCaseEntity>

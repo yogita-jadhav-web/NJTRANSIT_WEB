@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109379_To_Verify_that_user_is_able_to_purchase_Riverline_10Trip_ticket_while_adding_new_VISA_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e5da378-d497-442b-9c42-144a32c9c835</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108277_Verification_of_Nickname_ updated_after_user_unregsiter_and_regsiter_the_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37c8ba98-52d0-4e11-94ce-062d626fd0df</testCaseGuid>
+</TestCaseEntity>

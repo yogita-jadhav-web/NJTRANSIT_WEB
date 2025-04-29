@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_On_Profile_TAB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08a53ec9-d32f-40c7-ac8f-87c9f5a180fc</testCaseGuid>
+</TestCaseEntity>

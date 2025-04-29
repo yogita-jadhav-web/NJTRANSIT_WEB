@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107824_Verification_of_Print_Receipt_MASTER_CARD_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a2223cc-356b-40ff-b0b7-35208b414575</testCaseGuid>
+</TestCaseEntity>

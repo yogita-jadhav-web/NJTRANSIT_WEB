@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146357_Verification_of_Auto_Reload_pop_up_which_is_setup_using_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39554c63-92a6-4350-b443-7481ba80e822</testCaseGuid>
+</TestCaseEntity>

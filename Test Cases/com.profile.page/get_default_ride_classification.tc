@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_default_ride_classification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a72a1c47-be4f-42d2-ac7c-e2dccec1c2ec</testCaseGuid>
+</TestCaseEntity>

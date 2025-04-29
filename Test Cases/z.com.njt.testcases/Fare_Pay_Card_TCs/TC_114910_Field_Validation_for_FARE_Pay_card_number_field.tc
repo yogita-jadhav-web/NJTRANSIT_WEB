@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_114910_Field_Validation_for_FARE_Pay_card_number_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8c5c4b0-f41f-454d-8b5d-0620fbbf35c4</testCaseGuid>
+</TestCaseEntity>

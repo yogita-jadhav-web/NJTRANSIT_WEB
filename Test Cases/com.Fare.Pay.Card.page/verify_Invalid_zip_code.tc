@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Invalid_zip_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a54f0f5f-5e07-481d-9dbc-bc3349b094a7</testCaseGuid>
+</TestCaseEntity>

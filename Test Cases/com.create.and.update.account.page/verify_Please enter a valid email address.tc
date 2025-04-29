@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Please enter a valid email address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f70ce4ce-a44f-4ced-9c12-5861bcf5ef63</testCaseGuid>
+</TestCaseEntity>

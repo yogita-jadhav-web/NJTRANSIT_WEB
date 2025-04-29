@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108377_email_ID_is_auto_populated_if UserSelected_Remember_me_while_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00f0074f-88ec-4c0f-842b-3d306c040082</testCaseGuid>
+</TestCaseEntity>

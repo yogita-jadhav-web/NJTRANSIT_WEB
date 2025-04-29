@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109186_To_Verify_that_user_is_unable_to_enter_more_than_3_digits_in_PIN_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6679a492-bf94-4cc9-b283-1f0204ca814f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_FARE-PAY card balance is low Please reload the amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4450fa63-c69b-46d6-90bb-7dc1a8e090e1</testCaseGuid>
+</TestCaseEntity>

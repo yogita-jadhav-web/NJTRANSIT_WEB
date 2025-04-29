@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109323_To_Verify_that_user_is_able_to_purchase_HBLR_monthly_ticket_with_existing_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54ec287d-2327-4be8-b171-d644918c4dc7</testCaseGuid>
+</TestCaseEntity>

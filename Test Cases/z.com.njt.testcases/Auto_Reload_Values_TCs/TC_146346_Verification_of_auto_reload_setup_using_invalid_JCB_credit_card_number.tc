@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146346_Verification_of_auto_reload_setup_using_invalid_JCB_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9500fadb-5588-46e4-a55c-eca2d23313de</testCaseGuid>
+</TestCaseEntity>

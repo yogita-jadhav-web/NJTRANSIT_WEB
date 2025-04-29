@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108231_Verification_of_Print_Receipt_AMEX_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce1b0228-3019-4b41-adc0-029b3713f0c3</testCaseGuid>
+</TestCaseEntity>

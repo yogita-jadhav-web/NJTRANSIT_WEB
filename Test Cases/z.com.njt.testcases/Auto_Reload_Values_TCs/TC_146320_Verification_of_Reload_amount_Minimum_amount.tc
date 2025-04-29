@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146320_Verification_of_Reload_amount_Minimum_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39d89da7-9df3-49d0-95aa-91d143b4d4b4</testCaseGuid>
+</TestCaseEntity>

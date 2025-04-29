@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>varify_cardholders_name_is_required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49629730-e32b-4d3c-b12d-b0e56a5c85ba</testCaseGuid>
+</TestCaseEntity>

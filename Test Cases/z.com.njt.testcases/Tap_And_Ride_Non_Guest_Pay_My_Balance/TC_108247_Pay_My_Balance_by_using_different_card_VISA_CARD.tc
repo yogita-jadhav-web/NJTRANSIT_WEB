@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108247_Pay_My_Balance_by_using_different_card_VISA_CARD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a112a8dd-0fb6-4f8b-81f8-675ae098ce45</testCaseGuid>
+</TestCaseEntity>

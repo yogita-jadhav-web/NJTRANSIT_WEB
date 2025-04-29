@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Select_Fare_Pay_Card_option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f23861f4-b752-48de-b95b-848b1c292c2d</testCaseGuid>
+</TestCaseEntity>

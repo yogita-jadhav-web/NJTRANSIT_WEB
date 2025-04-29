@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107813_Verification_of_Trip_Details_AMEX_CARD_Search_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>746ba349-fa6c-48f4-9afc-77d83368f13b</testCaseGuid>
+</TestCaseEntity>

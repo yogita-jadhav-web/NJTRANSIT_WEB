@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67883_To_verify_user_is_able_to_create_new_account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69eb99f2-2237-4438-b2d2-d0d97b6c8560</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109381_To_Verify_that_user_is_able_to_purchase_Riverline_10Trip_ticket_while_adding_new_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00413aac-45e0-47a5-8c4c-ce45912f0927</testCaseGuid>
+</TestCaseEntity>

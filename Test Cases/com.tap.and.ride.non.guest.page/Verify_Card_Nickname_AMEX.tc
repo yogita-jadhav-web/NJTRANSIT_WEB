@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Nickname_AMEX</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b52a128-ad6a-49a3-90da-920ac492f49b</testCaseGuid>
+</TestCaseEntity>

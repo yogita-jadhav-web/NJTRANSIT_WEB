@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109336_To_Verify_that_user_is_able_to_purchase_HBLR_monthly_ticket_while_adding_new_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1a92a5e-4c52-478e-8caf-eeaf7cc2dbc9</testCaseGuid>
+</TestCaseEntity>

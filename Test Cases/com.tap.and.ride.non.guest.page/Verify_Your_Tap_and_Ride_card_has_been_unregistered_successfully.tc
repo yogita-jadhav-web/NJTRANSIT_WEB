@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Your_Tap_and_Ride_card_has_been_unregistered_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a4f397f-d8ae-4850-85cd-7bf55671b437</testCaseGuid>
+</TestCaseEntity>

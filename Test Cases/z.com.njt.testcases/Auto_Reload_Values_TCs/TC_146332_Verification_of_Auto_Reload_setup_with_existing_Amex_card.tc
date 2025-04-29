@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146332_Verification_of_Auto_Reload_setup_with_existing_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a28a8c3-8560-476c-a714-9ef62bc617af</testCaseGuid>
+</TestCaseEntity>

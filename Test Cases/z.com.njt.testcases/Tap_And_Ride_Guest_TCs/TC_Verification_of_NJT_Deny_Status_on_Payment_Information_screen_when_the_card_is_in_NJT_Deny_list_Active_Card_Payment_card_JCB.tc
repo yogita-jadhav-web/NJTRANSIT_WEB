@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_NJT_Deny_Status_on_Payment_Information_screen_when_the_card_is_in_NJT_Deny_list_Active_Card_Payment_card_JCB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47e8b65e-807b-4123-9652-c4b7b1ff037d</testCaseGuid>
+</TestCaseEntity>

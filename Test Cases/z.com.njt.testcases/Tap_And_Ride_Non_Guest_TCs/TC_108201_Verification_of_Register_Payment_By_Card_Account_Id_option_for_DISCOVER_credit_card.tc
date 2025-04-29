@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108201_Verification_of_Register_Payment_By_Card_Account_Id_option_for_DISCOVER_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eac274c3-f476-47f7-a3ab-85db7c29b511</testCaseGuid>
+</TestCaseEntity>

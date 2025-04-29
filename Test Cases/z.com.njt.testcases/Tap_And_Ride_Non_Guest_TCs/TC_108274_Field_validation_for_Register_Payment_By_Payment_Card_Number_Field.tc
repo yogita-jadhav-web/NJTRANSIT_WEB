@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108274_Field_validation_for_Register_Payment_By_Payment_Card_Number_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6897eba-1131-4394-bd9a-4b426fe367a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146331_Verification_of_Auto_Reload_setup_with_existing_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d56c8456-8e0b-4581-86cf-812713379202</testCaseGuid>
+</TestCaseEntity>

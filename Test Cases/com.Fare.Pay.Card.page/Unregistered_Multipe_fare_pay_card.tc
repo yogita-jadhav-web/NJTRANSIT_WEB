@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unregistered_Multipe_fare_pay_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b788352-44ab-4b86-bf1b-10f7b4b1033f</testCaseGuid>
+</TestCaseEntity>

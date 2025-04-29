@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Random_Card_nickname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d47789b7-8fa6-4caa-a92f-0728f73b5d28</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Added_Amex_card_should_display_In_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5322637-f85f-4e7d-9942-d1bf4dad713e</testCaseGuid>
+</TestCaseEntity>

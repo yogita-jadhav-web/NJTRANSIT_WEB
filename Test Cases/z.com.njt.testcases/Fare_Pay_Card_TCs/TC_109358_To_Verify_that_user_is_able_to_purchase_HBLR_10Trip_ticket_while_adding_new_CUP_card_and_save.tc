@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109358_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_while_adding_new_CUP_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a90ebe8-b35f-41a2-871d-7356b4a655b5</testCaseGuid>
+</TestCaseEntity>

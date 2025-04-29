@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Date_Of_Birth_validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef66b045-7ce7-430c-ae8c-f92d64b08c65</testCaseGuid>
+</TestCaseEntity>

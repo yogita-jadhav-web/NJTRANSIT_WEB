@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Your_Tap_and_Ride_card_has_been_unregistered_successfully_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79875ca6-8c79-4692-bb88-8c994e16ff46</testCaseGuid>
+</TestCaseEntity>

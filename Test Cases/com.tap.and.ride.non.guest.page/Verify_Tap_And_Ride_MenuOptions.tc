@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Tap_And_Ride_MenuOptions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d3970c5-e46a-47e3-ae8f-8c5c017973c3</testCaseGuid>
+</TestCaseEntity>

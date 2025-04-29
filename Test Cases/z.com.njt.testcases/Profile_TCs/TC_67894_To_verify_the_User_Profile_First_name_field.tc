@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67894_To_verify_the_User_Profile_First_name_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d466e629-3582-4daa-8678-f4050caa9c33</testCaseGuid>
+</TestCaseEntity>

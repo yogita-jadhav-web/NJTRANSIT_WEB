@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_refund_policy_pop_up_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2f4aeb1-fbc8-49c9-9bf9-4cfdb28b7bfb</testCaseGuid>
+</TestCaseEntity>

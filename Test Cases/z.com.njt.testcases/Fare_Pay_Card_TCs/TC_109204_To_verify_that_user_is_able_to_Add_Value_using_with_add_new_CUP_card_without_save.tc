@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109204_To_verify_that_user_is_able_to_Add_Value_using_with_add_new_CUP_card_without_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b7ad1d9-fa97-4813-a92f-2ccb4f614732</testCaseGuid>
+</TestCaseEntity>

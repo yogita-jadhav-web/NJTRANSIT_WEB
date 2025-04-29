@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108179_Verification_of_the_Main_Menu_options_for_Registered_Users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37cf3a79-0c48-4317-841b-e926f20c75b1</testCaseGuid>
+</TestCaseEntity>

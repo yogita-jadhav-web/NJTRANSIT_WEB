@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_threshold_Maximun amount is</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11ea4d21-573c-48bb-a1ab-35b6de8a7ac6</testCaseGuid>
+</TestCaseEntity>

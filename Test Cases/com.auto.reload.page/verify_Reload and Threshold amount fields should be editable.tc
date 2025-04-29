@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Reload and Threshold amount fields should be editable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>863a9da5-630b-4a00-8db2-a4f60b1cef32</testCaseGuid>
+</TestCaseEntity>

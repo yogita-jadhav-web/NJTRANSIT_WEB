@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Account_Id_Checkbox_option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ddceb2a-a1cb-4e02-9633-111610362b78</testCaseGuid>
+</TestCaseEntity>

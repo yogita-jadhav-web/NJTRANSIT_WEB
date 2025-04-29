@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_On_Pencil_Icon_from_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e28ba493-a83c-4960-ab2b-ce88b0a4f32e</testCaseGuid>
+</TestCaseEntity>

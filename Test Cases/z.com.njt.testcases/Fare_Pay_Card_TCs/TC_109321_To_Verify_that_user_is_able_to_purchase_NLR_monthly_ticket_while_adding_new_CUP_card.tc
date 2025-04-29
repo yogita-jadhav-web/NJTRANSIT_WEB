@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109321_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31b3dda4-d5de-4fab-a3bf-da23770d6efb</testCaseGuid>
+</TestCaseEntity>

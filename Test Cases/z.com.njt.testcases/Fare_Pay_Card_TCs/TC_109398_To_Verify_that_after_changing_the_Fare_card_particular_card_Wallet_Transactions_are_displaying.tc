@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109398_To_Verify_that_after_changing_the_Fare_card_particular_card_Wallet_Transactions_are_displaying</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cbe355b8-6b11-4be9-b284-3db635c0f166</testCaseGuid>
+</TestCaseEntity>

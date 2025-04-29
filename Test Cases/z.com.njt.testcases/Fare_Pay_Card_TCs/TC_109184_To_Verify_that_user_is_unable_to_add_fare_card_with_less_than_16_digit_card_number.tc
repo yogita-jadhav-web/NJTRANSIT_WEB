@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109184_To_Verify_that_user_is_unable_to_add_fare_card_with_less_than_16_digit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7f00780-85f6-4715-8ad8-489651a7f1fb</testCaseGuid>
+</TestCaseEntity>

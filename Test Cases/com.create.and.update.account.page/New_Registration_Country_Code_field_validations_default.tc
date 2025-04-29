@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Country_Code_field_validations_default</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5a11287-8eca-4c1c-8ab9-f829bac72f4b</testCaseGuid>
+</TestCaseEntity>

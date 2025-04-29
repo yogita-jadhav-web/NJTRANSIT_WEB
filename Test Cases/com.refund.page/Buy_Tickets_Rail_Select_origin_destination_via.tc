@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy_Tickets_Rail_Select_origin_destination_via</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eaf2989c-fe6b-4d65-8fae-c24c2fe83b08</testCaseGuid>
+</TestCaseEntity>

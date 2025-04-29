@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108236_Verification_of_Print_Receipt_MASTER_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8e46ed6-fbce-4aa7-89c6-eb3d4a30f9b8</testCaseGuid>
+</TestCaseEntity>

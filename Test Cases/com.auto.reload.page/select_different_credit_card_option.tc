@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_different_credit_card_option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bdc6fff-9c9e-4f8a-a738-5c3ba877badd</testCaseGuid>
+</TestCaseEntity>

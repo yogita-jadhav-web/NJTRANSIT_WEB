@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108393_To_verify_user_activation_with_new_verification_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15a2f7cd-7734-4e36-a970-115ab10e9ed2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create an account and register your co_9f5d9e</name>
+   <tag></tag>
+   <elementGuidId>eef67f0c-1154-4062-b62d-ac7b81185342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='welcomeDesc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#welcomeDesc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Create an account and register your contactless card(s) to quickly check balance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e38578da-c14d-4975-bf60-b5dc989dfce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subTextLogin1 MuiTypography-alignCenter css-1y0i0c8</value>
+      <webElementGuid>93db3af4-a6bc-4c0f-8209-57758f2a09d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>welcomeDesc</value>
+      <webElementGuid>dbdb8b77-63ba-4551-a336-88a103ed72d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create an account and register your contactless card(s) to quickly check balances and look up transactions.</value>
+      <webElementGuid>ed68dbb3-88e5-4eb0-b6a3-205b59c2adee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;welcomeDesc&quot;)</value>
+      <webElementGuid>891368fc-e06e-4698-ab8f-8869cc5e3ce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='welcomeDesc']</value>
+      <webElementGuid>822913fd-f22b-4bf4-a88f-700de7cbb128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginCard']/div/div/div[3]/div/div/div[2]/span</value>
+      <webElementGuid>57800bd1-d76f-41ab-9df2-1320f93730ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/following::span[1]</value>
+      <webElementGuid>9edb729f-8e0e-4264-b46e-918e5c48dda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::span[1]</value>
+      <webElementGuid>d075f6bc-af86-4788-b250-e335085279d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca53e7ce-1981-4498-ace0-af27c1daeff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest Tap &amp; Ride'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4c29ce3-c0a6-4d10-9504-ae1e28bcdfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create an account and register your contactless card(s) to quickly check balances and look up transactions.']/parent::*</value>
+      <webElementGuid>23587274-771e-47c8-9df8-8fcc9f621937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>4cbf9c84-4dff-4b05-b193-9ee93a5770ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'welcomeDesc' and (text() = 'Create an account and register your contactless card(s) to quickly check balances and look up transactions.' or . = 'Create an account and register your contactless card(s) to quickly check balances and look up transactions.')]</value>
+      <webElementGuid>d4157b99-8cd5-4bb4-a781-3c473e29e95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

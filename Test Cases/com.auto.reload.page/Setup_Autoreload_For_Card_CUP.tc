@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_Autoreload_For_Card_CUP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb0fbb41-c3ae-4345-ada5-09a5afed92b2</testCaseGuid>
+</TestCaseEntity>

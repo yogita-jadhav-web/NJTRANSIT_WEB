@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107791_Verify_that_User_is_not_able_to_view_his_CUP_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b014668e-b78e-484b-8241-2d860829185f</testCaseGuid>
+</TestCaseEntity>

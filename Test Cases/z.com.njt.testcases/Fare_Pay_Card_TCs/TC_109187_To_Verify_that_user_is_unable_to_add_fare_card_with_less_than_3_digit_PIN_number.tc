@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109187_To_Verify_that_user_is_unable_to_add_fare_card_with_less_than_3_digit_PIN_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2982f59-671e-4d7f-bdd9-efbc3a1e5539</testCaseGuid>
+</TestCaseEntity>

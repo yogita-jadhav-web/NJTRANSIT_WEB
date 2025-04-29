@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Values_on_Fare_Pay_Card_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>570dfc00-046d-4a24-9be7-0705db0a4b92</testCaseGuid>
+</TestCaseEntity>

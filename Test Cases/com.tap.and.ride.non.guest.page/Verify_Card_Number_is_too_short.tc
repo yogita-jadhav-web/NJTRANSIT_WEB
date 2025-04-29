@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Number_is_too_short</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eece9796-ccc9-45ae-a473-44524b5f521b</testCaseGuid>
+</TestCaseEntity>

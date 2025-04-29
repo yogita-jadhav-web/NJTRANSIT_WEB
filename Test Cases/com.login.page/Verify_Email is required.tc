@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Email is required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>384f21bc-a6d1-4cf9-9c7b-6fdfaf5fa1e1</testCaseGuid>
+</TestCaseEntity>

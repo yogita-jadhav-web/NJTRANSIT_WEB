@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_Add_FARE_Pay_Card_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a35c6cf-22b7-454a-b549-beba3d3025d6</testCaseGuid>
+</TestCaseEntity>

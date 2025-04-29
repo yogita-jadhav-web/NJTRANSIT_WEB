@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Report_Lost_Stolen_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abb0fe4f-61d3-40fe-b290-3409d18d0463</testCaseGuid>
+</TestCaseEntity>

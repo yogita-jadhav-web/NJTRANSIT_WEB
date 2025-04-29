@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109180_To_verify_user_is_able_to_unregister_fare_pay_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe5c395c-d685-4f3e-a281-81f36889eef8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147088_To verify_that_user_is_able_to_subscribe_bus_monthly_AutoReload_Tickets_using_Existing_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b28ab02e-078f-4396-8cb8-4f94889fcc10</testCaseGuid>
+</TestCaseEntity>

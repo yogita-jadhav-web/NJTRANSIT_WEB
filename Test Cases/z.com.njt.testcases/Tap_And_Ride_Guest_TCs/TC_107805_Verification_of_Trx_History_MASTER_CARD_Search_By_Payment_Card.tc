@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107805_Verification_of_Trx_History_MASTER_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98615df4-881f-44f0-a480-c52993d046d4</testCaseGuid>
+</TestCaseEntity>

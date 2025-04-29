@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147094_To verify_that_user_is_able_to_subscribe_NLR_monthly_AutoReload_Tickets_using_Existing_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>095ded6b-4554-48ed-a503-a9a5dbdf8a52</testCaseGuid>
+</TestCaseEntity>

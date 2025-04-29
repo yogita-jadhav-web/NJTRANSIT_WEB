@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Fare_pay_card_no_is_too_short</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1472b152-8dca-4729-a648-a5cc30f99d57</testCaseGuid>
+</TestCaseEntity>

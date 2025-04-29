@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for HBLR Monthly(Current Month) within the same day of ticket purchase_2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab7a4f2d-e2eb-451c-81b6-bff586184558</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify, on clicking Refund Completed Link, Refund details pop up is displayed-8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>262d1744-7358-484b-b1dd-bfaab585b5bf</testCaseGuid>
+</TestCaseEntity>

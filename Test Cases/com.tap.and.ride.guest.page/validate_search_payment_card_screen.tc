@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_search_payment_card_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f10058d-ff1f-4ec6-8d5a-c65f8da0fa72</testCaseGuid>
+</TestCaseEntity>

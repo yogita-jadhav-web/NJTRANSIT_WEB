@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109300_To_Verify_that_user_is_able_to_purchase_Bus_10Trip_while_adding_new_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dae3f95b-b916-4941-acfa-0bd1437640be</testCaseGuid>
+</TestCaseEntity>

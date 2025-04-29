@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67907_To_verify_user_profile_Rider_classification_does_not_have_any_impact_on_the_fare_card_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31aac093-6831-4d56-b136-b35ba5073501</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108412_To_verify_if_user_is_able_to_login_after_admin_unlock_the_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78d9dba1-2741-4c02-a309-19a06d1610f6</testCaseGuid>
+</TestCaseEntity>

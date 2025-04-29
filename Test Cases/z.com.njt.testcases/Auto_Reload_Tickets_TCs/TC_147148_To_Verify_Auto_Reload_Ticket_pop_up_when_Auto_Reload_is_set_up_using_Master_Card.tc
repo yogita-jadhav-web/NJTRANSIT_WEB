@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147148_To_Verify_Auto_Reload_Ticket_pop_up_when_Auto_Reload_is_set_up_using_Master_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>100756f1-548d-4e1a-a090-3c8ee3af9ba3</testCaseGuid>
+</TestCaseEntity>

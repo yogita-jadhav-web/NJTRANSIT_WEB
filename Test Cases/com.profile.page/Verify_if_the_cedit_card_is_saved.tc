@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_if_the_cedit_card_is_saved</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70f705ea-dfed-48d9-ace9-3da08a31a721</testCaseGuid>
+</TestCaseEntity>

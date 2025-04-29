@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109254_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_with_existing_Master_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c44895a8-c209-4b20-908a-62e369ed39e6</testCaseGuid>
+</TestCaseEntity>

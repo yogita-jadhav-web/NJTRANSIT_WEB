@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147147_To_Verify_Auto_Reload_Ticket_pop_up_when_Auto_Reload_is_set_up_using_VISA_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06547fbd-ce84-4bf0-8c2e-a11a221724d1</testCaseGuid>
+</TestCaseEntity>

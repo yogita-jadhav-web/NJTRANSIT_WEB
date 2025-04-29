@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Fare_pay_dashboard_Auto_Reload</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aef72c8b-8ccd-4e79-8d24-0e714152e792</testCaseGuid>
+</TestCaseEntity>

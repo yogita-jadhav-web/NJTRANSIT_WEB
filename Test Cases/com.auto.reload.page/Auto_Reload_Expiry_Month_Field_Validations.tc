@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auto_Reload_Expiry_Month_Field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cedf6e37-a95b-4a10-af72-73e7c563727f</testCaseGuid>
+</TestCaseEntity>

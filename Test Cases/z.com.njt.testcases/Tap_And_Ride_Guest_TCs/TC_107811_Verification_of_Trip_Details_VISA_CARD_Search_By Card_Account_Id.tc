@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107811_Verification_of_Trip_Details_VISA_CARD_Search_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>824e232e-de6a-4f8b-8888-96392f6f711e</testCaseGuid>
+</TestCaseEntity>

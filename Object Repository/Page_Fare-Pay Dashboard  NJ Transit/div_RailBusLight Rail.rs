@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RailBusLight Rail</name>
+   <tag></tag>
+   <elementGuidId>5c0ce321-dcd2-407c-90de-cbed3d01a2b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTabs-flexContainer.MuiTabs-centered.css-rgrd3l</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transitTypes']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Transit type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04227ba6-c3b9-492c-8576-b71d2ece444d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Transit type</value>
+      <webElementGuid>3d31c96a-9cfc-4fdb-96cc-fdd4596fe1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTabs-flexContainer MuiTabs-centered css-rgrd3l</value>
+      <webElementGuid>3b9921d1-e7e7-48b8-ad67-e3ac1345e7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tablist</value>
+      <webElementGuid>e23ca73a-2c78-435a-8b38-e8e71d5a89fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RailBusLight Rail</value>
+      <webElementGuid>94bd6690-143e-4884-b173-482ea8e05fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transitTypes&quot;)/div[@class=&quot;MuiTabs-scroller MuiTabs-fixed css-18jpbi7&quot;]/div[@class=&quot;MuiTabs-flexContainer MuiTabs-centered css-rgrd3l&quot;]</value>
+      <webElementGuid>01c4586c-437a-462c-966d-a9555872daba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transitTypes']/div/div</value>
+      <webElementGuid>eb29159d-6536-468a-a1e9-701720f81436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Tickets'])[1]/following::div[5]</value>
+      <webElementGuid>35bd3dfd-b928-4d0f-a7b8-c243019bb4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::div[15]</value>
+      <webElementGuid>56613467-c734-423c-8103-7a48dd7a4342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>955042b9-287b-4a7b-9a51-512b21142a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RailBusLight Rail' or . = 'RailBusLight Rail')]</value>
+      <webElementGuid>b7cd4ee8-3bb5-41fa-aaba-9c5e913db486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

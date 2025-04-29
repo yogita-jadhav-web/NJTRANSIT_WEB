@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147087_To verify_that_user_is_able_to_subscribe_bus_monthly_AutoReload_Tickets_using_Existing_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fabbb64-2f7e-479d-b895-d4dc693007fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108389_To_verify_user_login_along_with_the_activation_of_the_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcdd7dc5-3dc9-434e-b4a9-794cff6a2202</testCaseGuid>
+</TestCaseEntity>

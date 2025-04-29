@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>109401_To_verify_that user_is_able to view_the_transaction_history_of_the_lost_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>599945ba-12ca-4919-85cf-1269a896f5d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147140_To_Verify_that_user_is_able_to_subscribe_Riverline_monthly_AutoReload_Tickets_using_New_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53254d58-64a4-40ca-98e0-3157b33faf7f</testCaseGuid>
+</TestCaseEntity>

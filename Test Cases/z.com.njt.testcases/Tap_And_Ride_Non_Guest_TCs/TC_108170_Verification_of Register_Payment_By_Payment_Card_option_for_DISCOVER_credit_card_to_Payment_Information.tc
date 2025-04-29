@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108170_Verification_of Register_Payment_By_Payment_Card_option_for_DISCOVER_credit_card_to_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2d73954-8858-4331-903d-1fdae0ce8d03</testCaseGuid>
+</TestCaseEntity>

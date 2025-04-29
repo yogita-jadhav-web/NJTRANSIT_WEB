@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108279_Verification_of_ Tap_and_Ride_card_Unregister</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c8f80b0-8075-4517-a649-dbfac31211fe</testCaseGuid>
+</TestCaseEntity>

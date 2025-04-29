@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC__Verification_of_Add_Value_field_when_user_enters_500_in_the_amount_test_field_when_card_has_0_balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a902c7a-fd6e-4acb-bd99-667e2ecbf965</testCaseGuid>
+</TestCaseEntity>

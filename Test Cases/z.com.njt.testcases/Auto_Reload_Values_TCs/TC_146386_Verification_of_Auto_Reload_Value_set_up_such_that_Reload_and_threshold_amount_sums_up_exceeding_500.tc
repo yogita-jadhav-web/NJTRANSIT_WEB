@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146386_Verification_of_Auto_Reload_Value_set_up_such_that_Reload_and_threshold_amount_sums_up_exceeding_500</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3bb26c31-6fa5-41b5-b9f2-59b261f5ec43</testCaseGuid>
+</TestCaseEntity>

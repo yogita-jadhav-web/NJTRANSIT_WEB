@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Account_Id_is_too_short</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e12d6eb5-06da-41f1-80cc-cce0585ca457</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108273_Verification_of_the_Web_Trx_date_formate_In_Trx_History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>514e4c91-1865-4500-a4d7-c390be868001</testCaseGuid>
+</TestCaseEntity>

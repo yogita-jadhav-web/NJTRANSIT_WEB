@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_the_rider_classification_option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb0039ce-9656-4518-bf31-8c9bfa7afed9</testCaseGuid>
+</TestCaseEntity>

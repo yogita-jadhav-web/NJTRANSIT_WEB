@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Value_Using_Existing_CUP_Credit_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abfb2c6e-1313-4eee-b800-fee68876862a</testCaseGuid>
+</TestCaseEntity>

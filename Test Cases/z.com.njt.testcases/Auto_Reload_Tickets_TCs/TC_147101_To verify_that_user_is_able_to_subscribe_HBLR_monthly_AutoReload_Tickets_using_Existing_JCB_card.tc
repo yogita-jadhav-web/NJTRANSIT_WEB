@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147101_To verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_Existing_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>816d266f-0d77-49ba-bb25-948440cbe86d</testCaseGuid>
+</TestCaseEntity>

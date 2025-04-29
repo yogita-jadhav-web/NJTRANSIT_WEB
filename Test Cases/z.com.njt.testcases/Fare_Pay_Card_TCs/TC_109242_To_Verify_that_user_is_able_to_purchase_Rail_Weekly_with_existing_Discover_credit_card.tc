@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109242_To_Verify_that_user_is_able_to_purchase_Rail_Weekly_with_existing_Discover_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ffd7872-6353-4ed9-8aab-a859cdafff42</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146380_Verification_of_FP_card_Dashboard_for_Auto_reload_Card_value_and_Tickets_set_up_combinations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6fda878-1781-443e-a834-cec4c7bfaeb0</testCaseGuid>
+</TestCaseEntity>

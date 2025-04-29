@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_tool_tip_for_rider_classification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd1b3e91-5751-4557-adfd-030c28d7fb5d</testCaseGuid>
+</TestCaseEntity>

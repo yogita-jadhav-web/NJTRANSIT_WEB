@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_Autoreload_For_Card_JCB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd30e623-99f9-431d-afc2-b958d4a3081b</testCaseGuid>
+</TestCaseEntity>

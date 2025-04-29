@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Zip_code_is_required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d4c4e04-f0a7-4b31-a412-dac7a3578b1c</testCaseGuid>
+</TestCaseEntity>

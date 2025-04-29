@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_refund_amount_from_ui</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e1984d0-b721-48a4-ab18-b7019d2a3d7a</testCaseGuid>
+</TestCaseEntity>

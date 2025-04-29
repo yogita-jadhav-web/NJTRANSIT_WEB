@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147136_To_Verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_New_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc7e543f-4251-4fa2-a753-2e38c9cb7839</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146350_Verification_of_FP_card_Dashboard_for_Auto_Reload_Card_Value_info_after_Aut_ Reload_Cancellaton</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>733a148c-0e12-463c-b195-804afabf7857</testCaseGuid>
+</TestCaseEntity>

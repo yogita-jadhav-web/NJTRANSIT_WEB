@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134793_To_verfiy_the_User_Profile_NLR_Under_Ground_Fare_default_value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a24090b-e33b-4ccb-952c-3adff8a69668</testCaseGuid>
+</TestCaseEntity>

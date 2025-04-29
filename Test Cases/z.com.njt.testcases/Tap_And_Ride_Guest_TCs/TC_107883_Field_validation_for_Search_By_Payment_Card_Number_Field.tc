@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107883_Field_validation_for_Search_By_Payment_Card_Number_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdf08803-828d-4f4f-96d9-75f5fef6f481</testCaseGuid>
+</TestCaseEntity>

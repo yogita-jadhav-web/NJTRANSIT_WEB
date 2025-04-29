@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147098_To verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_Existing_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e22ab7ab-721e-440a-a172-12ecad1edd24</testCaseGuid>
+</TestCaseEntity>

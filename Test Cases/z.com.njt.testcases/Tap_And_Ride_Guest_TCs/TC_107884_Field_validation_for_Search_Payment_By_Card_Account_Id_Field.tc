@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107884_Field_validation_for_Search_Payment_By_Card_Account_Id_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b64197eb-181a-4e92-a2df-d79c5b6cbbb7</testCaseGuid>
+</TestCaseEntity>

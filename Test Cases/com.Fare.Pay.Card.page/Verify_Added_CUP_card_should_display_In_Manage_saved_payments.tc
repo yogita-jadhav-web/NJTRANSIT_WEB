@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Added_CUP_card_should_display_In_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ebd0eed-8960-4ed8-8884-e9736a762b99</testCaseGuid>
+</TestCaseEntity>

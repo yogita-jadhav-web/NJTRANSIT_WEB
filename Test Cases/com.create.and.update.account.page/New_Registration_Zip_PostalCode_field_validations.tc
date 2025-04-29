@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Zip_PostalCode_field_validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5aaf1302-6e71-42d7-abbc-b3a795ce67d4</testCaseGuid>
+</TestCaseEntity>

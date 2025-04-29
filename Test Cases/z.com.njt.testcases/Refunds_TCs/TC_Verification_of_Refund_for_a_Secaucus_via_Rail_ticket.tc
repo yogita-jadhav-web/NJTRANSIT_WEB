@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Refund_for_a_Secaucus_via_Rail_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ee09058-7dba-4a66-92aa-bd0408734fec</testCaseGuid>
+</TestCaseEntity>

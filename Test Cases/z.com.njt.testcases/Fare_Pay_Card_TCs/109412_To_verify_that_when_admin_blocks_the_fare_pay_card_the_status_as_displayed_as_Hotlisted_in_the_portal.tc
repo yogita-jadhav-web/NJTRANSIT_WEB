@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>109412_To_verify_that_when_admin_blocks_the_fare_pay_card_the_status_as_displayed_as_Hotlisted_in_the_portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2293f02-7558-4ed2-8d8a-b154f8dde20e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108371_Launch_NJT_Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8a0167d-de8b-4f58-b118-1c96c9ce4fa7</testCaseGuid>
+</TestCaseEntity>

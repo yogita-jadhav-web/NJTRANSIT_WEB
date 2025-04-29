@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108167_Verification_of Register_Payment_By_Payment_Card_option_for_VISA_credit_card_to_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b0bb4c4-ba50-4b18-8bba-58ecb5c7ec6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Fare_Pay_card_registered_Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b893ba38-9e48-4330-b521-6d98c4dbde88</testCaseGuid>
+</TestCaseEntity>

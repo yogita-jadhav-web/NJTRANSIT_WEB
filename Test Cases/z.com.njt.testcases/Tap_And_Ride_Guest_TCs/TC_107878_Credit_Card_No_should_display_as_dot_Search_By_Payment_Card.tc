@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107878_Credit_Card_No_should_display_as_dot_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89ff8fa3-c852-4216-abb6-46a9425a1e34</testCaseGuid>
+</TestCaseEntity>

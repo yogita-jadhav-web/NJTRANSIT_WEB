@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Card_Account_Id_field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef9b731e-f0e8-40ec-b6ad-89e94317f358</testCaseGuid>
+</TestCaseEntity>

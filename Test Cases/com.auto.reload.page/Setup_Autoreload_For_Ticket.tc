@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_Autoreload_For_Ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>379fb7b9-328d-40b5-b070-4bbd91f3f2f5</testCaseGuid>
+</TestCaseEntity>

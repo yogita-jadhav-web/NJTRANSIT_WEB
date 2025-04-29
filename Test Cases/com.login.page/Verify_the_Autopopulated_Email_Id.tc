@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_the_Autopopulated_Email_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56394a4b-6e03-4d6c-ba71-af6025bd492c</testCaseGuid>
+</TestCaseEntity>

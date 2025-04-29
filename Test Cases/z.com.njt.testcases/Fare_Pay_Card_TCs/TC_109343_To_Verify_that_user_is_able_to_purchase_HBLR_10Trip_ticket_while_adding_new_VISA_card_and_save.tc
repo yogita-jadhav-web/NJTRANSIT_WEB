@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109343_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_while_adding_new_VISA_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14bdb666-0ba8-4bb7-9853-bd08546f6bf4</testCaseGuid>
+</TestCaseEntity>

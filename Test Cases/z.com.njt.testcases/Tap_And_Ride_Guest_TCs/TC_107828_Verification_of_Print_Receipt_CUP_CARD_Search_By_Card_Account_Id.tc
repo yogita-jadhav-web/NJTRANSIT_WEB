@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107828_Verification_of_Print_Receipt_CUP_CARD_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf2cf779-489e-480f-ab73-878c10a4a99f</testCaseGuid>
+</TestCaseEntity>

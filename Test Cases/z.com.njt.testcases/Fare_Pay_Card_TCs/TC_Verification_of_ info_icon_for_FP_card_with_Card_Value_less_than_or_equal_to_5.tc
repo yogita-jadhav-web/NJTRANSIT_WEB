@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_ info_icon_for_FP_card_with_Card_Value_less_than_or_equal_to_5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9f5cc56-3721-4ae8-93ae-88abaf133395</testCaseGuid>
+</TestCaseEntity>

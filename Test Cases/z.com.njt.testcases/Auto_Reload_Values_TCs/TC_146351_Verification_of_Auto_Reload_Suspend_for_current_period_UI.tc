@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146351_Verification_of_Auto_Reload_Suspend_for_current_period_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8ea5fcb-79f0-4c13-a06b-7a89d451fa86</testCaseGuid>
+</TestCaseEntity>

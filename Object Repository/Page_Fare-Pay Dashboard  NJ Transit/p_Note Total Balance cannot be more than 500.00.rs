@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Note Total Balance cannot be more than 500.00</name>
+   <tag></tag>
+   <elementGuidId>3f5d3bc0-b384-48ba-bd4a-21f62ec07f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='totalBalNote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#totalBalNote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Note: Total Balance cannot be more than $500.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>28f1d02c-54ec-4be4-9dea-d840ac12dca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-pgqh0t</value>
+      <webElementGuid>e2a48bb0-01e5-4d56-a606-55c9b85d6833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>totalBalNote</value>
+      <webElementGuid>4cc18f15-2e76-4fb1-b6b7-bae28243a033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Note: Total Balance cannot be more than $500.00</value>
+      <webElementGuid>1b3b5b8c-27b5-4028-862b-72a235461bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;totalBalNote&quot;)</value>
+      <webElementGuid>e50b70c8-6366-47d9-bcc4-2127bf533274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='totalBalNote']</value>
+      <webElementGuid>3f2a8e0f-4c62-41fa-8134-cd270e900525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFundsModal']/div[3]/div/div[2]/p</value>
+      <webElementGuid>73c8cac8-ebe8-4118-8f08-4d66db2cd6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$50'])[1]/following::p[1]</value>
+      <webElementGuid>d6eba2f1-6483-47ba-ac3d-a47b47fb2aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Methods'])[1]/preceding::p[1]</value>
+      <webElementGuid>286dd876-4710-41d7-a519-bd89c301b8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Note: Total Balance cannot be more than $500.00']/parent::*</value>
+      <webElementGuid>489b231c-18e1-4198-968d-1733014a5839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>1a2bfa63-597a-45d4-b392-b937efcf21cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'totalBalNote' and (text() = 'Note: Total Balance cannot be more than $500.00' or . = 'Note: Total Balance cannot be more than $500.00')]</value>
+      <webElementGuid>0b074236-bbca-4990-b945-324813b0fb7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

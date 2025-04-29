@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108226_Verification_of_Trip_Details_DISCOVER_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01328a10-1a62-44e8-9fb1-9f90564f6e93</testCaseGuid>
+</TestCaseEntity>

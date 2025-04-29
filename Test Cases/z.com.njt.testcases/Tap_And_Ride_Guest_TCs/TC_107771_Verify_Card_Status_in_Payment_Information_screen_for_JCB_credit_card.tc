@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107771_Verify_Card_Status_in_Payment_Information_screen_for_JCB_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4db8a64c-71c7-4f44-bf33-b47ac927fa1b</testCaseGuid>
+</TestCaseEntity>

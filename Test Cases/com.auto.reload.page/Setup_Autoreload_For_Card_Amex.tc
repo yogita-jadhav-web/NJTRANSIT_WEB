@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_Autoreload_For_Card_Amex</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b915035-7188-4bb7-afc3-2b63c2c73b87</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146335_Verification_of_Auto_Reload_setup_with_existing_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2a80eea-1d2e-4276-879b-958520ccc771</testCaseGuid>
+</TestCaseEntity>

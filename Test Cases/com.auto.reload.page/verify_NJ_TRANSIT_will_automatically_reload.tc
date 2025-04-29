@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_NJ_TRANSIT_will_automatically_reload</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56882af0-6d3f-48a8-80aa-c9a8d493b31b</testCaseGuid>
+</TestCaseEntity>

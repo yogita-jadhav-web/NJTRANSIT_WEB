@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Guest_And_Tap_Ride</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe6efbdb-9768-4a7f-b172-59ba0c1f96ef</testCaseGuid>
+</TestCaseEntity>

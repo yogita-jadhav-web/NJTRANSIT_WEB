@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146341_Verification_of_auto_reload_setup_using_invalid_cvv_for_a_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72439042-5926-452e-907f-89bb4a88b96e</testCaseGuid>
+</TestCaseEntity>

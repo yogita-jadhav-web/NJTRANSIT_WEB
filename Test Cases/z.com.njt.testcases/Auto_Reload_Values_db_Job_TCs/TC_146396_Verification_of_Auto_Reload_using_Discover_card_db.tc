@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146396_Verification_of_Auto_Reload_using_Discover_card_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b099768c-137c-465e-8d15-e2afc5a9d20b</testCaseGuid>
+</TestCaseEntity>

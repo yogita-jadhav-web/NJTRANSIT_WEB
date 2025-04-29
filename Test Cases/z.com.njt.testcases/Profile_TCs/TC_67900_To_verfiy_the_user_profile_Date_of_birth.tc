@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67900_To_verfiy_the_user_profile_Date_of_birth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8c46367-ab48-4f58-91a1-d09dfd048b25</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_FP_Card_details_Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04c3c0b3-d034-4a03-ae9c-a0036146bc73</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>adbb85f7-f416-440d-9ba9-16e42600a3fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6143aed-888b-444b-9ff8-eba931f37b48</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>adbb85f7-f416-440d-9ba9-16e42600a3fa</id>
+      <masked>false</masked>
+      <name>FP_Card_No</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6143aed-888b-444b-9ff8-eba931f37b48</id>
+      <masked>false</masked>
+      <name>FP_Pin</name>
+   </variable>
+</TestCaseEntity>

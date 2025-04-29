@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108203_Verification_of_Register_Payment_By_Card_Account_Id_option_for_CUP_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bba2029-deb6-4707-948e-c7b58a42916d</testCaseGuid>
+</TestCaseEntity>

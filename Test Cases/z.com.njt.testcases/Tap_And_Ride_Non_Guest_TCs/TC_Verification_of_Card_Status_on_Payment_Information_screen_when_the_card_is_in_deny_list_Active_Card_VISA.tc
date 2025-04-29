@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Card_Status_on_Payment_Information_screen_when_the_card_is_in_deny_list_Active_Card_VISA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7ff2a6b-cc87-4fa7-8522-22b0e7c876d1</testCaseGuid>
+</TestCaseEntity>

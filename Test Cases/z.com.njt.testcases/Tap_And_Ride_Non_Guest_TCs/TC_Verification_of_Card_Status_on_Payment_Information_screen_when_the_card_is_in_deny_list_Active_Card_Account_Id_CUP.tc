@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Card_Status_on_Payment_Information_screen_when_the_card_is_in_deny_list_Active_Card_Account_Id_CUP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb795d80-7bc7-4a68-8600-ee4d313db5b9</testCaseGuid>
+</TestCaseEntity>

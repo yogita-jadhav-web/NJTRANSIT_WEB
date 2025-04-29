@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Confirm_Email_field_validations_entering_same_email_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c3be53e-e0e9-4e60-8b1c-4605b8097331</testCaseGuid>
+</TestCaseEntity>

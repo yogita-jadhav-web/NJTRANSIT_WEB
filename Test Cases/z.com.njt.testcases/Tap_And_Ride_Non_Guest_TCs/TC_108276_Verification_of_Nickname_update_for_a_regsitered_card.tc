@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108276_Verification_of_Nickname_update_for_a_regsitered_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ce2a760-957e-42d0-9cec-0c1a60f8cda5</testCaseGuid>
+</TestCaseEntity>

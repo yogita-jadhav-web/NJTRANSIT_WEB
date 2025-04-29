@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Plan_should_be_removed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>572fb6dd-6a90-4c5f-a2dd-dc56ada2c2cf</testCaseGuid>
+</TestCaseEntity>

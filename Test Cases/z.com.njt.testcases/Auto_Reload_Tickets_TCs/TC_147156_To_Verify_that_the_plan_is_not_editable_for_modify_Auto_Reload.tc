@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147156_To_Verify_that_the_plan_is_not_editable_for_modify_Auto_Reload</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1749a53c-2bc6-49ce-ab48-2d637ad18176</testCaseGuid>
+</TestCaseEntity>

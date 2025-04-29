@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View MailboxGo</name>
+   <tag></tag>
+   <elementGuidId>47608692-5ed1-42e5-9c2c-a4533a550396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;View Mailbox&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49da4096-7737-48b1-a5c7-f131661cc88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e507c7c0-edc4-43a6-ab66-a1092257a601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4 flex w-full flex-none transform cursor-pointer items-center justify-center rounded-md border-0 bg-rose-500 p-2 px-4 text-stone-50 transition duration-300 ease-in-out hover:bg-gradient-to-r hover:from-pink-400 hover:to-rose-400 focus-visible:bg-gradient-to-r focus-visible:from-pink-400 focus-visible:to-rose-400 focus-visible:outline-rose-600 active:from-pink-500 active:to-rose-500 dark:bg-rose-700 dark:hover:from-pink-600 dark:hover:to-rose-600 dark:focus-visible:from-pink-600 dark:focus-visible:to-rose-600 dark:active:from-pink-700 dark:active:to-rose-700 md:mt-0 md:w-auto lg:ml-4</value>
+      <webElementGuid>260865b1-c113-4cc3-932a-e7a649ad4da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View MailboxGo</value>
+      <webElementGuid>d9043115-de5f-42da-86c3-101e9abdf1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;flex flex-wrap items-center md:container md:mx-auto md:flex-nowrap md:px-4 md:py-2 lg:px-8&quot;]/div[@class=&quot;hidden absolute top-16 z-10 w-full flex-none bg-stone-100 pt-4 pb-16 dark:bg-stone-800 md:relative md:top-auto md:flex md:w-auto md:flex-auto md:items-center md:bg-transparent md:pt-0 md:pb-0 md:pl-4&quot;]/form[@class=&quot;px-8 md:px-0 lg:max-w-[50ch] flex flex-auto flex-wrap md:flex-nowrap&quot;]/button[@class=&quot;mt-4 flex w-full flex-none transform cursor-pointer items-center justify-center rounded-md border-0 bg-rose-500 p-2 px-4 text-stone-50 transition duration-300 ease-in-out hover:bg-gradient-to-r hover:from-pink-400 hover:to-rose-400 focus-visible:bg-gradient-to-r focus-visible:from-pink-400 focus-visible:to-rose-400 focus-visible:outline-rose-600 active:from-pink-500 active:to-rose-500 dark:bg-rose-700 dark:hover:from-pink-600 dark:hover:to-rose-600 dark:focus-visible:from-pink-600 dark:focus-visible:to-rose-600 dark:active:from-pink-700 dark:active:to-rose-700 md:mt-0 md:w-auto lg:ml-4&quot;]</value>
+      <webElementGuid>570b2e6c-3aac-4c61-9fd7-c071b88eb9de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>00d82f0c-42f4-4598-88cd-7abe8a2763bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/div/div[3]/form/button</value>
+      <webElementGuid>faf40366-1712-422a-b528-f44aa44d551b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@ maildrop.cc'])[1]/following::button[1]</value>
+      <webElementGuid>e5d3fba7-e43b-460c-ac4e-92479814b838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[1]</value>
+      <webElementGuid>8d89a97d-08e1-4dbc-9618-ea987b2d5738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e59a4e58-2283-4e6f-a30c-3fbc68386f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'View MailboxGo' or . = 'View MailboxGo')]</value>
+      <webElementGuid>10e31de9-81e8-47fb-9a77-54b018eae5d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

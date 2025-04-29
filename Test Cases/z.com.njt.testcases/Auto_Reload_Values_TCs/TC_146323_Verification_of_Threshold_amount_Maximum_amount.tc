@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146323_Verification_of_Threshold_amount_Maximum_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c65e31dc-6dfc-40db-8f8e-ce1c5bc6ea7b</testCaseGuid>
+</TestCaseEntity>

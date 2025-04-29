@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Fare_pay_dashboard_Auto_Reload_Card_values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cf3a74f-56f1-4a0d-b2ea-8de6da080757</testCaseGuid>
+</TestCaseEntity>

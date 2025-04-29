@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a Hoboken-NWK Via Rail ticket-22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db9659cf-2764-475c-81f6-1cf961b5c62b</testCaseGuid>
+</TestCaseEntity>

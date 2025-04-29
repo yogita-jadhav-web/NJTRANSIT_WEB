@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109291_To_Verify_that_user_is_able_to_purchase_Bus_10Trip_while_adding_new_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>399c5e76-28ff-41e3-9f95-9d2b06e1cc3b</testCaseGuid>
+</TestCaseEntity>

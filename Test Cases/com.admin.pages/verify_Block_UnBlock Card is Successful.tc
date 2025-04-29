@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Block_UnBlock Card is Successful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d5b2898-dd90-4e36-aabf-952d004bdc53</testCaseGuid>
+</TestCaseEntity>

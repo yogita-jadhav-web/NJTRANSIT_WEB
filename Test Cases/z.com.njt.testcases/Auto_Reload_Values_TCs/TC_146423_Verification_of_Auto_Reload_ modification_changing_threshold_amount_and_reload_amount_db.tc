@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146423_Verification_of_Auto_Reload_ modification_changing_threshold_amount_and_reload_amount_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>239b56b8-5f03-4b36-bdeb-329b237bfde1</testCaseGuid>
+</TestCaseEntity>

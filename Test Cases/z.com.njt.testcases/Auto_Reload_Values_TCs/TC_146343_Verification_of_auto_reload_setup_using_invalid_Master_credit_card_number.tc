@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146343_Verification_of_auto_reload_setup_using_invalid_Master_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6d89819-648b-49aa-96a2-7921a952202d</testCaseGuid>
+</TestCaseEntity>

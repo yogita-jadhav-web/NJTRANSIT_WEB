@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147120_To_Verify_Ticket_subscription_For_Rail_Monthly_using_New_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7da3825e-c35a-40fa-861a-5fedbfcea5f8</testCaseGuid>
+</TestCaseEntity>

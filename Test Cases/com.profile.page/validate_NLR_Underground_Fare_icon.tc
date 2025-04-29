@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_NLR_Underground_Fare_icon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34326c93-6f16-4cee-a866-12f9d5b51af1</testCaseGuid>
+</TestCaseEntity>

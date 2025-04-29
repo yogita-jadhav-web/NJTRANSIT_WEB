@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for Riverline Monthly (Future or Next month) -6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab5c9894-d8f9-4c6c-aebf-4f67a55bcc3d</testCaseGuid>
+</TestCaseEntity>

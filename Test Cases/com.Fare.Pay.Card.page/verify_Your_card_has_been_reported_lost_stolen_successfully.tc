@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Your_card_has_been_reported_lost_stolen_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2daebd2-6cc2-4b11-8323-25eb422fab5f</testCaseGuid>
+</TestCaseEntity>

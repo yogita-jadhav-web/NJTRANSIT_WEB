@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>109406_To_verify_that_user_is_able_to_view_the_transaction_history_of_the_hotlited_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0211cb4-7d12-4fad-9eaa-be3b406848c8</testCaseGuid>
+</TestCaseEntity>

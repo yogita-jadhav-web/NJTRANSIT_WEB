@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146376_Field_Validation_Expiry_Year_in_Auto_Reload_Card_value_Pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ea5814d-8d53-4f41-8cf7-21e1ad4e6ac2</testCaseGuid>
+</TestCaseEntity>

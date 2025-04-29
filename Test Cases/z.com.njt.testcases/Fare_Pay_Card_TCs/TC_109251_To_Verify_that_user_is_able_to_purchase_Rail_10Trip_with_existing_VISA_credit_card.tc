@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109251_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_with_existing_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ee0302b-e1dd-4e68-a324-2f04b989adf2</testCaseGuid>
+</TestCaseEntity>

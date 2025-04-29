@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Last Name is too short</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbbb4102-c7ba-4a20-9cf5-a4bd56e2084b</testCaseGuid>
+</TestCaseEntity>

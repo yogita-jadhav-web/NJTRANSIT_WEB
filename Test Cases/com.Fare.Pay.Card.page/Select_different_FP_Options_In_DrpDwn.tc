@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_different_FP_Options_In_DrpDwn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07280f2f-9cc8-40c9-86fd-ad02dedba288</testCaseGuid>
+</TestCaseEntity>

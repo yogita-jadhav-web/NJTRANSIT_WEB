@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107845_Verification_of_Copy_right_and_app_version</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9b5c505-bfca-4c36-b2ab-616ac6935ff9</testCaseGuid>
+</TestCaseEntity>

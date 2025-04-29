@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109367_To_Verify_that_user_is_able_to_purchase_Riverline_monthly_ticket_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3b33460-9273-4dff-bc69-5cd9e7029b11</testCaseGuid>
+</TestCaseEntity>

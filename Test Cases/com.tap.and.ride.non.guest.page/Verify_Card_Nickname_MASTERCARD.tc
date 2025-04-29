@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Nickname_MASTERCARD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d25a761c-e3ec-4eae-b96c-ed8cf1cebdb8</testCaseGuid>
+</TestCaseEntity>

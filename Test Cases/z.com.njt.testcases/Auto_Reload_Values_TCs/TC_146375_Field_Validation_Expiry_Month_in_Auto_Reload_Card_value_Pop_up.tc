@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146375_Field_Validation_Expiry_Month_in_Auto_Reload_Card_value_Pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcf28263-0795-4146-a424-85208fd15db4</testCaseGuid>
+</TestCaseEntity>

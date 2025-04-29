@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109351_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_while_adding_new_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd30a778-ff12-4515-8e3b-9cd8b524058f</testCaseGuid>
+</TestCaseEntity>

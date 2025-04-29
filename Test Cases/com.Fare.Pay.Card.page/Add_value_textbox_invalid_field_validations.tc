@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_value_textbox_invalid_field_validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>016620f8-299c-4343-8689-4b1188d2a96d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67898_To_verfiy_the_user_profile_ Country_drop_down</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>649a7bf5-3344-4cea-84cc-e0ec7b13654e</testCaseGuid>
+</TestCaseEntity>

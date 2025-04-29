@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Card_Status_on_Payment_Information_screen_when_the_card_is_in_Merchant_deny_list_or_NJT_Deny_list_Active_Card_Payment_Card_VISA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da1e7465-4b3a-4c58-8ad5-94cf2679f5ba</testCaseGuid>
+</TestCaseEntity>

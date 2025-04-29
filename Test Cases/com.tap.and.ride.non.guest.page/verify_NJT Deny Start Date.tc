@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_NJT Deny Start Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79cce1c9-a7bd-4e7f-8ca9-f6a0fd74fb06</testCaseGuid>
+</TestCaseEntity>

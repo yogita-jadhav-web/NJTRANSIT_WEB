@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_You can update Rider Classification only once</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc32587e-b832-4845-a147-9e0fb9eadbdf</testCaseGuid>
+</TestCaseEntity>

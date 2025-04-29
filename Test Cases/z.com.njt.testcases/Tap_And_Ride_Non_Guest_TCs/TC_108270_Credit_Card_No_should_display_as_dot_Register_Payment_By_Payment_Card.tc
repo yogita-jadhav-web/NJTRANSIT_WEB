@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108270_Credit_Card_No_should_display_as_dot_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>652fa6fb-9c23-44e1-ad66-02046c1e78fb</testCaseGuid>
+</TestCaseEntity>

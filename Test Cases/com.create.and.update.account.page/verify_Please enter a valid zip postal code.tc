@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Please enter a valid zip postal code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d771208f-9724-43f5-812e-f0b65679aafe</testCaseGuid>
+</TestCaseEntity>

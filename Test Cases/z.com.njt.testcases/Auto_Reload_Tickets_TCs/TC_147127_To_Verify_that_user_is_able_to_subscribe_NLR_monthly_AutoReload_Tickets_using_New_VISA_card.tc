@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147127_To_Verify_that_user_is_able_to_subscribe_NLR_monthly_AutoReload_Tickets_using_New_VISA_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e18435c8-49b6-407d-a2d5-64d3990ed779</testCaseGuid>
+</TestCaseEntity>

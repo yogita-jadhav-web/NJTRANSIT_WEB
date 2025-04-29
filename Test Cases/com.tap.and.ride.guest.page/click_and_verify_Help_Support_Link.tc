@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_and_verify_Help_Support_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1e3f5eb-0563-4b8f-8954-05b515cb25c1</testCaseGuid>
+</TestCaseEntity>

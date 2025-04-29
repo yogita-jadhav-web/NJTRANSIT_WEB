@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107810_Verification_of_Pagination_in_Trx_History_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>330a0de5-a094-47b2-ab19-1c49b6516a31</testCaseGuid>
+</TestCaseEntity>

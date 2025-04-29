@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Into_Admin_portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16f67e3e-ab93-4882-a6b7-e84b6f427a8c</testCaseGuid>
+</TestCaseEntity>

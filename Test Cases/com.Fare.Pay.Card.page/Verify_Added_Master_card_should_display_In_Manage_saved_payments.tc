@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Added_Master_card_should_display_In_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff60ab84-4d84-4a12-a74d-a78fef059e4a</testCaseGuid>
+</TestCaseEntity>

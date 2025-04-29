@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109240_To_Verify_that_user_is_able_to_purchase_Rail_Weekly_while_adding_new_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b7a2560-3d8c-475a-9115-73e3e3ad0218</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67895_To_verify_the_User_Profile_Last_name_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f40b26c8-a0a2-4480-956b-d92c45afbcfc</testCaseGuid>
+</TestCaseEntity>

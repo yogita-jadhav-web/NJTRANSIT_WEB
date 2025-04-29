@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109296_To_Verify_that_user_is_able_to_purchase_Bus_10Trip_with_existing_Discover_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e186cffb-2073-40a4-84d6-6e96b5358ba3</testCaseGuid>
+</TestCaseEntity>

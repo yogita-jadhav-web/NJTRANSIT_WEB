@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Added_Visa_card_should_display_In_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6f1ee43-6aa0-4436-b69e-bf632fde4899</testCaseGuid>
+</TestCaseEntity>

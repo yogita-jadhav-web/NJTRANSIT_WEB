@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Value_Card_Number_field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c757e99-7553-4ca1-811c-e23b6e1e6296</testCaseGuid>
+</TestCaseEntity>

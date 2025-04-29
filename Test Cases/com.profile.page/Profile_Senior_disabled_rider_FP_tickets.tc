@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile_Senior_disabled_rider_FP_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02356777-fd93-4409-b40e-a44864d643c8</testCaseGuid>
+</TestCaseEntity>

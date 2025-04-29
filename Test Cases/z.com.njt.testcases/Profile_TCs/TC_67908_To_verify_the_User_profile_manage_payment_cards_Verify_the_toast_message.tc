@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67908_To_verify_the_User_profile_manage_payment_cards_Verify_the_toast_message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb3fa4a0-37d9-4239-ac64-19ca8d0d9a0b</testCaseGuid>
+</TestCaseEntity>

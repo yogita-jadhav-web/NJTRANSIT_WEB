@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109285_To_Verify_that_user_is_able_to_purchase_Bus_monthly_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95c3531d-f4b9-4471-839f-68a2c9b5ed94</testCaseGuid>
+</TestCaseEntity>

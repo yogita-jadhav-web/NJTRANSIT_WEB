@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109315_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_while_adding_new_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17e23e98-59f3-4a70-9340-44c98a4bf98c</testCaseGuid>
+</TestCaseEntity>

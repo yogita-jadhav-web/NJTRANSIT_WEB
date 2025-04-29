@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108228_Verification_of_Trip_Details_CUP_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c565762-86df-4cb5-bc4f-b47e15cd5198</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134802_To_verfiy_the_User_Profile_Rider_classification_update_only_once</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98584022-3e18-4e1f-8f45-e3318900a262</testCaseGuid>
+</TestCaseEntity>

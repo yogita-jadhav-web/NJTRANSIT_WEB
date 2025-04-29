@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108384_To_verfiy_the_security_code_does_not_accept_old_security_codes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bfb007b-ec7d-43ad-9f22-65b31cc0a828</testCaseGuid>
+</TestCaseEntity>

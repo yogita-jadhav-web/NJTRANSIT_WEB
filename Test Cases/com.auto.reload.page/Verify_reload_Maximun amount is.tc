@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_reload_Maximun amount is</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59b53b57-0c40-46fe-95e6-026062a18361</testCaseGuid>
+</TestCaseEntity>

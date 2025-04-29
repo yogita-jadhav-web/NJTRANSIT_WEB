@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108260_Verification_of_Start_and_End_Date_for_Trx_Histroy_Start_date_after_End_Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdee48bc-ab1d-44eb-a1d4-b1d4440589b3</testCaseGuid>
+</TestCaseEntity>

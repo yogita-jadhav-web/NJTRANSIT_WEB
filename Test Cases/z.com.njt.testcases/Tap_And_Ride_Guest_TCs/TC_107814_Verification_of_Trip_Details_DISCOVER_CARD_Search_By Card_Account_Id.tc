@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107814_Verification_of_Trip_Details_DISCOVER_CARD_Search_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31dbf8b3-2f3d-4ac2-ba1c-9adfba0cc16f</testCaseGuid>
+</TestCaseEntity>

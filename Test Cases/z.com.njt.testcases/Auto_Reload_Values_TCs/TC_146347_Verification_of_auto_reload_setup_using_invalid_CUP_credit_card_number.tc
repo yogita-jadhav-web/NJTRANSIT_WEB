@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146347_Verification_of_auto_reload_setup_using_invalid_CUP_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05dc1ab4-5367-4d6e-a0b9-71dbbd81fdd9</testCaseGuid>
+</TestCaseEntity>

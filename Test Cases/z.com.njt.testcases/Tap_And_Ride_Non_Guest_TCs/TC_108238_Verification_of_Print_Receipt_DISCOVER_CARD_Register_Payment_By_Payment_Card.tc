@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108238_Verification_of_Print_Receipt_DISCOVER_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>624cfafa-a81c-447c-ba4e-d3c8b573a1ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108227_Verification_of_Trip_Details_JCB_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8213353d-ba91-4e44-a5c7-a7426deb634b</testCaseGuid>
+</TestCaseEntity>

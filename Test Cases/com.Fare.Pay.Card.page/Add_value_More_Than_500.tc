@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_value_More_Than_500</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f91dd233-d051-4231-abd6-9ecb2ffdb30d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Maildrp_cc_otp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc7f0de0-ed1c-4365-9732-10b1fc9068a2</testCaseGuid>
+</TestCaseEntity>

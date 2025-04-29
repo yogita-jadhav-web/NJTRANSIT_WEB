@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>purchase_active_monthly_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0064c43d-d8d2-47f9-83c4-c02458bcb340</testCaseGuid>
+</TestCaseEntity>

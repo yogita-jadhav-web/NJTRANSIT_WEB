@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Your_FARE_PAY_card_has_been_registered_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1be69ce8-7556-446f-b80d-d09b202eb313</testCaseGuid>
+</TestCaseEntity>

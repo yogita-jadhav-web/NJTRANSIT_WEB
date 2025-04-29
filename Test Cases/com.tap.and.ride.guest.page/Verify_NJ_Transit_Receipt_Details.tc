@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_NJ_Transit_Receipt_Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92aedab8-616f-42ea-9175-f8a461316dbd</testCaseGuid>
+</TestCaseEntity>

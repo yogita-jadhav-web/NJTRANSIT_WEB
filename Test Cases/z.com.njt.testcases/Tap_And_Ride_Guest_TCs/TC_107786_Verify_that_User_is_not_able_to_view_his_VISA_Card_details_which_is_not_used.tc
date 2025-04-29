@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107786_Verify_that_User_is_not_able_to_view_his_VISA_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32fb0b27-e5fc-4b7a-bf0b-96545cf8424f</testCaseGuid>
+</TestCaseEntity>

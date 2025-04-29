@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_monthly_pass_message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82e0d9b3-d0a7-4c9b-9a97-984282c7f31c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107803_Verification_of_Trx_History_CUP_CARD_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>806710cd-e1d4-492b-a53e-a71ae2a7227e</testCaseGuid>
+</TestCaseEntity>

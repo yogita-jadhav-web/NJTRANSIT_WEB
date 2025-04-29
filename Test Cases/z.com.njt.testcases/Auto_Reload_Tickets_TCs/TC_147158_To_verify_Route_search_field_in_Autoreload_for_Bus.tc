@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147158_To_verify_Route_search_field_in_Autoreload_for_Bus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cef1d70-3e71-4d2b-9c89-4911c209b28e</testCaseGuid>
+</TestCaseEntity>

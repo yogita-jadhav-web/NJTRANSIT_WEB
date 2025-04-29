@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_state_of_Auto_Reload_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>326bf7dd-4ef5-4b83-94a3-c21eb5394d48</testCaseGuid>
+</TestCaseEntity>

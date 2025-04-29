@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Tariff_Type_From_Bus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fd16064-7f3e-470d-805a-ba81152fe43b</testCaseGuid>
+</TestCaseEntity>

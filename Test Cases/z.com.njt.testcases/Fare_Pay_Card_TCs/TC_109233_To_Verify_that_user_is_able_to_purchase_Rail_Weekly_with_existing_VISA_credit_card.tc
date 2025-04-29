@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109233_To_Verify_that_user_is_able_to_purchase_Rail_Weekly_with_existing_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6798f27-b27b-4be8-a0f6-c6a76fa560e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fare_Pay_Card_Number_Field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db57fd25-f81d-4575-933d-d75feae9bd97</testCaseGuid>
+</TestCaseEntity>

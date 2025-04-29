@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67885_To_verfiy_the_New_Registration_Last_name_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec1df765-ec94-4275-869b-f5cf4307ec2e</testCaseGuid>
+</TestCaseEntity>

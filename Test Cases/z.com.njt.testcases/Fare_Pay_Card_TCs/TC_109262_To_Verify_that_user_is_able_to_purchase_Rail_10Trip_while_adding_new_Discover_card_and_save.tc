@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109262_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_while_adding_new_Discover_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a6d8fa1-91bc-43d0-a797-c188d10fd1ad</testCaseGuid>
+</TestCaseEntity>

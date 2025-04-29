@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109283_To_Verify_that_user_is_able_to_purchase_Bus_Monthly_Ticket_while_adding_new_JCB_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa7ee9cc-fbaa-4a64-977c-a343e69f3c1c</testCaseGuid>
+</TestCaseEntity>

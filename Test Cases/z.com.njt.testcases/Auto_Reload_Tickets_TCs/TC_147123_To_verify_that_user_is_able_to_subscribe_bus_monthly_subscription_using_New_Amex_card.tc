@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147123_To_verify_that_user_is_able_to_subscribe_bus_monthly_subscription_using_New_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3d6f2b1-151a-4dfa-8167-e1e86d0bfe1d</testCaseGuid>
+</TestCaseEntity>

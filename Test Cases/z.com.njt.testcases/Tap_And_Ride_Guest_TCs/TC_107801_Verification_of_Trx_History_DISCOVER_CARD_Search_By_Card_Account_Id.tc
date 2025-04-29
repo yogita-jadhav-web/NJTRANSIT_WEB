@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107801_Verification_of_Trx_History_DISCOVER_CARD_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdc77659-6630-485c-a5cf-9d1c8591bb39</testCaseGuid>
+</TestCaseEntity>

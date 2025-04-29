@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Email and Confirm Email must be same</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35fb75d5-c24f-4dec-b8d2-0dd022a6547d</testCaseGuid>
+</TestCaseEntity>

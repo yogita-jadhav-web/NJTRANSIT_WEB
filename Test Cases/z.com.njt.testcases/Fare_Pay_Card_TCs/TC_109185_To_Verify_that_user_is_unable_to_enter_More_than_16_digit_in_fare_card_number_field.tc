@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109185_To_Verify_that_user_is_unable_to_enter_More_than_16_digit_in_fare_card_number_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb6de220-25b8-420e-8a9b-135bac7aa513</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Security_Code_Using_Existing_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd067274-26ea-47c4-a38d-2a6a55c3594b</testCaseGuid>
+</TestCaseEntity>

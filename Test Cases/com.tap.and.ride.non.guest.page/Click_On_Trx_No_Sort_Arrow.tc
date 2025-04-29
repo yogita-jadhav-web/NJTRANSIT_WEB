@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_On_Trx_No_Sort_Arrow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdc0aef6-3298-4a6d-8cdb-84ac2b89a07c</testCaseGuid>
+</TestCaseEntity>

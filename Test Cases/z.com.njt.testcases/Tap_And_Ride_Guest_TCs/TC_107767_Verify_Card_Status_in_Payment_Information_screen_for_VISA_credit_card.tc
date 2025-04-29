@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107767_Verify_Card_Status_in_Payment_Information_screen_for_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4e9c132-b1c4-4366-851b-bf8b9ee02b93</testCaseGuid>
+</TestCaseEntity>

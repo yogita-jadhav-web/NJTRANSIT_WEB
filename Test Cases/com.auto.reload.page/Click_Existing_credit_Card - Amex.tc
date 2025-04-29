@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Existing_credit_Card - Amex</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da02d215-3a50-479a-b13e-e269e171ae4f</testCaseGuid>
+</TestCaseEntity>

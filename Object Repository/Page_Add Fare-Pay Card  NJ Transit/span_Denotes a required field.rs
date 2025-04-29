@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Denotes a required field</name>
+   <tag></tag>
+   <elementGuidId>09d58f14-f812-46f3-bcef-72047f27a63f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'requiredNote' and (text() = '* Denotes a required field' or . = '* Denotes a required field')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='requiredNote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#requiredNote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;* Denotes a required field&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32a86ffb-68aa-4032-913a-7e657a9b05b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-desc css-1amlqwo</value>
+      <webElementGuid>544ad883-eff1-4f99-8144-c69a4e68873a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>requiredNote</value>
+      <webElementGuid>9cf3cd7b-2494-47bc-b46e-65b03f4f88b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Denotes a required field</value>
+      <webElementGuid>96230e90-a766-4bc2-a69f-00ddd376b033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;requiredNote&quot;)</value>
+      <webElementGuid>df78fb2c-ae1e-4ee0-ad77-7710c6da856e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='requiredNote']</value>
+      <webElementGuid>c56d7f40-f176-4730-b4c6-8219a7ab128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='farepayCardForm']/div/div[2]/span</value>
+      <webElementGuid>59e36f4a-7e27-4c36-8ec3-40d0a48c349b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage FARE-PAY Card'])[1]/following::span[1]</value>
+      <webElementGuid>90d5ef40-9aa1-45fa-8da3-202f9acc04bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jhgf cvvf'])[1]/following::span[8]</value>
+      <webElementGuid>29e147d4-388b-4eb6-8e3f-d8171fae6d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your FARE-PAY Card information below to review your activity.'])[1]/preceding::span[2]</value>
+      <webElementGuid>25381a8f-bbb4-49bb-bbfe-f73f192921b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Denotes a required field']/parent::*</value>
+      <webElementGuid>5c1f7995-e6fe-4345-a3e4-de44170b7f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/span</value>
+      <webElementGuid>aee3f1e2-b683-41a1-817f-6f7aaf55853f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'requiredNote' and (text() = '* Denotes a required field' or . = '* Denotes a required field')]</value>
+      <webElementGuid>056757b9-6bb4-4b88-b455-be5f4238e03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

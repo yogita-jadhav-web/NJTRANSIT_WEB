@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147151_To_Verify_Auto_Reload_Ticket_pop_up_when_Auto_Reload_is_set_up_using_JCB_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f42704b7-d65c-4557-be71-330e891ae9d7</testCaseGuid>
+</TestCaseEntity>

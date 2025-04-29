@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108229_Verification_of_Print_Receipt_VISA_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df64bacf-531c-4c12-9e1f-e164f2d27791</testCaseGuid>
+</TestCaseEntity>

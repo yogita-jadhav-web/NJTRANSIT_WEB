@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auto_Reload_Expiry_Year_Field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77b8836f-340b-4436-9559-0c33922f660e</testCaseGuid>
+</TestCaseEntity>

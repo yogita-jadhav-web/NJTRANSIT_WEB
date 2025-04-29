@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_suspend_dates_with_the_current_date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db479a9b-a0d7-4236-affe-454939ca7910</testCaseGuid>
+</TestCaseEntity>

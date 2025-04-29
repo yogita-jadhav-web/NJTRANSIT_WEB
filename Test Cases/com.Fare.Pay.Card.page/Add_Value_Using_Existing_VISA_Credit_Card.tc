@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Value_Using_Existing_VISA_Credit_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49bae085-8ec5-4a3a-98a3-33f57632d5aa</testCaseGuid>
+</TestCaseEntity>

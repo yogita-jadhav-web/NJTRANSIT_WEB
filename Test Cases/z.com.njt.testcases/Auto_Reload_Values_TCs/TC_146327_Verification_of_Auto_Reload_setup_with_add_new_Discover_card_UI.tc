@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146327_Verification_of_Auto_Reload_setup_with_add_new_Discover_card_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c29a3d3-6fee-4009-b3c2-fb0161a012fd</testCaseGuid>
+</TestCaseEntity>

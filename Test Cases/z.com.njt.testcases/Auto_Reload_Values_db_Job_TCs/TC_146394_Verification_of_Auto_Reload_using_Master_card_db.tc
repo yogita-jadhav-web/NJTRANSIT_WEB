@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146394_Verification_of_Auto_Reload_using_Master_card_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f514a47e-3bc4-46c9-a1e1-998238900170</testCaseGuid>
+</TestCaseEntity>

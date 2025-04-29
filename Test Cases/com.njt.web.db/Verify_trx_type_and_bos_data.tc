@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_trx_type_and_bos_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db5be772-9398-4a9c-9235-cd38dbf4a94c</testCaseGuid>
+</TestCaseEntity>

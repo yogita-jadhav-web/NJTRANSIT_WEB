@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_More_Than_16Digits_FP_Card_Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>206f4d15-0f43-4cbb-a53b-5306df15ed85</testCaseGuid>
+</TestCaseEntity>

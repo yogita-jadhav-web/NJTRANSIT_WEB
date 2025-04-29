@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107792_Verify_Search_By _Card_Account_Id_option_for_VISA_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d20fb2d-ea15-4c4e-8a17-df83c84412c5</testCaseGuid>
+</TestCaseEntity>

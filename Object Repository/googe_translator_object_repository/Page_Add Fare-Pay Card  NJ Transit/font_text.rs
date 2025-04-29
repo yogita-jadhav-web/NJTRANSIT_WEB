@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_text</name>
+   <tag></tag>
+   <elementGuidId>2b181b0c-db50-4478-bc8d-ba40138a7425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='title']/font/font</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#title > font > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;भाडे-पे कार्ड व्यवस्थापित करा&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>6193d28c-23da-417d-97fb-b8c4e4c5170a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>भाडे-पे कार्ड व्यवस्थापित करा</value>
+      <webElementGuid>10d5d9c2-34cc-446a-814b-208ac60def80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title&quot;)/font[1]/font[1]</value>
+      <webElementGuid>c0aaa486-8c3f-4a58-a9f9-a0ea61434f35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='title']/font/font</value>
+      <webElementGuid>31a8c765-4bc2-4c01-b2e3-467958240bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='लॉगआउट करा'])[1]/following::font[2]</value>
+      <webElementGuid>940687d7-0f78-46f9-9b70-d9a9e839e0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='आमच्याशी संपर्क साधा'])[1]/following::font[4]</value>
+      <webElementGuid>519447b5-83cd-4689-93df-89f383f32579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::font[1]</value>
+      <webElementGuid>132b48cc-853c-4fd5-9424-03ee43298378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='आवश्यक फील्ड दर्शवते'])[1]/preceding::font[3]</value>
+      <webElementGuid>205e9800-91e4-443f-896e-20abeba1f23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='भाडे-पे कार्ड व्यवस्थापित करा']/parent::*</value>
+      <webElementGuid>c6fa1d26-fe56-4664-a5b5-2048ef12892d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/font/font</value>
+      <webElementGuid>ceaccea4-d242-4577-81f3-14f86d302285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'भाडे-पे कार्ड व्यवस्थापित करा' or . = 'भाडे-पे कार्ड व्यवस्थापित करा')]</value>
+      <webElementGuid>b26803e7-1acb-462b-bf7d-ee4ccd09f91b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

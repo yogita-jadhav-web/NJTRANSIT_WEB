@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109327_To_Verify_that_user_is_able_to_purchase_HBLR_monthly_ticket_while_adding_new_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83ddbf5d-3267-468f-8d05-2e52d5aacb4b</testCaseGuid>
+</TestCaseEntity>

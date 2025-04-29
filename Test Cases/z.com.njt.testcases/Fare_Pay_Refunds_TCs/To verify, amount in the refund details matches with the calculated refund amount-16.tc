@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify, amount in the refund details matches with the calculated refund amount-16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fbd4096-7877-43cd-a1b2-f3beb9a2afdd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109370_To_Verify_that_user_is_able_to_purchase_Riverline_monthly_ticket_while_adding_new_Discover_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aca98279-d866-4d8a-9ea3-3843b02153ba</testCaseGuid>
+</TestCaseEntity>

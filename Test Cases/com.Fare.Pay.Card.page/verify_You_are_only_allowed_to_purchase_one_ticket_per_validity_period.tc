@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_You_are_only_allowed_to_purchase_one_ticket_per_validity_period</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c16a9e1-dbbb-4dc8-94ae-465c01ac01b2</testCaseGuid>
+</TestCaseEntity>

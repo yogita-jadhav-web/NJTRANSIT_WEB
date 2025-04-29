@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107832_Verification_of_Print_Receipt_DISCOVER_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>572f2a12-114a-4da5-a327-4df22cddf0fb</testCaseGuid>
+</TestCaseEntity>

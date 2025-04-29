@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Invalid_Security_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a089c2f2-d1f0-4d7f-8bfc-dce6c8a2eb89</testCaseGuid>
+</TestCaseEntity>

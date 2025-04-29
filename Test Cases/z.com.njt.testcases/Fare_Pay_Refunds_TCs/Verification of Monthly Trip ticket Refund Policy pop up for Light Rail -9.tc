@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Monthly Trip ticket Refund Policy pop up for Light Rail -9</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d4dd9d4-7e56-4b4c-abf5-2eb4a29401fe</testCaseGuid>
+</TestCaseEntity>

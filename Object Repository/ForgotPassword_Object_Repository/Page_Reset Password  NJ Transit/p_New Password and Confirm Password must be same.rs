@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_New Password and Confirm Password must be same</name>
+   <tag></tag>
+   <elementGuidId>dffab298-bbac-4d16-8d45-9bd86cc6bc48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='verifyPassword-error-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#verifyPassword-error-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'verifyPassword-error-text' and (text() = 'New Password and Confirm Password must be same.' or . = 'New Password and Confirm Password must be same.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;New Password and Confirm Password must be same.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6ac30ccb-3804-48a9-af60-c299daeba595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-18emikf</value>
+      <webElementGuid>1736d6f9-0387-43aa-993f-0fdc391ab9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>verifyPassword-error-text</value>
+      <webElementGuid>c1fce649-12b3-4238-bcac-b8e66e324db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>6f6039e4-0fcc-437b-9d73-e928b908a5b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Password and Confirm Password must be same.</value>
+      <webElementGuid>bc90cc60-7713-4b53-8784-c3f8d25c988e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;verifyPassword-error-text&quot;)</value>
+      <webElementGuid>6b15c2e2-e63f-4f18-a3df-4a001342a5d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='verifyPassword-error-text']</value>
+      <webElementGuid>d0894765-c0bd-46b1-b0ec-3d69db32cb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='resetPwdForm']/div[2]/div/div/div[2]/p</value>
+      <webElementGuid>314e1ac6-0470-4b6a-9c2b-05a6078785b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::p[1]</value>
+      <webElementGuid>7cf27045-8182-48c6-b139-9cf2c304cefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::p[1]</value>
+      <webElementGuid>967604ef-4697-4917-928a-2123a790bde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/preceding::p[1]</value>
+      <webElementGuid>9f3c755d-6f52-4ff9-a0d3-5b79afcb8a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[2]/preceding::p[1]</value>
+      <webElementGuid>ce4f9dac-5101-46de-bb3c-077de2370d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Password and Confirm Password must be same.']/parent::*</value>
+      <webElementGuid>70b0bb4e-8166-49a8-9890-1a37dc71f7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5c70007e-912e-4133-b61f-49c856094d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'verifyPassword-error-text' and (text() = 'New Password and Confirm Password must be same.' or . = 'New Password and Confirm Password must be same.')]</value>
+      <webElementGuid>a38e4955-43a9-4fb1-9b29-84ae8e3c8639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

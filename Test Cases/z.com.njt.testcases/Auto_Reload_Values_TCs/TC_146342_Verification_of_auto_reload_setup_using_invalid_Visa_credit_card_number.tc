@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146342_Verification_of_auto_reload_setup_using_invalid_Visa_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>191f117c-3a8a-404c-9683-023adfb4cd29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Please use same card to verify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fa41f4f-f66a-4a85-9b72-3d1bfbddf6a3</testCaseGuid>
+</TestCaseEntity>

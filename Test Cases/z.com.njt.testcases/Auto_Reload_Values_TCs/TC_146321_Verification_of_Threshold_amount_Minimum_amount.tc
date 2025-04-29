@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146321_Verification_of_Threshold_amount_Minimum_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ce717ab-9db1-4a90-b654-3bb7d86d079c</testCaseGuid>
+</TestCaseEntity>

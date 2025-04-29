@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109190_To_verify_that_user_is_able_to_Add_Value_using_with_add_new_VISA_card_with_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d5ad80b-0354-4c4b-b427-b324768d9e78</testCaseGuid>
+</TestCaseEntity>

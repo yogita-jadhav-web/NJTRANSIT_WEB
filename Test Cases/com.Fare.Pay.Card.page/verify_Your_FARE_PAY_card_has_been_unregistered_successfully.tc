@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Your_FARE_PAY_card_has_been_unregistered_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5194f524-5fdf-4f1c-a992-fc6c48902e1f</testCaseGuid>
+</TestCaseEntity>

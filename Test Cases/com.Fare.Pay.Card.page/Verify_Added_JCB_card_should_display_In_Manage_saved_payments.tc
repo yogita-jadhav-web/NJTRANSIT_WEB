@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Added_JCB_card_should_display_In_Manage_saved_payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1ff4cce-55de-42c0-aa8a-655b280d5ee2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Sum of Reload and Threshold Amounts cannot exceed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a5600a1-f05a-48d8-b2cb-f104f3c47fd9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108242_Verification_of_Error_message_when_user_Register_Payment_By_Invalid_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a61666a-13d5-4f5e-9877-db6cd653a87e</testCaseGuid>
+</TestCaseEntity>

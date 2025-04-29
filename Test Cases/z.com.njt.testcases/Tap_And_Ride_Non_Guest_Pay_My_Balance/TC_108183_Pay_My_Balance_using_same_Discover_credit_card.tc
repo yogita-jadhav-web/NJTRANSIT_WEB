@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108183_Pay_My_Balance_using_same_Discover_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17cf2be3-ced5-47b1-a2d2-57829ec29f19</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Tap  Ride Card.afillfb8e2cBy Pay_4ff6bb</name>
+   <tag></tag>
+   <elementGuidId>388ad4c1-1918-4940-be90-2fe7c79ab5b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentTabsCard']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCardContent-root.css-1qw96cp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>611e02dc-0ea1-4738-bdaa-c1a1092dbdda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root css-1qw96cp</value>
+      <webElementGuid>3865edc2-36f3-4782-a165-ee720cb68508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldPlease enter your credit card information below. This information will be used to look up your transactions. Card Number *​Exp. Month *12​Exp. Year *2024​Register Payment</value>
+      <webElementGuid>c045a509-43f0-4d1e-9a7f-35297f79e46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentTabsCard&quot;)/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]</value>
+      <webElementGuid>ed58166a-1d24-45fe-917d-2367e922e93b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentTabsCard']/div</value>
+      <webElementGuid>b78956d5-f447-443f-b708-69c2eec997f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jhgf cvvf'])[1]/following::div[19]</value>
+      <webElementGuid>edf7e3fb-4c92-430d-991e-97ae4c814be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>5fd1c32f-7710-407c-99e2-a77a0e432b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldPlease enter your credit card information below. This information will be used to look up your transactions. Card Number *​Exp. Month *12​Exp. Year *2024​Register Payment' or . = 'Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldPlease enter your credit card information below. This information will be used to look up your transactions. Card Number *​Exp. Month *12​Exp. Year *2024​Register Payment')]</value>
+      <webElementGuid>cdbe9824-a506-434c-bda8-568b9e547804</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108192_Verification_that_User_is_not_able_to_register_his_VISA_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c451f200-adad-4f7a-8d5c-b840e024e344</testCaseGuid>
+</TestCaseEntity>

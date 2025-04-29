@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109313_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>458f47e4-38ea-478a-94ce-6dabfe955d6c</testCaseGuid>
+</TestCaseEntity>

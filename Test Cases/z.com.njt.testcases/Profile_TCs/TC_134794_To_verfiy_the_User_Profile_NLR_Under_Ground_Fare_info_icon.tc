@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134794_To_verfiy_the_User_Profile_NLR_Under_Ground_Fare_info_icon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a0340f5-62bd-4431-85f9-331fc18c023e</testCaseGuid>
+</TestCaseEntity>

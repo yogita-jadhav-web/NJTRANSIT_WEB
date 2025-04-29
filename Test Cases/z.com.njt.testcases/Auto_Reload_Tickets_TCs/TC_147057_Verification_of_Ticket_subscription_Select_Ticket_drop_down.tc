@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147057_Verification_of_Ticket_subscription_Select_Ticket_drop_down</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cee20e1c-9c75-4f8a-a7ae-41be12558730</testCaseGuid>
+</TestCaseEntity>

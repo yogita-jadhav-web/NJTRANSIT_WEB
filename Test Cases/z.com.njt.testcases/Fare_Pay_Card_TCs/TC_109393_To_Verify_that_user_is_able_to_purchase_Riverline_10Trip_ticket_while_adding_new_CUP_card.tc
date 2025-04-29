@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109393_To_Verify_that_user_is_able_to_purchase_Riverline_10Trip_ticket_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4777923-62a7-4807-abd4-0ce649c04cad</testCaseGuid>
+</TestCaseEntity>

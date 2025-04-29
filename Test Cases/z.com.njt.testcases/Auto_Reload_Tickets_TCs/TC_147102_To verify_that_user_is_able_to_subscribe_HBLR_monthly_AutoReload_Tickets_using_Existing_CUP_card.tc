@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147102_To verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_Existing_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0736b9a8-6d02-4f9c-b20f-90b6a03e4b0d</testCaseGuid>
+</TestCaseEntity>

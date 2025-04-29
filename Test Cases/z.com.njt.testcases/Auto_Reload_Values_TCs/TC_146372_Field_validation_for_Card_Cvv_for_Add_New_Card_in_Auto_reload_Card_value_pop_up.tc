@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146372_Field_validation_for_Card_Cvv_for_Add_New_Card_in_Auto_reload_Card_value_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df866336-2a12-4ef4-be70-460840a3577d</testCaseGuid>
+</TestCaseEntity>

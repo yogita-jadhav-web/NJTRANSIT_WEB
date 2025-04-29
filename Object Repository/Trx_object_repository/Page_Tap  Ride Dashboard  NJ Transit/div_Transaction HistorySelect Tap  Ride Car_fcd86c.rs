@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction HistorySelect Tap  Ride Car_fcd86c</name>
+   <tag></tag>
+   <elementGuidId>6d2c7f29-12fa-4f60-a0cd-05d20367a982</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='historyModal']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Transaction HistorySelect Tap &amp; Ride Card: XXXX-XXXX-XXXX-0286Start DateEnd Date&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51f1d835-5059-49a7-81a1-5b050a2484e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>f65ac847-8b3c-4b81-8787-05abe8e3c527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>27398030-fee2-4321-9021-cda0b3daab41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c024c39a-5187-4f6e-a829-788ad55563fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction HistorySelect Tap &amp; Ride Card: XXXX-XXXX-XXXX-0286​Start Date​End Date​SearchNote: Please click on Trx. No. to view detailsActivate the button to load the transaction details in a nested table below this row.Date/TimeTrx. No.TypeAmountStatusPayment Provider NumberPrint Receipt12/09/2024 10:10:32127308Trip$2.55ApprovedNJT-0BEE741Q-DEC09-212/09/2024 10:10:07127307Trip$1.80ApprovedNJT-0BEE741Q-DEC09-111/26/2024 15:11:46127298Trip$8.50ApprovedNJT-0BEE741Q-NOV26-111/12/2024 13:14:07127258Trip$1.80ApprovedNJT-0BEE741Q-NOV12-11Close</value>
+      <webElementGuid>8bf2301d-a809-4f09-993c-6ff13f335dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>180667dd-7fdf-4316-9969-fe70aaa1e9db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='historyModal']/div[3]</value>
+      <webElementGuid>35ebf2c0-6e43-4d12-8674-347c4c0777dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::div[8]</value>
+      <webElementGuid>05119db8-1bd7-4498-a8be-daae01ead11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate this translation'])[1]/following::div[9]</value>
+      <webElementGuid>79ecfa8e-8d3d-4db5-aa56-0f85fbbb229c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+      <webElementGuid>4ada9586-600e-4c48-9f2b-eee95fff0f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction HistorySelect Tap &amp; Ride Card: XXXX-XXXX-XXXX-0286​Start Date​End Date​SearchNote: Please click on Trx. No. to view detailsActivate the button to load the transaction details in a nested table below this row.Date/TimeTrx. No.TypeAmountStatusPayment Provider NumberPrint Receipt12/09/2024 10:10:32127308Trip$2.55ApprovedNJT-0BEE741Q-DEC09-212/09/2024 10:10:07127307Trip$1.80ApprovedNJT-0BEE741Q-DEC09-111/26/2024 15:11:46127298Trip$8.50ApprovedNJT-0BEE741Q-NOV26-111/12/2024 13:14:07127258Trip$1.80ApprovedNJT-0BEE741Q-NOV12-11Close' or . = 'Transaction HistorySelect Tap &amp; Ride Card: XXXX-XXXX-XXXX-0286​Start Date​End Date​SearchNote: Please click on Trx. No. to view detailsActivate the button to load the transaction details in a nested table below this row.Date/TimeTrx. No.TypeAmountStatusPayment Provider NumberPrint Receipt12/09/2024 10:10:32127308Trip$2.55ApprovedNJT-0BEE741Q-DEC09-212/09/2024 10:10:07127307Trip$1.80ApprovedNJT-0BEE741Q-DEC09-111/26/2024 15:11:46127298Trip$8.50ApprovedNJT-0BEE741Q-NOV26-111/12/2024 13:14:07127258Trip$1.80ApprovedNJT-0BEE741Q-NOV12-11Close')]</value>
+      <webElementGuid>4280e85b-f9f5-48b8-83b8-f9bd4829280d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

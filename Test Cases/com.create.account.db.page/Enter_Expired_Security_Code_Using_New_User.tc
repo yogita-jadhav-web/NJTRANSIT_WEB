@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Expired_Security_Code_Using_New_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb32ce0b-c2c8-4bcb-96d0-88fd3f9981b7</testCaseGuid>
+</TestCaseEntity>

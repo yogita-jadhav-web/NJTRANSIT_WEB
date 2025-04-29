@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109287_To_Verify_that_user_is_able_to_purchase_Bus_10Trip_with_existing_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5fb1a59-6806-432a-aa58-36142516b4c7</testCaseGuid>
+</TestCaseEntity>

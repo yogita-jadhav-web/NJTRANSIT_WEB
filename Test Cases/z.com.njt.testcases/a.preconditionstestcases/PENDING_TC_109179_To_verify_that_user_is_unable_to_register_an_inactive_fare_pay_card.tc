@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PENDING_TC_109179_To_verify_that_user_is_unable_to_register_an_inactive_fare_pay_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e44560d-a8db-4ea1-a365-4825efffd12d</testCaseGuid>
+</TestCaseEntity>

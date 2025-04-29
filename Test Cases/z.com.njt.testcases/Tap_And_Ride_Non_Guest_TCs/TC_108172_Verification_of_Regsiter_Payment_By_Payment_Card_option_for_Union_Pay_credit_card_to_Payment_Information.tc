@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108172_Verification_of_Regsiter_Payment_By_Payment_Card_option_for_Union_Pay_credit_card_to_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>873d9d60-ef79-444c-a8b6-fbe4be1aa20d</testCaseGuid>
+</TestCaseEntity>

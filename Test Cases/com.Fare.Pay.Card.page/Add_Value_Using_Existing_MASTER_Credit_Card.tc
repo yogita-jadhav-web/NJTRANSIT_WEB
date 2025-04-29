@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Value_Using_Existing_MASTER_Credit_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce2d1ab8-3a3c-4255-b5f0-a7b91c08ea88</testCaseGuid>
+</TestCaseEntity>

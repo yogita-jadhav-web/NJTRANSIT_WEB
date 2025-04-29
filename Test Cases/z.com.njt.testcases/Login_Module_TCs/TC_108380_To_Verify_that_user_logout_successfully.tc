@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108380_To_Verify_that_user_logout_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aeaf191-ee41-4c25-a0fe-01595ea6b7c9</testCaseGuid>
+</TestCaseEntity>

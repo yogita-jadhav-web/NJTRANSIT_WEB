@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_114911_Field_Validation_for_PIN_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fff60ab-8464-4e34-9e6e-b353dfb790d0</testCaseGuid>
+</TestCaseEntity>

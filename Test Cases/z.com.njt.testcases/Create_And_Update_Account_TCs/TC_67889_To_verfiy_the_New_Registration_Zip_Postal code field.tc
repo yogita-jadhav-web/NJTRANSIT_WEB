@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67889_To_verfiy_the_New_Registration_Zip_Postal code field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3dd6fe9c-6d74-4f52-b474-88d88a565ec2</testCaseGuid>
+</TestCaseEntity>

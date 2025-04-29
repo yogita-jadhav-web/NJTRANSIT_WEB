@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109248_To_Verify_that_user_is_able_to_purchase_Rail_Weekly_with_existing_CUP_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d1a7a9b-9bfa-440a-9079-cbd3b30a66e6</testCaseGuid>
+</TestCaseEntity>

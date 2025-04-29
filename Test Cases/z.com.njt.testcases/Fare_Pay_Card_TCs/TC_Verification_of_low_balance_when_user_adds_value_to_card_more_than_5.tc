@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_low_balance_when_user_adds_value_to_card_more_than_5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45c03f0e-8c9d-4947-919e-3e20584bbe98</testCaseGuid>
+</TestCaseEntity>

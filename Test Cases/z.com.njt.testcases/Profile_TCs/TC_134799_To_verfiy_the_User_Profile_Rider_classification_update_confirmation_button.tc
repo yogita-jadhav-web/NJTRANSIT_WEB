@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134799_To_verfiy_the_User_Profile_Rider_classification_update_confirmation_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d54e3d4d-a1cb-4869-adc6-43731d784eeb</testCaseGuid>
+</TestCaseEntity>

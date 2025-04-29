@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Random_Tariff_Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eec0c367-6eed-4732-9e51-73ac8b4cd00b</testCaseGuid>
+</TestCaseEntity>

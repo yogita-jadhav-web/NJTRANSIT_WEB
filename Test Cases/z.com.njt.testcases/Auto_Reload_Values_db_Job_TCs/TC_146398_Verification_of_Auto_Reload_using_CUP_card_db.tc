@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146398_Verification_of_Auto_Reload_using_CUP_card_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81ff5dc0-b77a-4b23-8d9c-2316eee1a38a</testCaseGuid>
+</TestCaseEntity>

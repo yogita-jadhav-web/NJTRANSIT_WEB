@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109372_To_Verify_that_user_is_able_to_purchase_Riverline_monthly_ticket_while_adding_new_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d8290a4-02b2-4041-9db5-ed81554db502</testCaseGuid>
+</TestCaseEntity>

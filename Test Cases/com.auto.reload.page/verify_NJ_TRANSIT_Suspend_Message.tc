@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_NJ_TRANSIT_Suspend_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3f5600f-86be-4234-baba-e5f1726abf9e</testCaseGuid>
+</TestCaseEntity>

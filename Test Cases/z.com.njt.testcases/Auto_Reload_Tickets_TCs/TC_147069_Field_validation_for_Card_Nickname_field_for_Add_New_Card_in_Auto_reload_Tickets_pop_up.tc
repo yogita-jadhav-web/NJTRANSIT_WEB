@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147069_Field_validation_for_Card_Nickname_field_for_Add_New_Card_in_Auto_reload_Tickets_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da1167b8-f2e1-449a-b998-66ebd91c0e00</testCaseGuid>
+</TestCaseEntity>

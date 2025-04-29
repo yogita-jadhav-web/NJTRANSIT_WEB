@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auto_Reload_Cardholders_Name_field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3e3177e-e94f-47f9-a5cf-eda9dd2629d5</testCaseGuid>
+</TestCaseEntity>

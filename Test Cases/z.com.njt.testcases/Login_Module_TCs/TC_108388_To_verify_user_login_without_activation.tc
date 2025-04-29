@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108388_To_verify_user_login_without_activation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f49adb1-7c4a-4c6a-a439-bc3e6e73ea53</testCaseGuid>
+</TestCaseEntity>

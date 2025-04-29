@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Card_Status_on_Payment_Information_screen_when_the_card_is_in_deny_list_Active_Card_Master</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>504660ad-9941-4c9a-8ef4-ca3c28d8881f</testCaseGuid>
+</TestCaseEntity>

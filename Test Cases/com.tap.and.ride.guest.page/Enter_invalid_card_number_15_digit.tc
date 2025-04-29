@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_invalid_card_number_15_digit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4cd51f4-1684-4863-82f4-0b7b65603592</testCaseGuid>
+</TestCaseEntity>

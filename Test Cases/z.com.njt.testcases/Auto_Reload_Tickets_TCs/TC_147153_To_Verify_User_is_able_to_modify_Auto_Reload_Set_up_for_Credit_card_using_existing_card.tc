@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147153_To_Verify_User_is_able_to_modify_Auto_Reload_Set_up_for_Credit_card_using_existing_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0478ff6f-2033-4bf9-ac0c-83393dce579a</testCaseGuid>
+</TestCaseEntity>

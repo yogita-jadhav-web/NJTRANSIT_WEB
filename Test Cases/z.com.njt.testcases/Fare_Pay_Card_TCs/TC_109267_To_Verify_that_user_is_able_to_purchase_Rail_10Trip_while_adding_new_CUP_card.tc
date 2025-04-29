@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109267_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>399358eb-6727-48c7-a4bc-a4285e3bb8e4</testCaseGuid>
+</TestCaseEntity>

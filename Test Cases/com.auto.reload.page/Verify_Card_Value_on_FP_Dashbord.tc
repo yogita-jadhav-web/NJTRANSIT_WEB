@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Value_on_FP_Dashbord</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6a21d2e-90c6-4c84-b193-c25d829f8a03</testCaseGuid>
+</TestCaseEntity>

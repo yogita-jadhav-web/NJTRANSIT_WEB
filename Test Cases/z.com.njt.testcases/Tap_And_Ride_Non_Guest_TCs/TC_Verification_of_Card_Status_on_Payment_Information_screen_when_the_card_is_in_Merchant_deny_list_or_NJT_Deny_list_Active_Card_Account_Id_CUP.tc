@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Card_Status_on_Payment_Information_screen_when_the_card_is_in_Merchant_deny_list_or_NJT_Deny_list_Active_Card_Account_Id_CUP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f4953d9-7ab2-43ba-a659-6c1f3af7607a</testCaseGuid>
+</TestCaseEntity>

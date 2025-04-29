@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108208_Verification_of_Trx_History_JCB_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6246fc36-d741-4a1b-854c-75f7736daa8a</testCaseGuid>
+</TestCaseEntity>

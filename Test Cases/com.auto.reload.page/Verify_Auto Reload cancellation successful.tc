@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Auto Reload cancellation successful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef91a2ca-0637-4f61-ae02-e5f2158e3c89</testCaseGuid>
+</TestCaseEntity>

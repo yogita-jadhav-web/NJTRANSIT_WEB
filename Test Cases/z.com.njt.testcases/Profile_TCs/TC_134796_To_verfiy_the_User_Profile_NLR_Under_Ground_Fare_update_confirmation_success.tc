@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134796_To_verfiy_the_User_Profile_NLR_Under_Ground_Fare_update_confirmation_success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef7d103c-e118-48f6-b873-ce69d566533d</testCaseGuid>
+</TestCaseEntity>

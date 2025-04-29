@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109371_To_Verify_that_user_is_able_to_purchase_Riverline_monthly_ticket_with_existing_JCB_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4363f04a-9323-444a-b354-2e0d497a64bd</testCaseGuid>
+</TestCaseEntity>

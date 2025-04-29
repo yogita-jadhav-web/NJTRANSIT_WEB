@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109265_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_while_adding_new_JCB_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96caff56-f4db-4fca-8168-8a90d2ef0546</testCaseGuid>
+</TestCaseEntity>

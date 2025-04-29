@@ -1,0 +1,9 @@
+[38;5;181m[1ce0a6dc][0m[38;5;160m[Logcat][0m Logcat terminated with code 255, signal null
+uncaughtException: Error executing adbExec. Original error: 'Command 'C:\\Users\\52376032\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s RZCW21L4YAM shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 1'; Command output: adb.exe: device 'RZCW21L4YAM' not found
+
+Error: Command 'C:\\Users\\52376032\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s RZCW21L4YAM shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 1
+    at ChildProcess.<anonymous> (C:\Users\52376032\.appium\node_modules\appium-uiautomator2-driver\node_modules\teen_process\lib\exec.js:128:19)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:305:5)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)

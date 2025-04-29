@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147246_Verification_of_Auto_Reload_ticket_when_credit_card_having_invalid_cvv</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce0c1bb4-364c-47fa-98fe-045f293607f6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Manage_Fare_Pay_Card_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4f86eee-7739-47b2-a256-f828b53a1aa1</testCaseGuid>
+</TestCaseEntity>

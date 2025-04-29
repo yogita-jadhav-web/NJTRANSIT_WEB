@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a NYP (000) - EWR(101) Rail ticket purchased from Portal-28</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36d96c92-ad13-4883-9938-32fe837ea34c</testCaseGuid>
+</TestCaseEntity>

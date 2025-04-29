@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109350_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_with_existing_Discover_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb29b4ea-d318-46cf-a3fa-350ab8e55adf</testCaseGuid>
+</TestCaseEntity>

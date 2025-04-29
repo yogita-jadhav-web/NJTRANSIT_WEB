@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109347_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_with_existing_Amex_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a2d320b-bb8f-461c-aecf-98e401fbc965</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109416_To_Verify_that_user_is_not_able_to_purchase_10Trip_over_another_10Trip_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebc57ca7-2f0e-4023-ba99-09bced448bc0</testCaseGuid>
+</TestCaseEntity>

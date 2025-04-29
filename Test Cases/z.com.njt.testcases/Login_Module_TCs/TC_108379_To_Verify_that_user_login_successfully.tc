@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108379_To_Verify_that_user_login_successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4465079f-4fed-4caa-99d4-04e4022d5908</testCaseGuid>
+</TestCaseEntity>

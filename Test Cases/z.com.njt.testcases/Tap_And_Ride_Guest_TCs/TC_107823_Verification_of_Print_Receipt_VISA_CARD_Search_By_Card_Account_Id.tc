@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107823_Verification_of_Print_Receipt_VISA_CARD_Search_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22787986-5ccf-453a-b933-f9e6f330c619</testCaseGuid>
+</TestCaseEntity>

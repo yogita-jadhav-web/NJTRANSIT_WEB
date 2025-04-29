@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validation_auto_relod_pop_up_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc9e7342-135e-4e56-9c55-32d3c5077b5c</testCaseGuid>
+</TestCaseEntity>

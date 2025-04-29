@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108168_Verification_of Register_Payment_By_Payment_Card_option_for_AMEX_credit_card_to_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2361b27-a915-45f4-902e-6fcc861a4eec</testCaseGuid>
+</TestCaseEntity>

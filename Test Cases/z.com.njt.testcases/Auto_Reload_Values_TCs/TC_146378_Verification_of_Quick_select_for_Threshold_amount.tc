@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146378_Verification_of_Quick_select_for_Threshold_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38c0cb77-b786-4cec-9ac0-718c0d0ef16e</testCaseGuid>
+</TestCaseEntity>

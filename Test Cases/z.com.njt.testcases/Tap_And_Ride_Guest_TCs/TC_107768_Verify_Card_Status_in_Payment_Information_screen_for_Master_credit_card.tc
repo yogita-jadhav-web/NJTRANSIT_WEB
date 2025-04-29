@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107768_Verify_Card_Status_in_Payment_Information_screen_for_Master_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc1c2f7a-b505-438e-9967-9ad2ecfb85d5</testCaseGuid>
+</TestCaseEntity>

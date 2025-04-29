@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107763_Verify_Search_By_Payment_Card_option_for_AMEX_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f39ec68d-29b5-46bb-80b2-e3006921b1f1</testCaseGuid>
+</TestCaseEntity>

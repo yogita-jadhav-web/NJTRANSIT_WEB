@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108169_Verification_of Register_Payment_By_Payment_Card_option_for_MASTER_credit_card_to_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ce91c59-0dd1-4409-8af6-ac48b67382c8</testCaseGuid>
+</TestCaseEntity>

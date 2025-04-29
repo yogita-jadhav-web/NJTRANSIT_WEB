@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108180_Pay_My_Balance_using_same_Master_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6837e485-4327-4ae7-8dc3-0b9cf47e6533</testCaseGuid>
+</TestCaseEntity>

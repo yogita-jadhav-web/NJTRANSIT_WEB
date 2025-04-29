@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108197_Verification_that_User_is_not_able_to_register_his_CUP_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3245f8e0-69e1-4cfa-a08a-9bd66ea1ee91</testCaseGuid>
+</TestCaseEntity>

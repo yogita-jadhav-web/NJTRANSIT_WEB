@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109259_To_Verify_that_user_is_able_to_purchase_Rail_10Trip_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>152a1375-a26d-45f0-a806-70da33f76259</testCaseGuid>
+</TestCaseEntity>

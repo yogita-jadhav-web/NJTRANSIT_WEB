@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Label_Placeholder_Security_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b6891a0-37f7-4f58-ac1b-4112460d5aa5</testCaseGuid>
+</TestCaseEntity>

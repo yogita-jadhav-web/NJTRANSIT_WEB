@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_and_verify_FAQ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>994dab4d-6593-4dc3-a419-7e9e8594e599</testCaseGuid>
+</TestCaseEntity>

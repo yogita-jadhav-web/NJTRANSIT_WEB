@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147108_To verify_that_user_is_able_to_subscribe_Riverline_monthly_AutoReload_Tickets_using_Existing_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05c916b1-d896-46f0-90f1-cfdaf91af8c2</testCaseGuid>
+</TestCaseEntity>

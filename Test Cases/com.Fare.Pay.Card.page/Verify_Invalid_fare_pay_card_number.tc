@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Invalid_fare_pay_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc6c74cd-069d-4fd2-bd98-5244e0db8b5a</testCaseGuid>
+</TestCaseEntity>

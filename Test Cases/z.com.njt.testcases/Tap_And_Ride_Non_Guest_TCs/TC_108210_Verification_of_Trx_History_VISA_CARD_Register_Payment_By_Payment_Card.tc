@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108210_Verification_of_Trx_History_VISA_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1a30db7-872c-4ab6-8712-c339bc95b75c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147065_Field_validation_for_Card_Holders_name_for_Add_New_Card_in_Auto_reload_Ticket_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5b28fcd-822a-4d38-ad27-37bedd86cd1c</testCaseGuid>
+</TestCaseEntity>

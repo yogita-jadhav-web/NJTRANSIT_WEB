@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147058_Verification_of_Ticket_subscription_pop_up_for_direct_route</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8404e09c-4105-4cbd-b412-6d13532f680a</testCaseGuid>
+</TestCaseEntity>

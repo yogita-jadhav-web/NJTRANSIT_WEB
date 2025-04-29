@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109220_To_Verify_that_user_is_able_to_purchase_Rail_monthly_while_adding_new_Master_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f13b5d4e-5741-4aac-aae9-4cfa8fa6a1b8</testCaseGuid>
+</TestCaseEntity>

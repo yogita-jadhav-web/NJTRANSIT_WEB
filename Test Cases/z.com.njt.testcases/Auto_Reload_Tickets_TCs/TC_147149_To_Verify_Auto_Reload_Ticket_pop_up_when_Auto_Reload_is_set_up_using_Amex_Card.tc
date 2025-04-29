@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147149_To_Verify_Auto_Reload_Ticket_pop_up_when_Auto_Reload_is_set_up_using_Amex_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e15e7ff-d45c-4012-ab55-9b8b36129152</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_card_value_selected_by_default</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fa8b222-2a2d-4457-b5c9-783a8831e434</testCaseGuid>
+</TestCaseEntity>

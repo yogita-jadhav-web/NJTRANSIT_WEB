@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67882_To_verify_the_new_user_registration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7653957-4d8f-46e2-8942-5d6fff9d4669</testCaseGuid>
+</TestCaseEntity>

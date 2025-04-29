@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fare_Pay_PIN_Field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da31e79d-5a35-4ac9-845e-65f9d4993a4d</testCaseGuid>
+</TestCaseEntity>

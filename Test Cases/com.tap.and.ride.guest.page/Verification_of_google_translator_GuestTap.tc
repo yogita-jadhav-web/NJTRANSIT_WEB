@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification_of_google_translator_GuestTap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>889db671-1f65-44fa-93b5-77f0ba65850f</testCaseGuid>
+</TestCaseEntity>

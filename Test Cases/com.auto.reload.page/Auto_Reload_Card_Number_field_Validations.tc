@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auto_Reload_Card_Number_field_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad83201d-4ab9-4eb5-a07a-3152444b4317</testCaseGuid>
+</TestCaseEntity>

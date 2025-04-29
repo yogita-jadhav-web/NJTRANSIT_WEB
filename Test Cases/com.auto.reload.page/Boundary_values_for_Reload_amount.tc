@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Boundary_values_for_Reload_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daf0e9e2-1260-4b04-ba7e-6958115ec6ea</testCaseGuid>
+</TestCaseEntity>

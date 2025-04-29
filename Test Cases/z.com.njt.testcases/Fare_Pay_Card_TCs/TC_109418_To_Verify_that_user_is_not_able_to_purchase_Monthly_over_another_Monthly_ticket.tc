@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109418_To_Verify_that_user_is_not_able_to_purchase_Monthly_over_another_Monthly_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b01fa1a-6b7a-4b03-bace-ae647b3064cd</testCaseGuid>
+</TestCaseEntity>

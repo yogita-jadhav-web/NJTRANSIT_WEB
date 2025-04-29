@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_OneCharacter_In_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6e3cf7a-56f1-43c5-89fe-e02cc3ff5adb</testCaseGuid>
+</TestCaseEntity>

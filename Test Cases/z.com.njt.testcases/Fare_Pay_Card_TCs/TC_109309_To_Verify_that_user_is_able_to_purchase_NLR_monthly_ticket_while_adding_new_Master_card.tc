@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109309_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_while_adding_new_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c04a87a2-a3f1-44b7-bbed-8d8489d16bd9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146318_Verification_of_Auto_Reload_Card_value_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19ff1a79-2ecd-48ce-96b0-6bc308f19ff8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_River_Line_from_select_ticket_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>608f37b5-e76c-4602-9acd-9cc66d253460</testCaseGuid>
+</TestCaseEntity>

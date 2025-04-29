@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_VISA_Credit_Card_Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5dc00fb-8c8f-4874-bcc0-027d453b72de</testCaseGuid>
+</TestCaseEntity>

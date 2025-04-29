@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Card_nickname_VISA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>022ec37b-0b5b-4e5f-b744-2c1085b11b8a</testCaseGuid>
+</TestCaseEntity>

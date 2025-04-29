@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107881_Security_Test_ Verify_that_Credit_Card_Information_is_not_Stored_in_Web _Storage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4144a74-37b7-4e4e-b5b1-63a3d19be5c8</testCaseGuid>
+</TestCaseEntity>

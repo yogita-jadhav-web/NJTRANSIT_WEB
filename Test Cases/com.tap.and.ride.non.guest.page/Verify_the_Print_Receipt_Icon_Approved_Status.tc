@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_the_Print_Receipt_Icon_Approved_Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06714f95-72ca-4f82-8342-6455d8f00446</testCaseGuid>
+</TestCaseEntity>

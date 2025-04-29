@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134784_To_verfiy_the_New_Registration_Confirm_Email_field_validation_without_entering_Email_ID_in_Email_Id_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b279fe37-7a11-4e0a-8ea9-71f8f654a5ad</testCaseGuid>
+</TestCaseEntity>

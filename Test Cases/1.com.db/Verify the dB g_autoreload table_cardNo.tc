@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the dB g_autoreload table_cardNo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ec7713b-816c-463e-903e-d986ab9a014c</testCaseGuid>
+</TestCaseEntity>

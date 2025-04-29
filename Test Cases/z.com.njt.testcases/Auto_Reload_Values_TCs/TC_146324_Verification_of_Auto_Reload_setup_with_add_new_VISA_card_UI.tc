@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146324_Verification_of_Auto_Reload_setup_with_add_new_VISA_card_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>872c12eb-920a-4a19-9982-331e7a8a9917</testCaseGuid>
+</TestCaseEntity>

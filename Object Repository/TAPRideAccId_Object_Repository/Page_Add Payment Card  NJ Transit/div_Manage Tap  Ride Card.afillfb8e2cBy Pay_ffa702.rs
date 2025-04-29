@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Tap  Ride Card.afillfb8e2cBy Pay_ffa702</name>
+   <tag></tag>
+   <elementGuidId>f68b3217-c9cd-4c6c-91da-be6c85d1433e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addFarepayCard']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCardContent-root.css-1qw96cp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#addFarepayCard div >> internal:has-text=&quot;Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5a9581d-183c-44d1-969c-c6c36ad401c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root css-1qw96cp</value>
+      <webElementGuid>e8832ba9-fe58-45d3-97b1-494e54ecb048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldRegister your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.Card Account Id *​Register Payment</value>
+      <webElementGuid>19b93249-86a1-480f-8e30-95118ead575b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addFarepayCard&quot;)/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]</value>
+      <webElementGuid>82a47365-2aef-46d1-b0e9-21f6bab62761</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFarepayCard']/div</value>
+      <webElementGuid>5245088f-d66c-42a1-84a5-becdfe06d894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jhgf cvvf'])[1]/following::div[19]</value>
+      <webElementGuid>950c2d1b-0d6c-435b-806b-166ee7b3f268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>71629321-74a7-473c-9c1a-66fa61e5d9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldRegister your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.Card Account Id *​Register Payment' or . = 'Manage Tap &amp; Ride Card.a{fill:#fb8e2c}By Payment CardBy Card Account Id* Denotes a required fieldRegister your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.Card Account Id *​Register Payment')]</value>
+      <webElementGuid>ee65c25b-d4b2-49b4-ad6c-72d11a5516ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

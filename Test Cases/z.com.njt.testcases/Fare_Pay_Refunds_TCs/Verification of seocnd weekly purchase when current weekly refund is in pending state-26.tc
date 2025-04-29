@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of seocnd weekly purchase when current weekly refund is in pending state-26</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60d5dc16-af01-4633-a544-91ae4ff17768</testCaseGuid>
+</TestCaseEntity>

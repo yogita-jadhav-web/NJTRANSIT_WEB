@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Message_Card_not_found_in_our_system</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cf17069-a121-40cf-bf8f-ed6237718b35</testCaseGuid>
+</TestCaseEntity>

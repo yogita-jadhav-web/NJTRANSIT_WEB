@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109231_To_Verify_that_user_is_able_to_purchase_Rail_monthly_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ace01ba-14cb-46d1-8d32-7240257b22ce</testCaseGuid>
+</TestCaseEntity>

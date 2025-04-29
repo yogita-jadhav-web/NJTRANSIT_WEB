@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108205_Verification_of_Trx_History_MASTER_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e35ae7ca-4d37-4027-b15e-933269fc27a3</testCaseGuid>
+</TestCaseEntity>

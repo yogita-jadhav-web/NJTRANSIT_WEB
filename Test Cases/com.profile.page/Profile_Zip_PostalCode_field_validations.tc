@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile_Zip_PostalCode_field_validations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e024d0f2-982d-4a21-9dd3-4fedad3454ee</testCaseGuid>
+</TestCaseEntity>

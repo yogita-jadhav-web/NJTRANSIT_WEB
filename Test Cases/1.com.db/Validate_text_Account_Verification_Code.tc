@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_text_Account_Verification_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>448631ce-cdb0-46cb-9d92-7c4c854853c8</testCaseGuid>
+</TestCaseEntity>

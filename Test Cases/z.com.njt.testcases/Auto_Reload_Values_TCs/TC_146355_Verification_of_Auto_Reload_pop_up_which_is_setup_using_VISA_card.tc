@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146355_Verification_of_Auto_Reload_pop_up_which_is_setup_using_VISA_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bcb0155-79da-4ba2-97c5-983b12c0d808</testCaseGuid>
+</TestCaseEntity>

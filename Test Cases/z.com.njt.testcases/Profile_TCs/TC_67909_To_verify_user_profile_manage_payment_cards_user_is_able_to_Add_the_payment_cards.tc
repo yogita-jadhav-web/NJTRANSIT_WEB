@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67909_To_verify_user_profile_manage_payment_cards_user_is_able_to_Add_the_payment_cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4dc39091-0bc6-409c-9275-de216c4d9aef</testCaseGuid>
+</TestCaseEntity>

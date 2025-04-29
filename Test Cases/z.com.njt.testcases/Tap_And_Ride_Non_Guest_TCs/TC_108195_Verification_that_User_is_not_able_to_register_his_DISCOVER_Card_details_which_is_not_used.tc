@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108195_Verification_that_User_is_not_able_to_register_his_DISCOVER_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7893e43-4dcd-495f-942b-69a5ec5feb6f</testCaseGuid>
+</TestCaseEntity>

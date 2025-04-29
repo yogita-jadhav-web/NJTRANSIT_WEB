@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107787_Verify_that_User_is_not_able_to_view_his_MASTER_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b63b3b8c-ac08-4e94-aa3a-0589991f6105</testCaseGuid>
+</TestCaseEntity>

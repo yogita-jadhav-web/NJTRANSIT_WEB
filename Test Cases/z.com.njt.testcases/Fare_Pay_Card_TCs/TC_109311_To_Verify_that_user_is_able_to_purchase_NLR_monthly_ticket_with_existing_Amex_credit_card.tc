@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109311_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_with_existing_Amex_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10864159-d6f7-4af5-94d6-6ca62ae06e71</testCaseGuid>
+</TestCaseEntity>

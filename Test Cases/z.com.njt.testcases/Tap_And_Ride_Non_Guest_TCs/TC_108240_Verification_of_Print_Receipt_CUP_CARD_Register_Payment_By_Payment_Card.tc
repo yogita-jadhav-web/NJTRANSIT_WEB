@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108240_Verification_of_Print_Receipt_CUP_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23e7960a-9d81-4c9a-98d8-daaabd202d02</testCaseGuid>
+</TestCaseEntity>

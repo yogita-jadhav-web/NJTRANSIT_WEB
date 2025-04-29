@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_StartDate_After_End_Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd27f2f0-6476-434b-9b3a-74eecbecdf4d</testCaseGuid>
+</TestCaseEntity>

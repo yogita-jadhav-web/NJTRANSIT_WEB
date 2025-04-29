@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_dsa(XXXX XXXX XXXX 1032)_2</name>
+   <tag></tag>
+   <elementGuidId>84a5cfd0-ae25-4955-acac-ad57b7bbc4b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@id='2'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^ssa \(XXXX XXXX XXXX 1032\)$/ >> internal:attr=[alt=&quot;Discover card&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ad0e382a-f163-4a6a-be6e-56fa3019c958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-12z0wuy</value>
+      <webElementGuid>b8811d1d-dcf4-4fd9-959f-87e75b7a093a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ce5b3504-1aa8-47ff-b0d4-55a40720a7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Discover card</value>
+      <webElementGuid>91c69d01-55cf-4ebf-b2e5-1c5f04977a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,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</value>
+      <webElementGuid>3b213599-4d82-4aff-adfc-426c94c6fe2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PaymentsCard&quot;)/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/div[@class=&quot;MuiBox-root css-lgj0h8&quot;]/div[@class=&quot;MuiBox-root css-16kngls&quot;]/img[@id=&quot;2&quot;]</value>
+      <webElementGuid>d409116e-fd6e-4a4b-872c-b067ad7ee93d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//img[@id='2'])[2]</value>
+      <webElementGuid>1a65f2fc-840b-4545-ac7e-3581ea4898b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PaymentsCard']/div/div/div[2]/img</value>
+      <webElementGuid>2ab7a8fe-09ab-460e-8617-e9960f9d7c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Discover card'])[2]</value>
+      <webElementGuid>8f2207d3-5288-473c-87b8-e0a6b0266e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>09f96e14-a88e-4dc6-a1e7-4b78776dda56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = '2' and @alt = 'Discover card' and @src = 'data:image/png;base64,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']</value>
+      <webElementGuid>6449141c-d75e-402e-9f65-8ea406053959</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

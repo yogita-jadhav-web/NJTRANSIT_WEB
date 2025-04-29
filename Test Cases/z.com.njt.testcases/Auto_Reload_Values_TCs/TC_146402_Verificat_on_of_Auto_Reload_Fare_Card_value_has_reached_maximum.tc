@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146402_Verificat_on_of_Auto_Reload_Fare_Card_value_has_reached_maximum</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cc35830-d434-4d42-9cd6-7cd7642ca529</testCaseGuid>
+</TestCaseEntity>

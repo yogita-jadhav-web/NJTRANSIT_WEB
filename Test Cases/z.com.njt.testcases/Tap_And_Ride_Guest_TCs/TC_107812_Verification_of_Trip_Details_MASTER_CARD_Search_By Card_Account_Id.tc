@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107812_Verification_of_Trip_Details_MASTER_CARD_Search_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25ef04c4-53f2-4f7a-8f97-3265a7827ec1</testCaseGuid>
+</TestCaseEntity>

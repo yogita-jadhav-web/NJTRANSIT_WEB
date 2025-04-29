@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108373_To_Verify_the_Email_Id_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32a74147-b9ba-4992-b191-4b2ec5179ab9</testCaseGuid>
+</TestCaseEntity>

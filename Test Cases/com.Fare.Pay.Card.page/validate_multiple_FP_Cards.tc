@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_multiple_FP_Cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8062f06-29af-40a9-a34a-8de4683a40ac</testCaseGuid>
+</TestCaseEntity>

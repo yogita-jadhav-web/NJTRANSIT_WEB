@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109271_To_Verify_that_user_is_able_to_purchase_Bus_monthly_Ticket_while_adding_new_VISA_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3316137-a215-46b5-bcc5-98afbb2a0ef2</testCaseGuid>
+</TestCaseEntity>

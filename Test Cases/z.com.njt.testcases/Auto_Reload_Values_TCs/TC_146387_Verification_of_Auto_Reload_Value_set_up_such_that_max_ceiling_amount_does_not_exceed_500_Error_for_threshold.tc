@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146387_Verification_of_Auto_Reload_Value_set_up_such_that_max_ceiling_amount_does_not_exceed_500_Error_for_threshold</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>985ced30-f1bb-4904-b26b-b88a12021a59</testCaseGuid>
+</TestCaseEntity>

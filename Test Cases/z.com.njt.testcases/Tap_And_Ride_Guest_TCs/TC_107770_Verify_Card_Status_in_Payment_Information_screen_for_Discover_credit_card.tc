@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107770_Verify_Card_Status_in_Payment_Information_screen_for_Discover_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d596040-1488-4ce9-9fab-a46256a79f4b</testCaseGuid>
+</TestCaseEntity>

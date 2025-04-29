@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_low_balance_message_for_cards_with_Card_Value_less_than_or_equal_to_5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36c577cb-9ba7-413e-b155-10a8ed920b39</testCaseGuid>
+</TestCaseEntity>

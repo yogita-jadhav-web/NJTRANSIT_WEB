@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sum of Reload and Threshold Amounts cannot exceed 500.00</name>
+   <tag></tag>
+   <elementGuidId>4bf61e98-87d2-424b-abef-3d874e6de97a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='rechargeAmtError']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rechargeAmtError</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Sum of Reload and Threshold Amounts cannot exceed $500.00' or . = 'Sum of Reload and Threshold Amounts cannot exceed $500.00')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Sum of Reload and Threshold Amounts cannot exceed $500.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cd9f12f-875b-4558-9d66-9bf8b88545f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-desc css-1ghfhs2</value>
+      <webElementGuid>8c4bdd42-d4ad-4d2a-aa4f-32d5a588d6c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rechargeAmtError</value>
+      <webElementGuid>f2616619-18ac-4d5c-a512-dd6dc6a432df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sum of Reload and Threshold Amounts cannot exceed $500.00</value>
+      <webElementGuid>0a172db0-1591-4f5a-9a6b-3a57ec348434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rechargeAmtError&quot;)</value>
+      <webElementGuid>60f944df-a5b2-4aad-9650-d9f3f01c4fd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='rechargeAmtError']</value>
+      <webElementGuid>c69c2a8c-3081-4ffb-82ed-0dbc0d36cddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFundsModal']/div[3]/div/div[2]/div[3]/div[2]/span</value>
+      <webElementGuid>68000694-502f-494b-bd9a-3db92e110810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$200'])[1]/following::span[2]</value>
+      <webElementGuid>77cf0f2e-0f09-47ca-a065-6a3f340d1b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100'])[1]/following::span[4]</value>
+      <webElementGuid>323830da-bb7c-4e1e-aa1f-aff5e9ea6a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note: Reload Amount should be between $10.00 and $500.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>b6577f6d-ed41-42eb-8e36-9999e195f247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Threshold Amount'])[1]/preceding::span[2]</value>
+      <webElementGuid>096e3b9f-92c1-4359-90c7-ba332ce276b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sum of Reload and Threshold Amounts cannot exceed $500.00']/parent::*</value>
+      <webElementGuid>8ac41cb6-c7b6-4c45-ac5d-3291e1f81905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span</value>
+      <webElementGuid>4c271bce-c4e7-473c-bc70-255112a26b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'rechargeAmtError' and (text() = 'Sum of Reload and Threshold Amounts cannot exceed $500.00' or . = 'Sum of Reload and Threshold Amounts cannot exceed $500.00')]</value>
+      <webElementGuid>b30f83ec-5861-4746-a7dd-f1f68e9cbc6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

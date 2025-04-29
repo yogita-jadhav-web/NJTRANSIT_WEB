@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_state_of_cancel_setup_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>665ad3c6-eba5-4e02-beba-2f3fe50a8dcb</testCaseGuid>
+</TestCaseEntity>

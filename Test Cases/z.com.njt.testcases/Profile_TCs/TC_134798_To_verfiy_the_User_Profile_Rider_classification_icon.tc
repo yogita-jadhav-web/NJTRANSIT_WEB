@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134798_To_verfiy_the_User_Profile_Rider_classification_icon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be88f5d1-4589-4919-b59e-25f65f725225</testCaseGuid>
+</TestCaseEntity>

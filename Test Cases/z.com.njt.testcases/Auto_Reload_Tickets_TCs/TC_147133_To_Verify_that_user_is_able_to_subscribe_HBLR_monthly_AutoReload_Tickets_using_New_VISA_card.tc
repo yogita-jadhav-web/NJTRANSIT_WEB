@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147133_To_Verify_that_user_is_able_to_subscribe_HBLR_monthly_AutoReload_Tickets_using_New_VISA_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>476be68d-3507-41f0-a0c9-e1fbafe35f93</testCaseGuid>
+</TestCaseEntity>

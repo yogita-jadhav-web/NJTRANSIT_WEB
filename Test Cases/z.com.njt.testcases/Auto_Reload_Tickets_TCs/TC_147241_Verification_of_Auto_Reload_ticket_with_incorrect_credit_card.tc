@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147241_Verification_of_Auto_Reload_ticket_with_incorrect_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eee59698-cef7-4a78-adc9-e7a9eb0f2fd8</testCaseGuid>
+</TestCaseEntity>

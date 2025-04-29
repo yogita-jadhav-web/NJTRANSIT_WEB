@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146384_Verification_of_Auto_Reload_ modification_changing_credit_card_only</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95940620-ab27-4543-9fe4-18e398f7b6a3</testCaseGuid>
+</TestCaseEntity>

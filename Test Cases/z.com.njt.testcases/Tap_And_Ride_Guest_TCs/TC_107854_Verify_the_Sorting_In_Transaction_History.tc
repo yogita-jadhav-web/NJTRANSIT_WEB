@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107854_Verify_the_Sorting_In_Transaction_History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cf3132e-71ca-4787-88b9-44946214ce7b</testCaseGuid>
+</TestCaseEntity>

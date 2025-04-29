@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109329_To_Verify_that_user_is_able_to_purchase_HBLR_monthly_ticket_with_existing_Amex_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>829d7d4f-235e-4dd2-9634-1de681a73132</testCaseGuid>
+</TestCaseEntity>

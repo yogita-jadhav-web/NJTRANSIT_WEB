@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146319_Verification_of_Auto_Reload_Tickets_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29d0f8dd-afb9-424c-a84a-b1f659c242c4</testCaseGuid>
+</TestCaseEntity>

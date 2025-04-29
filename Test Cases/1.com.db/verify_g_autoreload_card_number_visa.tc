@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_g_autoreload_card_number_visa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5989992f-fe4d-40a7-bf45-d0bcafdb8b2b</testCaseGuid>
+</TestCaseEntity>

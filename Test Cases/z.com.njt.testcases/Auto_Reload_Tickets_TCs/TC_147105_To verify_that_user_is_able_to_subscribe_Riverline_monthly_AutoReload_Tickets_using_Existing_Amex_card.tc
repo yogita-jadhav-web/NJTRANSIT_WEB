@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147105_To verify_that_user_is_able_to_subscribe_Riverline_monthly_AutoReload_Tickets_using_Existing_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7057f21-c33b-4c48-be68-35d324f6bef3</testCaseGuid>
+</TestCaseEntity>

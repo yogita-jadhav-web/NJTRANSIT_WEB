@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_HBLR_from_select_ticket_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8242f88-4631-4a62-bb5d-d4e060b15757</testCaseGuid>
+</TestCaseEntity>

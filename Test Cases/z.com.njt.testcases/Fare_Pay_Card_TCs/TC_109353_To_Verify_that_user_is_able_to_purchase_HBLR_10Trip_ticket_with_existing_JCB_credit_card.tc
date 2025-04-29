@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109353_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_with_existing_JCB_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d250246d-0671-4219-9ae4-27703361f41e</testCaseGuid>
+</TestCaseEntity>

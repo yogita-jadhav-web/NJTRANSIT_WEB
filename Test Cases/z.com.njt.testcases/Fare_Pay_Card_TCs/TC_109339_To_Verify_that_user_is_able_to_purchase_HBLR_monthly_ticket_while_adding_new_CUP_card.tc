@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109339_To_Verify_that_user_is_able_to_purchase_HBLR_monthly_ticket_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a03078e6-d3b3-4378-a65e-ca3eec84def7</testCaseGuid>
+</TestCaseEntity>

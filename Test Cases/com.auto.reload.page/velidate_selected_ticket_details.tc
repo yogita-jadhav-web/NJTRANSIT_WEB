@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>velidate_selected_ticket_details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>358e9ccd-5d72-464e-830c-07a03900073f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_cmsqaapp-noreplycmsservices.us</name>
+   <tag></tag>
+   <elementGuidId>e4824b04-a7f7-442a-893a-5f307d93ed0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.truncate.font-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;cmsqaapp-noreply@cmsservices.us&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>841c915b-5920-47fa-aedf-78f710adf09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>truncate font-bold</value>
+      <webElementGuid>ab332840-ef4c-4518-bfd5-2baf2efbbc67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cmsqaapp-noreply@cmsservices.us</value>
+      <webElementGuid>3fa87506-9acf-432a-9a31-5ab076f04f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;overflow-x-hidden&quot;]/main[@class=&quot;relative z-0 dark:text-stone-50/75 md:min-h-[50vh] lg:min-h-screen&quot;]/div[1]/div[@class=&quot;pb-16 pt-16 md:container md:mx-auto md:min-h-[50vh] md:px-8 md:pb-0 lg:min-h-[calc(100vh-12rem)]&quot;]/div[@class=&quot;items-start justify-center md:flex&quot;]/div[@class=&quot;flex w-full flex-nowrap items-stretch&quot;]/div[@class=&quot;-translate-x-[100vw] md:translate-x-0 flex-0 mb-16 w-full transition-transform duration-300 md:w-1/3 md:basis-1/3&quot;]/div[2]/div[@class=&quot;message relative p-2 px-8 transition-transform odd:bg-white even:bg-stone-100 hover:cursor-pointer dark:odd:bg-stone-900 dark:even:bg-stone-800 md:px-4 md:first:rounded-t-lg md:last:rounded-b-lg selected&quot;]/div[@class=&quot;truncate font-bold&quot;]</value>
+      <webElementGuid>2fe85fff-5448-4c06-be5c-52cded8e7bf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>5b16df64-18fd-4ce6-b0d6-07964acab499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::div[3]</value>
+      <webElementGuid>ba70ea12-ce99-47a0-9e6b-f3b6d0649ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::div[10]</value>
+      <webElementGuid>d60b02a7-f9e3-4031-90e1-f7a97d0685ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NJ TRANSIT WEB - Account Verification Code'])[1]/preceding::div[2]</value>
+      <webElementGuid>77df071f-fc65-4677-b83e-3795d7dae00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[3]</value>
+      <webElementGuid>cb0e5e17-0597-417d-acc1-4eaa58af2b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='cmsqaapp-noreply@cmsservices.us']/parent::*</value>
+      <webElementGuid>7b8af498-39b6-4a27-b508-a76906674ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>1cdc8ed4-fe39-4e9a-8cab-8880a160ab8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'cmsqaapp-noreply@cmsservices.us' or . = 'cmsqaapp-noreply@cmsservices.us')]</value>
+      <webElementGuid>dce042c3-2948-4c72-af00-0cc03e948df7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

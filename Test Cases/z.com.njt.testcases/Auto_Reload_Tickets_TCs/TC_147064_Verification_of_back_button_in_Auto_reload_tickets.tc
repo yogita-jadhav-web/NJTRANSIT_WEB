@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147064_Verification_of_back_button_in_Auto_reload_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69faa94b-ca76-48db-ac39-4b2cc7ae414d</testCaseGuid>
+</TestCaseEntity>

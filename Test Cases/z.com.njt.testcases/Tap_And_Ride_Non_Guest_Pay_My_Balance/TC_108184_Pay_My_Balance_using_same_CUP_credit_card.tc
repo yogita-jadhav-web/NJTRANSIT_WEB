@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108184_Pay_My_Balance_using_same_CUP_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa1f5c26-3cb4-4d8f-865c-df377cf04f52</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_On_Add FARE-PAY Card_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5434c600-c09f-4e09-80ca-3b6a231f298f</testCaseGuid>
+</TestCaseEntity>

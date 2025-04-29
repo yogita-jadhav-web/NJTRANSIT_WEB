@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109417_To_Verify_that_user_is_not_able_to_purchase_Weekly_over_another_Weekly_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7446134d-2240-4677-9b80-75747b17b6d6</testCaseGuid>
+</TestCaseEntity>

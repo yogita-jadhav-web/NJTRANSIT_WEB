@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_User_should_redirect_to_Previous_or_Next_screen_based_on_selection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbeb4c10-4910-421c-8b98-6e74f394558f</testCaseGuid>
+</TestCaseEntity>

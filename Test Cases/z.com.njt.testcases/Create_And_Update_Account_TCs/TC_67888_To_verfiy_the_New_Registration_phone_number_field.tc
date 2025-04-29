@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67888_To_verfiy_the_New_Registration_phone_number_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adc44403-d6b3-4a1a-b798-c16b87d3480e</testCaseGuid>
+</TestCaseEntity>

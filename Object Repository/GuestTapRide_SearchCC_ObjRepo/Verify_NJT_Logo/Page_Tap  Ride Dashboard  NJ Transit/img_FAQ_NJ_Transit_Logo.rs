@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_FAQ_NJ_Transit_Logo</name>
+   <tag></tag>
+   <elementGuidId>2b230e20-a9ec-41fa-9e61-cee6c37c0472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/div/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@alt = 'N J Transit logo with tagline: The Way to Go' and @src = '/njt-web/static/media/Image 2@2x.c52cdd738c0befc58636.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiBox-root.css-11a19c0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;N J Transit logo with tagline: The Way to Go&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c8e2783e-82f9-4274-b4e2-51297061f3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-11a19c0</value>
+      <webElementGuid>ff162087-8f9b-47a9-b0b5-fff816d706c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>N J Transit logo with tagline: The Way to Go</value>
+      <webElementGuid>91b360af-113f-431e-94b7-010ac2787e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/njt-web/static/media/Image 2@2x.c52cdd738c0befc58636.png</value>
+      <webElementGuid>64ee0869-523e-4563-b806-2cb5545c339a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-dy9fiw&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-nwbtuw&quot;]/div[@class=&quot;MuiBox-root css-1dyzbzu&quot;]/img[@class=&quot;MuiBox-root css-11a19c0&quot;]</value>
+      <webElementGuid>f2c29901-8b75-4d8c-8601-35fd463f6a9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/div/img</value>
+      <webElementGuid>b363343b-3520-48d2-a015-200dcd292372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='N J Transit logo with tagline: The Way to Go']</value>
+      <webElementGuid>c151b36f-c559-444a-b8a6-d02e4f69049a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e72fdd9c-dc5e-45fe-8ab1-4c6173992f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'N J Transit logo with tagline: The Way to Go' and @src = '/njt-web/static/media/Image 2@2x.c52cdd738c0befc58636.png']</value>
+      <webElementGuid>a72166d9-1bda-4dc0-a414-979df34ee698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

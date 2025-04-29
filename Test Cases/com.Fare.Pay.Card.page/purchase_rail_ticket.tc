@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>purchase_rail_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>154b51e5-9836-4c3f-a5e5-5fa3e608c7ca</testCaseGuid>
+</TestCaseEntity>

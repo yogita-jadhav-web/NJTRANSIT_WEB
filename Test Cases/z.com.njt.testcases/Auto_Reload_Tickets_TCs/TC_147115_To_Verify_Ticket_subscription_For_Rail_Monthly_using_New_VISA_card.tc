@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147115_To_Verify_Ticket_subscription_For_Rail_Monthly_using_New_VISA_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc8ba559-0a71-478c-9ae2-629ad254c97f</testCaseGuid>
+</TestCaseEntity>

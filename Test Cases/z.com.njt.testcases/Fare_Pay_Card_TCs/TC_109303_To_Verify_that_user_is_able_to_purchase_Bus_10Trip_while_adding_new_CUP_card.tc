@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109303_To_Verify_that_user_is_able_to_purchase_Bus_10Trip_while_adding_new_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54636774-aff8-4904-81f4-1571efbb58c5</testCaseGuid>
+</TestCaseEntity>

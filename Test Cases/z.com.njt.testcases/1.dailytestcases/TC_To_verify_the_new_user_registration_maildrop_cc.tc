@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_To_verify_the_new_user_registration_maildrop_cc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55330b23-97fd-4be6-bdcf-929b4e52c19a</testCaseGuid>
+</TestCaseEntity>

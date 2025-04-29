@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108241_Verification_of_Tool_Tip_in_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43a5f566-98ff-48ac-aa4c-2a1bcb6c359d</testCaseGuid>
+</TestCaseEntity>

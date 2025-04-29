@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_web_Trx_Date_Formate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c606bb7-6609-4226-90b9-93e2b6dd0292</testCaseGuid>
+</TestCaseEntity>

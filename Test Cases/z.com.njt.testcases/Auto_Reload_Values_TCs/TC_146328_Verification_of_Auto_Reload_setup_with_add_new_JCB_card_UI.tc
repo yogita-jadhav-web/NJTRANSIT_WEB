@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146328_Verification_of_Auto_Reload_setup_with_add_new_JCB_card_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a114b2ce-5fb8-44fb-a9d2-ff783c369fb6</testCaseGuid>
+</TestCaseEntity>

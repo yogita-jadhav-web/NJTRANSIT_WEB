@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147060_Verification_of_FP_card_Dashboard_for_Auto_Reload_Tickets_info</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98e86da3-773e-4263-a9e8-ca8b6e20fbb8</testCaseGuid>
+</TestCaseEntity>

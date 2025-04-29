@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Value_Using_Existing_DISCOVER_Credit_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e7ea1a8-241d-4e07-9eae-f3bd3837e1b3</testCaseGuid>
+</TestCaseEntity>

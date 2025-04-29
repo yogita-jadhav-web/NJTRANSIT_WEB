@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146358_Verification_of_Auto_Reload_pop_up_which_is_setup_using_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>117c25bb-4997-458f-b716-649d44304005</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108262_Verification_of_Message_when_user_using_different_Card_for_Re-Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0081801-387b-4543-b993-71901cca1369</testCaseGuid>
+</TestCaseEntity>

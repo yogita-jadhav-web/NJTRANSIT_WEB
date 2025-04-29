@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_min_reload_threshold_amounts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25bc0da4-30e3-4c35-98f4-acc00343b553</testCaseGuid>
+</TestCaseEntity>

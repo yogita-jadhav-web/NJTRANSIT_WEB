@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Register your card using Card Account</name>
+   <tag></tag>
+   <elementGuidId>1e368b65-73f7-4430-b089-fd58ecebfdbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='desc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Register your card using Card Account Id found in the TAP &amp; RIDE transaction in &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>583532c6-5a5f-4c5b-b625-c7b96519df58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-desc css-4xy8j8</value>
+      <webElementGuid>3b9e4092-226b-4bd8-909c-a2447ace33f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>67203f16-f36d-498e-a199-139743577623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.</value>
+      <webElementGuid>97673efe-d05f-44ca-9774-4ef22b980b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc&quot;)</value>
+      <webElementGuid>c0f20d60-1beb-430c-b0ba-92793ec5956c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='desc']</value>
+      <webElementGuid>776feaa6-ab8e-4829-9565-773f61c556be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentTabsCard']/div/div[4]/span</value>
+      <webElementGuid>78dd84fa-ab4e-46af-8454-c53fc9cec871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>46cd5d35-c1de-4d29-8d66-e59ebe9308e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Account Id'])[1]/preceding::span[2]</value>
+      <webElementGuid>0fc61c2c-3eaf-40b3-b1bd-a086c9e6c0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::span[4]</value>
+      <webElementGuid>91ff1668-076f-4fb0-817c-eb41bcfb9aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap the']/parent::*</value>
+      <webElementGuid>7918b521-d8a3-4000-9aa1-cd55619e93aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>77c27767-3bd9-41dd-9bb8-65554a806662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'desc' and (text() = 'Register your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.' or . = 'Register your card using Card Account Id found in the TAP &amp; RIDE transaction in your bank statement. Card Account Id is the 8 digit numeric referenced after NJT-. Tap theto see the example.')]</value>
+      <webElementGuid>a7d91b15-aa67-442d-be0a-9c0659d80d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

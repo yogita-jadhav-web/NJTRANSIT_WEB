@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108278_Verification_of_ Tap_and_Ride_card_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>210e13fc-a67a-47e0-8979-e7687f39b9b5</testCaseGuid>
+</TestCaseEntity>

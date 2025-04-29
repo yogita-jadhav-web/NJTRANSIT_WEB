@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147155_To_Verify_that_the_Tickets_are_not_editable_for_modify_Auto_Reload</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46b9d3e8-b81c-456b-8b4d-32fa438437ea</testCaseGuid>
+</TestCaseEntity>

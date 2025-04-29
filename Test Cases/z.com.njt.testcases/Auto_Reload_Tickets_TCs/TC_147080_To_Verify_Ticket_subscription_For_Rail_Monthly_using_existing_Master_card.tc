@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147080_To_Verify_Ticket_subscription_For_Rail_Monthly_using_existing_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4376712-834d-4998-9a8c-ec8e04ea1117</testCaseGuid>
+</TestCaseEntity>

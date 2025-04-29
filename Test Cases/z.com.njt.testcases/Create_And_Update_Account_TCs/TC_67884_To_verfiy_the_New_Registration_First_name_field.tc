@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67884_To_verfiy_the_New_Registration_First_name_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aad31d4-de9a-48b4-9cb0-3669554db832</testCaseGuid>
+</TestCaseEntity>

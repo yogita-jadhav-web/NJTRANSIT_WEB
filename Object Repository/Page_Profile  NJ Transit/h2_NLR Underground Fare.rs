@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_NLR Underground Fare</name>
+   <tag></tag>
+   <elementGuidId>26c6e9a2-e259-4b13-b4fa-054d538e4918</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h2[@id='riderTitle'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;NLR Underground Fare&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>150be8e4-73f3-491a-93b8-dfb4c4967434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-modalTitle css-1gg76kd</value>
+      <webElementGuid>50e85fab-4fc6-4838-aa1d-b629dbbd7d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>riderTitle</value>
+      <webElementGuid>b1299766-af61-46de-b1f3-1eb99bdc5609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NLR Underground Fare</value>
+      <webElementGuid>7ccacf8b-183e-4d85-ae90-21550ff5a4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addFarepayCard&quot;)/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/div[@class=&quot;main-card-border-custom MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiBox-root css-16hdjoa&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/h2[@id=&quot;riderTitle&quot;]</value>
+      <webElementGuid>02f17943-1998-4203-a363-8de14066d8a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h2[@id='riderTitle'])[2]</value>
+      <webElementGuid>a55886b5-b8e6-48be-9daa-38b4b9e38590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFarepayCard']/div/div/div[8]/div/h2</value>
+      <webElementGuid>5756160a-01ba-4e7a-94ae-681f8eaf937e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senior/Disabled'])[1]/following::h2[1]</value>
+      <webElementGuid>296175ad-39e9-4b2a-8ca9-6dc80350b101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NLR Underground Fare'])[2]/preceding::h2[1]</value>
+      <webElementGuid>b2c03586-36e5-4b80-b8a5-4e992be176ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f8cfe04a-3b20-41e3-b4a0-62f270cd3d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NLR Underground Fare']/parent::*</value>
+      <webElementGuid>e4b621ee-0909-4940-a4d5-8e634c7382de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/h2</value>
+      <webElementGuid>7c0dcee0-25e3-43a7-b95c-288493ea7a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'riderTitle' and (text() = 'NLR Underground Fare' or . = 'NLR Underground Fare')]</value>
+      <webElementGuid>ef8f7dfa-2259-4941-a98f-1d6bbd61286f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

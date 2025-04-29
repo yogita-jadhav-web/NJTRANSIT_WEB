@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109217_To_Verify_that_user_is_able_to_purchase_Rail_monthly_while_adding_new_VISA_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e07c518b-cc4b-40f3-8ce1-9fd381667267</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109345_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_while_adding_new_Master_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>961ed306-ab55-46c7-8840-c62685aa57b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108243_Verification_of_Error_message_when_user_Register_Payment_By_Invalid_Credit_Card_Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c260c9f-ef58-4dc6-8992-048bc8729f14</testCaseGuid>
+</TestCaseEntity>

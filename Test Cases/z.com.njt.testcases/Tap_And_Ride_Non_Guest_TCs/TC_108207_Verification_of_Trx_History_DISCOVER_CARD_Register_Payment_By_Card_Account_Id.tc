@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108207_Verification_of_Trx_History_DISCOVER_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d9126c7-6d0e-4ce8-af46-cb495c3c821b</testCaseGuid>
+</TestCaseEntity>

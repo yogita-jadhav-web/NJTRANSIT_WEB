@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_NJT_Deny_Status_on_Payment_Information_screen_when_the_card_is_in_NJT_Deny_list_Active_Card_Account_Id_Master</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b901b58-553b-43ef-b6d7-13530696a6f9</testCaseGuid>
+</TestCaseEntity>

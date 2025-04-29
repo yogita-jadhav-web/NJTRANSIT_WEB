@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146377_Verification_of_Quick_select_for_Reload_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c21847ae-6769-4deb-b57f-aeaa973f32ae</testCaseGuid>
+</TestCaseEntity>

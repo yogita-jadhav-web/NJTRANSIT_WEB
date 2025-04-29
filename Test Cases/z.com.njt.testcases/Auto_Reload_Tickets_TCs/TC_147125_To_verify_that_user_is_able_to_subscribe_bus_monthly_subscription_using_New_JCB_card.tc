@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147125_To_verify_that_user_is_able_to_subscribe_bus_monthly_subscription_using_New_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b41a05e-9f4e-48c3-bfbb-d05a5e4a6cd4</testCaseGuid>
+</TestCaseEntity>

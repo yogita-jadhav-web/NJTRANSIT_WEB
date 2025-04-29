@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107760_Verification_of_Guest_Tap_and_Ride_Card_button_on_NJT_Portal_Home_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e99b614d-aa11-4e57-91fa-187f019706f1</testCaseGuid>
+</TestCaseEntity>

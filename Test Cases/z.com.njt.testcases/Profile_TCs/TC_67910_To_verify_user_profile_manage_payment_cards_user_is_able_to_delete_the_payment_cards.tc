@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67910_To_verify_user_profile_manage_payment_cards_user_is_able_to_delete_the_payment_cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fd9a7ec-dd3d-47b8-8b19-6d250b0e1eca</testCaseGuid>
+</TestCaseEntity>

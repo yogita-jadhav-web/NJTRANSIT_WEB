@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_On_BUY_TICKETS_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>257b7773-ff8d-47c7-8b42-ed19012be8da</testCaseGuid>
+</TestCaseEntity>

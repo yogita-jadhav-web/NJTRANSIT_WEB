@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_weekly_chekbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>258e60d5-3312-4bb4-9f38-18e0b5642c6f</testCaseGuid>
+</TestCaseEntity>

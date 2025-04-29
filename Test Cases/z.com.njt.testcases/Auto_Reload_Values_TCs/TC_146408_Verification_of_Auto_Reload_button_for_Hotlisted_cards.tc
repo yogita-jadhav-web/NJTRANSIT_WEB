@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146408_Verification_of_Auto_Reload_button_for_Hotlisted_cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>902eccda-e596-4b9b-b748-f75c7116b899</testCaseGuid>
+</TestCaseEntity>

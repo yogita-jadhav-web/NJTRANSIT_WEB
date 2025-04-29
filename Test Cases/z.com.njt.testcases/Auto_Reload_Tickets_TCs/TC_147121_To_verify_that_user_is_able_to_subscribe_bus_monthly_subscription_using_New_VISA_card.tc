@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147121_To_verify_that_user_is_able_to_subscribe_bus_monthly_subscription_using_New_VISA_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c2517f9-9421-49ff-8700-039e3e6950f3</testCaseGuid>
+</TestCaseEntity>

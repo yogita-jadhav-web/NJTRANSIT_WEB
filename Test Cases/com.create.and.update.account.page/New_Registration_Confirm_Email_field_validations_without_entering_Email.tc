@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Confirm_Email_field_validations_without_entering_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83ba807e-f44c-464f-a905-f15c2cb35c42</testCaseGuid>
+</TestCaseEntity>

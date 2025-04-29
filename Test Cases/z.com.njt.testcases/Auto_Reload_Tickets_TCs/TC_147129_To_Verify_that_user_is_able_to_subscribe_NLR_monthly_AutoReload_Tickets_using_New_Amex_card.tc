@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147129_To_Verify_that_user_is_able_to_subscribe_NLR_monthly_AutoReload_Tickets_using_New_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a34b2e42-b39f-4d7c-b9aa-7a91e79a8de6</testCaseGuid>
+</TestCaseEntity>

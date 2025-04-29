@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67922_To_verify_that_Manage_Saved_Payments_field_shows_Add_New_card_link_along_with_card_brand_logos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>793fc721-840d-4b91-9dc2-d2f79660e891</testCaseGuid>
+</TestCaseEntity>

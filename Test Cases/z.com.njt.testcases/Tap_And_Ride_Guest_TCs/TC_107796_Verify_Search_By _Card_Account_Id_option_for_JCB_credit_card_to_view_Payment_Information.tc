@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107796_Verify_Search_By _Card_Account_Id_option_for_JCB_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fbfd589-9d08-4008-9c2e-ebb872fe7710</testCaseGuid>
+</TestCaseEntity>

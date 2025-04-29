@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109218_To_Verify_that_user_is_able_to_purchase_Rail_monthly_with_existing_Master_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78b443f5-449c-4a6b-93af-2f43eba60175</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107817_Verification_of_Trip_Details_VISA_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5860e94-3360-4a4d-a891-02196c8732a8</testCaseGuid>
+</TestCaseEntity>

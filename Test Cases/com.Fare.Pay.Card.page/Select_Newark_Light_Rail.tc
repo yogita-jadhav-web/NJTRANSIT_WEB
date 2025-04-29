@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Newark_Light_Rail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7a10d31-ccc6-49d1-b5a6-0b314513580f</testCaseGuid>
+</TestCaseEntity>

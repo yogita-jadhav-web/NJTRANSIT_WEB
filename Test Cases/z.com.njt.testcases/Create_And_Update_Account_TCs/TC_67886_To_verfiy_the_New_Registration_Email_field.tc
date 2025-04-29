@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67886_To_verfiy_the_New_Registration_Email_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0916acb4-8414-4ed0-9c98-f907c6e3fc1e</testCaseGuid>
+</TestCaseEntity>

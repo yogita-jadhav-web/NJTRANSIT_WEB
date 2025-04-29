@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Auto ReloadSelect FARE-PAY Card 6375-00_7a7505</name>
+   <tag></tag>
+   <elementGuidId>23165ca9-618e-4b22-8e59-c2c5c9a5fc95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addFundsModal']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Auto ReloadSelect FARE-PAY Card: 6375-0041-0997-8888Card Value.a{fill:#fb8e2c}Ti&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee54847d-7cc8-4b78-941e-896d3825aeb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>4be806db-e3bc-46ae-aa1a-545b308a8bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>90605106-c4bb-46fe-bed0-72b340b28367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c5e4cd60-56d1-4ba1-a0c7-1f7a8e5d9ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Auto ReloadSelect FARE-PAY Card: 6375-0041-0997-8888​Card Value.a{fill:#fb8e2c}Tickets* Denotes required fieldsReload Amount *​$25$50$100$200Note: Reload Amount should be between $10.00 and $500.00Threshold Amount *​$10$20$30$50Note: Threshold Amount should be between $10.00 and $50.00Payment MethodsFtjTeW (XXXX XXXX XXXX 0286)ADD NEW CARDCancelSetup</value>
+      <webElementGuid>f8ba82dc-1f69-4bdf-9af6-57354ba06ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addFundsModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>0ec27402-6240-4ae3-868c-7cb7cd7dae41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFundsModal']/div[3]</value>
+      <webElementGuid>0347ae0c-b5fb-445e-b084-dee306399d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::div[8]</value>
+      <webElementGuid>3df0c03b-7f7a-4939-a965-10f7a9bdfed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate this translation'])[1]/following::div[9]</value>
+      <webElementGuid>c91948a8-5626-4a9e-90af-67ac670e50e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+      <webElementGuid>339ae31c-cbda-4c01-9a66-364445d854ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Auto ReloadSelect FARE-PAY Card: 6375-0041-0997-8888​Card Value.a{fill:#fb8e2c}Tickets* Denotes required fieldsReload Amount *​$25$50$100$200Note: Reload Amount should be between $10.00 and $500.00Threshold Amount *​$10$20$30$50Note: Threshold Amount should be between $10.00 and $50.00Payment MethodsFtjTeW (XXXX XXXX XXXX 0286)ADD NEW CARDCancelSetup' or . = 'Auto ReloadSelect FARE-PAY Card: 6375-0041-0997-8888​Card Value.a{fill:#fb8e2c}Tickets* Denotes required fieldsReload Amount *​$25$50$100$200Note: Reload Amount should be between $10.00 and $500.00Threshold Amount *​$10$20$30$50Note: Threshold Amount should be between $10.00 and $50.00Payment MethodsFtjTeW (XXXX XXXX XXXX 0286)ADD NEW CARDCancelSetup')]</value>
+      <webElementGuid>653eb313-cca9-43f1-b61b-be0a68cfef7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

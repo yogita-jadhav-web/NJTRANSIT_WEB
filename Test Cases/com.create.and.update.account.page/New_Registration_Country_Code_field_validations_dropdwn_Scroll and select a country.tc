@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Country_Code_field_validations_dropdwn_Scroll and select a country</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a02f7f3b-f4bc-424d-9a71-df4ab393fd0c</testCaseGuid>
+</TestCaseEntity>

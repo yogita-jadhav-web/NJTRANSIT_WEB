@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for HBLR Monthly (Future or Next month)_3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f2c7ae7-5603-47b1-a197-6516ff83982e</testCaseGuid>
+</TestCaseEntity>

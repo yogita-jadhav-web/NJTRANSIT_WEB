@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109247_To_Verify_that_user_is_able_to_purchase_Rail_Weekly_while_adding_new_JCB_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a2e0c1d-726a-4211-a121-fada99ae5190</testCaseGuid>
+</TestCaseEntity>

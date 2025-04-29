@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_More_Than_3_digits_PIN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1be99434-a07b-4162-b404-5b716ca2eaa4</testCaseGuid>
+</TestCaseEntity>

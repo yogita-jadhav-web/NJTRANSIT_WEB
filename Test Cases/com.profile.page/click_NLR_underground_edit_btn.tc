@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_NLR_underground_edit_btn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3356f92-cfee-4325-8e58-a1fc32788d35</testCaseGuid>
+</TestCaseEntity>

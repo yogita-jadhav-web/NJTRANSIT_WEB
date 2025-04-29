@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_on_add_new_card_button_add_value_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69006cb2-ffa1-4d17-b525-f01f70bada2f</testCaseGuid>
+</TestCaseEntity>

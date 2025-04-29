@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108182_Pay_My_Balance_using_same_Amex_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27667428-a4c9-4f2e-97df-315d29acc5b9</testCaseGuid>
+</TestCaseEntity>

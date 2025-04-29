@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_invalid_cvv</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>527e0ad6-c249-4ebc-9f52-a09bda1ed0c3</testCaseGuid>
+</TestCaseEntity>

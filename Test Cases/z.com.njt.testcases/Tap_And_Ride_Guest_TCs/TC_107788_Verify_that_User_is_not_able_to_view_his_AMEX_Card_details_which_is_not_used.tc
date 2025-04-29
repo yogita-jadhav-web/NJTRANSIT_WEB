@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107788_Verify_that_User_is_not_able_to_view_his_AMEX_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4db48913-abc8-42b0-93be-4571bf3df07c</testCaseGuid>
+</TestCaseEntity>

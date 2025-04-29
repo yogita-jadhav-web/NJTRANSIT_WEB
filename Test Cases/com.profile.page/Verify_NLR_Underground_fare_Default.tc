@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_NLR_Underground_fare_Default</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20ed51e9-42ea-4d7c-a57b-de45f2fd0e32</testCaseGuid>
+</TestCaseEntity>

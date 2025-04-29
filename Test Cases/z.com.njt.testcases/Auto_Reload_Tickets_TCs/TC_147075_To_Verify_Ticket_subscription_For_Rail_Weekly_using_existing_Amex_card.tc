@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147075_To_Verify_Ticket_subscription_For_Rail_Weekly_using_existing_Amex_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>746a22c7-1533-4e62-98b7-f1b3f2023af4</testCaseGuid>
+</TestCaseEntity>

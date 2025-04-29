@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108198_Verification_of_Register_Payment_By_Card_Account_Id_option_for_VISA_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a90f301-603a-48a1-8ce8-77b31aa056fd</testCaseGuid>
+</TestCaseEntity>

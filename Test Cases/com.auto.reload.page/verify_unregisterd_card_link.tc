@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_unregisterd_card_link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2614e0ad-b0ee-4db2-85d3-b8664e06d4e8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Refund_for_a_Hoboken_via_Rail_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43857aba-281e-47bd-8f83-22f1efcfe036</testCaseGuid>
+</TestCaseEntity>

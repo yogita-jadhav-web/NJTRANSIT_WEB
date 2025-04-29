@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107816_Verification_of_Trip_Details_CUP_CARD_Search_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dabe8eb6-d2c3-4f9f-80ed-91e3a88ae015</testCaseGuid>
+</TestCaseEntity>

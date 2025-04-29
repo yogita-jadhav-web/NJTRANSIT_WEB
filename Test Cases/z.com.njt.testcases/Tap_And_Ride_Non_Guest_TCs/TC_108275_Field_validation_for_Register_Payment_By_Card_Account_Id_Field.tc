@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108275_Field_validation_for_Register_Payment_By_Card_Account_Id_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31f2e4a3-8fe7-4455-9c9a-a44db9105389</testCaseGuid>
+</TestCaseEntity>

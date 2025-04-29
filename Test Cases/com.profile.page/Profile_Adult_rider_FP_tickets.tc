@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile_Adult_rider_FP_tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>979223a9-cf1e-42ee-a38c-61ffee9ee2dc</testCaseGuid>
+</TestCaseEntity>

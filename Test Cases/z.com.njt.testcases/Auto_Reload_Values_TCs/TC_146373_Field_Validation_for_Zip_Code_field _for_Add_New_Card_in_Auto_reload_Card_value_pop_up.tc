@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146373_Field_Validation_for_Zip_Code_field _for_Add_New_Card_in_Auto_reload_Card_value_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eec7d760-85eb-420b-a72d-d37d8b05c649</testCaseGuid>
+</TestCaseEntity>

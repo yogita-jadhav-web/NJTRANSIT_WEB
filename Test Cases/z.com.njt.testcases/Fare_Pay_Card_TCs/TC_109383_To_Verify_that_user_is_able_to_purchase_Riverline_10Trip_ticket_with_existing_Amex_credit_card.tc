@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109383_To_Verify_that_user_is_able_to_purchase_Riverline_10Trip_ticket_with_existing_Amex_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ac74fc1-852a-4b2c-939c-67a940d677a0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Random_Route</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f015b97-28e1-4df5-a4ce-5e9a3d12a4d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_By_PaymentCard_tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd90770b-7a0f-44a0-8b0d-f755c2901b9e</testCaseGuid>
+</TestCaseEntity>

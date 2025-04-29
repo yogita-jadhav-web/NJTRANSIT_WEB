@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_occurred_during_payment_processing_Please_retry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57073666-9064-4087-8d07-70beddfd94e2</testCaseGuid>
+</TestCaseEntity>

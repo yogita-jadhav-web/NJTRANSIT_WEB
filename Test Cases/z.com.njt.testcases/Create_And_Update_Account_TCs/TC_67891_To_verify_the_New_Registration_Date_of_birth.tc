@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67891_To_verify_the_New_Registration_Date_of_birth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a9a5a23-b684-4b26-8be6-eec462180be8</testCaseGuid>
+</TestCaseEntity>

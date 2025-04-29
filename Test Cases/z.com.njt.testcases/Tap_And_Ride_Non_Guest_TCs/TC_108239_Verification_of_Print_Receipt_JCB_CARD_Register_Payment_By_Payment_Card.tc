@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108239_Verification_of_Print_Receipt_JCB_CARD_Register_Payment_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2095d2d-3b0e-40fb-be51-c4e114592dcb</testCaseGuid>
+</TestCaseEntity>

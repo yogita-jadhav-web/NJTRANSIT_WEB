@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147107_To verify_that_user_is_able_to_subscribe_Riverline_monthly_AutoReload_Tickets_using_Existing_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bbc9477-4d21-45ab-a4a7-d16ea7da6e16</testCaseGuid>
+</TestCaseEntity>

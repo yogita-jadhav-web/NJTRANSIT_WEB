@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select_Tariff_Type_From_Light_Rail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e89535a8-42b6-49e8-bc57-d9a95f52c4f1</testCaseGuid>
+</TestCaseEntity>

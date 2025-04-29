@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107772_Verify_Card_Status_in_Payment_Information_screen_for_CUP_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5eec1148-a143-49d3-b1ee-8b075da54c94</testCaseGuid>
+</TestCaseEntity>

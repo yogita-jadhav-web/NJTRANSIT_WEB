@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146397_Verification_of_Auto_Reload_using_JCB_card_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18d570e2-ce15-4e9d-9221-c6e21a9d3fce</testCaseGuid>
+</TestCaseEntity>

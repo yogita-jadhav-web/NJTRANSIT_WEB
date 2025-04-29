@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109349_To_Verify_that_user_is_able_to_purchase_HBLR_10Trip_ticket_while_adding_new_Amex_card_and_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb39b6f3-ca34-4172-b3ba-d8090a691657</testCaseGuid>
+</TestCaseEntity>

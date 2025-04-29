@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146364_Verification_of_Auto_Reload_pop_up_which_is_setup_using_Discover_Card_and_then_suspended</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad477b59-c61d-4921-8814-acd4329d2550</testCaseGuid>
+</TestCaseEntity>

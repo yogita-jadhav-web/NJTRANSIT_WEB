@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109407_To_verify_the_card_is_not_saved_when_the_user_tries_to_purchase_second_ticket_within_same_validity_using_save_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c36fe7e9-befe-4346-a8da-fdc335e503c2</testCaseGuid>
+</TestCaseEntity>

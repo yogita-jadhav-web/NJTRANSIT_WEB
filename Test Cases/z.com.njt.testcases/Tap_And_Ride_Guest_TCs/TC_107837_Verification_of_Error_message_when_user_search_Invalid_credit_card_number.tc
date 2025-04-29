@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107837_Verification_of_Error_message_when_user_search_Invalid_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00c7fc77-40a3-463b-b596-51768004da06</testCaseGuid>
+</TestCaseEntity>

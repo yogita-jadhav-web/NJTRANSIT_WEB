@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134801_To_verfiy_the_User_Profile_Rider_classification_update_confirmation_Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9de6336f-6535-4db9-992f-1ec2f1b10ca1</testCaseGuid>
+</TestCaseEntity>

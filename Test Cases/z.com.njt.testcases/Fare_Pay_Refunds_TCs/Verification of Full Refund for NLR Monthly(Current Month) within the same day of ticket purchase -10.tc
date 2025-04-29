@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for NLR Monthly(Current Month) within the same day of ticket purchase -10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2cc6501-a9ad-406d-b964-93fdd891a490</testCaseGuid>
+</TestCaseEntity>

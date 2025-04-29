@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108209_Verification_of_Trx_History_CUP_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b0dfbf7-54ab-4ef2-a2b0-440a923ce2bf</testCaseGuid>
+</TestCaseEntity>

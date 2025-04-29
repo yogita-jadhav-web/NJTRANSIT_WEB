@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146400_Verification_of_Auto_Reload_when_credit_card_limit_is_reached</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7924f3de-6c2e-4f6d-a6b8-42a895df02b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107766_Verify_Search_By_Payment_Card_option_for_CUP_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d0410e2-268e-432e-bd82-c9751b90ddc4</testCaseGuid>
+</TestCaseEntity>

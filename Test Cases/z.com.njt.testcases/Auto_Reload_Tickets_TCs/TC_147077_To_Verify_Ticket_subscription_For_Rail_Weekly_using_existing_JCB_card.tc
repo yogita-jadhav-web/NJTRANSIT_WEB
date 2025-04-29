@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147077_To_Verify_Ticket_subscription_For_Rail_Weekly_using_existing_JCB_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1d3b327-924f-4bff-8e1a-9b3812a300b5</testCaseGuid>
+</TestCaseEntity>

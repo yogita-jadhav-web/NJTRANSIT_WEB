@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108206_Verification_of_Trx_History_AMEX_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e09f6e3a-fe39-44fd-b56c-14640e4224e7</testCaseGuid>
+</TestCaseEntity>

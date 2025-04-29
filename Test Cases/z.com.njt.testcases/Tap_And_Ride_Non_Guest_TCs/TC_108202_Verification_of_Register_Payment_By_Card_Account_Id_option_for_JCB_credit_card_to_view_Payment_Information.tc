@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108202_Verification_of_Register_Payment_By_Card_Account_Id_option_for_JCB_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f988efc-5799-4b46-b2c8-780b5112b68d</testCaseGuid>
+</TestCaseEntity>

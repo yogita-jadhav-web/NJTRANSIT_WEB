@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108219_Verification_of_Trip_Details_AMEX_CARD_Register_Payment_By Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99a82257-9259-4c81-89c6-a8ad5ff489ef</testCaseGuid>
+</TestCaseEntity>

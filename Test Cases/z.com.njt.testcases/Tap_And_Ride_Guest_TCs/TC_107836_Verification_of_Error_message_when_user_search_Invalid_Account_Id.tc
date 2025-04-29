@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107836_Verification_of_Error_message_when_user_search_Invalid_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63a012ac-1920-45b7-94db-8ac18c94f21e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146345_Verification_of_auto_reload_setup_using_invalid_Discover_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da7f0bdc-d78e-4f5f-b56a-786e841f1152</testCaseGuid>
+</TestCaseEntity>

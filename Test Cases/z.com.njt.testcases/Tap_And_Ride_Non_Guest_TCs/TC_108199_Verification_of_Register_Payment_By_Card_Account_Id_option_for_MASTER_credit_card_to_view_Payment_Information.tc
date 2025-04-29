@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108199_Verification_of_Register_Payment_By_Card_Account_Id_option_for_MASTER_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d256a6e5-16cd-4d85-93ac-205042763f43</testCaseGuid>
+</TestCaseEntity>

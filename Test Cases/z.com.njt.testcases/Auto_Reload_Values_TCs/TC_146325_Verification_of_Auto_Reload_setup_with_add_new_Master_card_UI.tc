@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146325_Verification_of_Auto_Reload_setup_with_add_new_Master_card_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9831d94-1fdd-4861-a058-d3011d3594ab</testCaseGuid>
+</TestCaseEntity>

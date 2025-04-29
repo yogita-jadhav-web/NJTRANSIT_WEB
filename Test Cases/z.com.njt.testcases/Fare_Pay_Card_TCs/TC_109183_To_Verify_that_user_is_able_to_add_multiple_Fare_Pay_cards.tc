@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109183_To_Verify_that_user_is_able_to_add_multiple_Fare_Pay_cards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>226b13e2-538b-4764-b5a8-4bec7262e4f5</testCaseGuid>
+</TestCaseEntity>

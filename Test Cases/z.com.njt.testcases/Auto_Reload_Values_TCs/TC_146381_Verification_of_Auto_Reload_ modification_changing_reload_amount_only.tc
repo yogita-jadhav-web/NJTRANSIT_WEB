@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146381_Verification_of_Auto_Reload_ modification_changing_reload_amount_only</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1b2470f-5d1b-46b0-978f-9d93f8631294</testCaseGuid>
+</TestCaseEntity>

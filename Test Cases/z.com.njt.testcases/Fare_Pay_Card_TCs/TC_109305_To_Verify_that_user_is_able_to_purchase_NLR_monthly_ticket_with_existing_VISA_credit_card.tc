@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109305_To_Verify_that_user_is_able_to_purchase_NLR_monthly_ticket_with_existing_VISA_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98909877-cc1d-4d14-96f0-e5aa58cca846</testCaseGuid>
+</TestCaseEntity>

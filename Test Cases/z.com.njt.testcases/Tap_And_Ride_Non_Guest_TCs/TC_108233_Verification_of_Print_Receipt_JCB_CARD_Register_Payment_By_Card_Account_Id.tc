@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108233_Verification_of_Print_Receipt_JCB_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b903e31-2d67-4728-b8a7-ac0a61775940</testCaseGuid>
+</TestCaseEntity>

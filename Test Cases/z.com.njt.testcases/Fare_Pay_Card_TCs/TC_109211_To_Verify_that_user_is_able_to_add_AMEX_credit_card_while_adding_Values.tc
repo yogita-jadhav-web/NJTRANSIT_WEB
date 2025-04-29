@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109211_To_Verify_that_user_is_able_to_add_AMEX_credit_card_while_adding_Values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>871937ed-0dd8-46e0-9fb9-363156de6d5b</testCaseGuid>
+</TestCaseEntity>

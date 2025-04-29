@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146340_Verification_of_Auto_Reload_cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9aa64a71-cfd3-4b06-8db0-50aeeb75e8d0</testCaseGuid>
+</TestCaseEntity>

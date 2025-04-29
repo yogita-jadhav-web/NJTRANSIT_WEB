@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107818_Verification_of_Trip_Details_MASTER_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90e4234e-c9fc-401d-89bd-6073cde4cc51</testCaseGuid>
+</TestCaseEntity>

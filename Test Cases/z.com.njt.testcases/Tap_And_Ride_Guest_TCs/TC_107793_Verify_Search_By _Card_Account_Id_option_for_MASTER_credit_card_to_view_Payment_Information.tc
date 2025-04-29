@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107793_Verify_Search_By _Card_Account_Id_option_for_MASTER_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf9d8115-c260-4ed4-ac3c-75c4ea362011</testCaseGuid>
+</TestCaseEntity>

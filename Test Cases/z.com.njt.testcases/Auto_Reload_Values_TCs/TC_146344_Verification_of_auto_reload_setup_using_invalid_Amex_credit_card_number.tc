@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146344_Verification_of_auto_reload_setup_using_invalid_Amex_credit_card_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c516e05-301e-4a68-bed6-336c98a44cbe</testCaseGuid>
+</TestCaseEntity>

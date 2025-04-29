@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147126_To_verify_that_user_is_able_to_subscribe_bus_monthly_subscription_using_New_CUP_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da9ffc3e-437d-4a12-9fce-f9220a875e35</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115843_Field_validation_for_Card_Nickname_for_Add_New_Card_in_Add_value_Card_value_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07e59b34-d6a3-4945-b63d-b6bcdff58600</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108175_Verification_of_Card_Status_in_Payment_Information_screen_for_AMEX_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4778e46b-bda5-4825-a5b3-35b18f15949a</testCaseGuid>
+</TestCaseEntity>

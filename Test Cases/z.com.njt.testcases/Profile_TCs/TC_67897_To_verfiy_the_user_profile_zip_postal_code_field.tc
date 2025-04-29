@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_67897_To_verfiy_the_user_profile_zip_postal_code_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e03a0404-8957-4a68-b526-42ffc3a6e672</testCaseGuid>
+</TestCaseEntity>

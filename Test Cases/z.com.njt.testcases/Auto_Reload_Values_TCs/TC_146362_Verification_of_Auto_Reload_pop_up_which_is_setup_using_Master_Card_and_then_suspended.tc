@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146362_Verification_of_Auto_Reload_pop_up_which_is_setup_using_Master_Card_and_then_suspended</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b83cadfd-f003-4a17-b064-eea52d642e84</testCaseGuid>
+</TestCaseEntity>

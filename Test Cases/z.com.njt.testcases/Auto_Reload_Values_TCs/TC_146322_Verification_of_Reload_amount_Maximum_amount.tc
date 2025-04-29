@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146322_Verification_of_Reload_amount_Maximum_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>142f5f88-beca-4d6a-9993-5c2f09afd35f</testCaseGuid>
+</TestCaseEntity>

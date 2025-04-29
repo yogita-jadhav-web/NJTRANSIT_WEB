@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Registration_Country_Code_field_validations_dropdwn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>702ddd1f-b113-427b-8f13-0689c36a1216</testCaseGuid>
+</TestCaseEntity>

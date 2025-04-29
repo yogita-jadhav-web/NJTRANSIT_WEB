@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107790_Verify_that_User_is_not_able_to_view_his_JCB_Card_details_which_is_not_used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44aceacf-73d0-4dbd-943e-459e38b3a8d2</testCaseGuid>
+</TestCaseEntity>

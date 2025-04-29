@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109400_To_verify_that_user_should_not_be_able_to_buy_tickets_Add_Value_to_a_lost_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1d82751-f9a5-4c96-8564-94c0e740370b</testCaseGuid>
+</TestCaseEntity>

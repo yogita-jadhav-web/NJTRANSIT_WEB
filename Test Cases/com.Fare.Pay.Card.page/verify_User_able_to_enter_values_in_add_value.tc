@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_User_able_to_enter_values_in_add_value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4566beee-43ed-4879-9a0e-cccd17aec7fb</testCaseGuid>
+</TestCaseEntity>

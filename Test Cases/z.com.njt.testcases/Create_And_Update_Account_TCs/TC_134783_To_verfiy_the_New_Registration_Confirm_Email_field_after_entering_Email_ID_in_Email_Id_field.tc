@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_134783_To_verfiy_the_New_Registration_Confirm_Email_field_after_entering_Email_ID_in_Email_Id_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32087fc6-74ea-4ff5-839f-3ab539a997db</testCaseGuid>
+</TestCaseEntity>

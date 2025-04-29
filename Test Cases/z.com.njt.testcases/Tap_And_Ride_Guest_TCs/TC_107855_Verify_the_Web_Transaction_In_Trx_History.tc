@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107855_Verify_the_Web_Transaction_In_Trx_History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4856645-08a9-4734-8fc4-67ee52009d86</testCaseGuid>
+</TestCaseEntity>

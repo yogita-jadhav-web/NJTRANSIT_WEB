@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_108230_Verification_of_Print_Receipt_MASTER_CARD_Register_Payment_By_Card_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff708aa8-35f4-4a98-bee4-d5077d2ffe70</testCaseGuid>
+</TestCaseEntity>

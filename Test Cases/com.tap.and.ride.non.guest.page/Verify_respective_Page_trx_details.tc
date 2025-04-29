@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_respective_Page_trx_details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bdb9021-238f-4ec8-81ca-0e7c8a8ad1a9</testCaseGuid>
+</TestCaseEntity>

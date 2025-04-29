@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>change_the_reload_amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef1b53fb-efd3-40aa-bdac-6fa44fe37b55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Cardholders Name is required</name>
+   <tag></tag>
+   <elementGuidId>a13bc66a-b81d-40b4-94eb-97cc05a0561f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ccHolderName-error-text' and (text() = concat(&quot;Cardholder&quot; , &quot;'&quot; , &quot;s Name is required&quot;) or . = concat(&quot;Cardholder&quot; , &quot;'&quot; , &quot;s Name is required&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ccHolderName-error-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='ccHolderName-error-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cardholder's Name is required&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f05ef333-bcf1-4ca0-9e1a-e8214dcde62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-18emikf</value>
+      <webElementGuid>18b47a87-45af-437e-acb0-4db173d41daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ccHolderName-error-text</value>
+      <webElementGuid>d4c52f57-4714-4890-b718-c38f49a79e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>b03ae31c-7c54-4377-b015-96502eaa5003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cardholder's Name is required</value>
+      <webElementGuid>f78a3438-56cb-4eb9-84e0-21441daefd14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ccHolderName-error-text&quot;)</value>
+      <webElementGuid>dfd3d945-7e76-4156-99dc-53b1c50c37b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='ccHolderName-error-text']</value>
+      <webElementGuid>f7df5059-7fa1-403c-94aa-182ae83a8dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='patDebtForm']/div/div/div/div/div[2]/p</value>
+      <webElementGuid>f7dab3ce-16db-4894-a93f-d8cab388baa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::p[1]</value>
+      <webElementGuid>8942b5a1-5358-47c6-96b8-1c7cad0ae926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Number'])[2]/preceding::p[1]</value>
+      <webElementGuid>955b56b9-c678-4f1e-93f2-95dff21d3203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::p[1]</value>
+      <webElementGuid>ffd5fc07-fa85-4c3c-93cb-b2a20b6a42e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/p</value>
+      <webElementGuid>950c2e86-57fa-4b92-8daa-135dca5fb864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'ccHolderName-error-text' and (text() = concat(&quot;Cardholder&quot; , &quot;'&quot; , &quot;s Name is required&quot;) or . = concat(&quot;Cardholder&quot; , &quot;'&quot; , &quot;s Name is required&quot;))]</value>
+      <webElementGuid>ca389f97-e548-40d4-ae56-f6cc35349693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

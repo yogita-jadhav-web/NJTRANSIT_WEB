@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_Session_Storage_for_CC_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56b8befb-6bc5-4d0b-975b-877949191c91</testCaseGuid>
+</TestCaseEntity>

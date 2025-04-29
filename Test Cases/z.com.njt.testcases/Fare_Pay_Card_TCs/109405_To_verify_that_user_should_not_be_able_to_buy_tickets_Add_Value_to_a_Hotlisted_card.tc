@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>109405_To_verify_that_user_should_not_be_able_to_buy_tickets_Add_Value_to_a_Hotlisted_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73d511f2-e9c7-42b3-98f7-561c2396ecb3</testCaseGuid>
+</TestCaseEntity>

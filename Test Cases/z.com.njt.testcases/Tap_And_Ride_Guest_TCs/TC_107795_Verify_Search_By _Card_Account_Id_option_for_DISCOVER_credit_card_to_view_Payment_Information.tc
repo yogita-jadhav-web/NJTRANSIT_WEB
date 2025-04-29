@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107795_Verify_Search_By _Card_Account_Id_option_for_DISCOVER_credit_card_to_view_Payment_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f5162d3-cd3b-4471-8a6e-e8d5a1931d70</testCaseGuid>
+</TestCaseEntity>

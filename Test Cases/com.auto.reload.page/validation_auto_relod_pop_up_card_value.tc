@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validation_auto_relod_pop_up_card_value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b50af8de-c4cd-4bc7-9aee-aa6197608e0a</testCaseGuid>
+</TestCaseEntity>

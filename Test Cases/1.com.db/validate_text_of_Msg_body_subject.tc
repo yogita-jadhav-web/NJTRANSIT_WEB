@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_text_of_Msg_body_subject</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adb8fcc9-4606-4260-96f0-5d145dd7030b</testCaseGuid>
+</TestCaseEntity>

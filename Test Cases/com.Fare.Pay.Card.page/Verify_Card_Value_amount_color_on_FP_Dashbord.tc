@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Card_Value_amount_color_on_FP_Dashbord</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f48d987-15ae-41e8-bbeb-cdc77a956e40</testCaseGuid>
+</TestCaseEntity>

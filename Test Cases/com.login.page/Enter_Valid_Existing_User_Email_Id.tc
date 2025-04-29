@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Valid_Existing_User_Email_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fc1fe7a-5c27-42fc-9f84-5dd9385923a2</testCaseGuid>
+</TestCaseEntity>

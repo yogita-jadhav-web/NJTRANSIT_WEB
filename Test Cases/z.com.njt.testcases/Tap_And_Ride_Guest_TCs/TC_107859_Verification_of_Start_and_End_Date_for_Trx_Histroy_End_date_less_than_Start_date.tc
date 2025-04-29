@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107859_Verification_of_Start_and_End_Date_for_Trx_Histroy_End_date_less_than_Start_date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d64ad52c-3282-4f36-99a6-3508009d4cfe</testCaseGuid>
+</TestCaseEntity>

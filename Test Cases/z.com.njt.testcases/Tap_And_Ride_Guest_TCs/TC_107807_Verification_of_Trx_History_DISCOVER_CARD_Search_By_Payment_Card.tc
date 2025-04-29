@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107807_Verification_of_Trx_History_DISCOVER_CARD_Search_By_Payment_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35f1986b-0727-432f-8e99-def6ab7d3426</testCaseGuid>
+</TestCaseEntity>

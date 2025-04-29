@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_suspend_dates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>886a9d14-d8cb-47fc-adfd-9acc1d0ea10f</testCaseGuid>
+</TestCaseEntity>

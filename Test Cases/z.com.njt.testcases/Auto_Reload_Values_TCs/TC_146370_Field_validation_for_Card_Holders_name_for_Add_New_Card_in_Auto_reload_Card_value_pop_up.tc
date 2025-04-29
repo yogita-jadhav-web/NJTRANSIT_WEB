@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146370_Field_validation_for_Card_Holders_name_for_Add_New_Card_in_Auto_reload_Card_value_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a71a99b7-19dd-44c2-bc56-00dd8e7f1bb2</testCaseGuid>
+</TestCaseEntity>

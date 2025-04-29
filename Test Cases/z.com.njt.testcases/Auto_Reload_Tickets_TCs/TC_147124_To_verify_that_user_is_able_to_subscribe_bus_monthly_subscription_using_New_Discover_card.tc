@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147124_To_verify_that_user_is_able_to_subscribe_bus_monthly_subscription_using_New_Discover_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c505775-862c-43c0-9f42-711038d526fb</testCaseGuid>
+</TestCaseEntity>

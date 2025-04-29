@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Select_Tap_And_Ride_Card_option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>633c19cb-34d5-4da6-a56d-b25d48ec0ce0</testCaseGuid>
+</TestCaseEntity>

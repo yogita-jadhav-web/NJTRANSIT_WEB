@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_No_farecard_id</name>
+   <tag></tag>
+   <elementGuidId>d07c417d-39f8-416d-a8e9-987ef9fd6bcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@id='farecard_id'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-0 > #farecard_id</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'farecard_id' and @alt = 'New Jersey Transit Fare-Pay card. The card has an abstract orange, pink and navy blue pattern on it and the text The easiest way to pay. The fastest way to ride! written on it under the name of the card.' and @src = '/njt-web/static/media/farecard.97874d5d4333ae7858db.png']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;New Jersey Transit Fare-Pay card. The card has an abstract orange, pink and navy blue pattern on it and the text The easiest way to pay. The fastest way to ride! written on it under the name of the card.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fad7c690-6108-408d-b818-b28404773b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-13ox9ds</value>
+      <webElementGuid>3af3b182-44a6-4e68-88f5-64c7820b84b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>farecard_id</value>
+      <webElementGuid>82d6ccc4-1bb3-4656-a637-a42daf462620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>New Jersey Transit Fare-Pay card. The card has an abstract orange, pink and navy blue pattern on it and the text The easiest way to pay. The fastest way to ride! written on it under the name of the card.</value>
+      <webElementGuid>a018d472-67c3-4f77-8e34-cab58deaa7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/njt-web/static/media/farecard.97874d5d4333ae7858db.png</value>
+      <webElementGuid>cb8b3a22-80f1-47f2-b278-1228c9e01b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardCard&quot;)/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-4 css-prey7g&quot;]/div[@class=&quot;MuiGrid-root cardImg css-1jzryl5&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/img[@id=&quot;farecard_id&quot;]</value>
+      <webElementGuid>5d3f0210-22b6-4485-bf8b-541b96fc44f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//img[@id='farecard_id'])[2]</value>
+      <webElementGuid>2c198d2b-fe89-47d6-a72f-aba2459f2e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboardCard']/div/div/div[2]/div/div/img</value>
+      <webElementGuid>6cced805-5cad-456e-8470-092bed1a841d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='New Jersey Transit Fare-Pay card. The card has an abstract orange, pink and navy blue pattern on it and the text The easiest way to pay. The fastest way to ride! written on it under the name of the card.']</value>
+      <webElementGuid>c806e71f-9266-4b17-b621-1a00df9aecaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>40dc610e-a810-4364-bdfb-eb322ea10870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'farecard_id' and @alt = 'New Jersey Transit Fare-Pay card. The card has an abstract orange, pink and navy blue pattern on it and the text The easiest way to pay. The fastest way to ride! written on it under the name of the card.' and @src = '/njt-web/static/media/farecard.97874d5d4333ae7858db.png']</value>
+      <webElementGuid>7c38d8ee-7582-4568-b8b8-729e204b6446</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
