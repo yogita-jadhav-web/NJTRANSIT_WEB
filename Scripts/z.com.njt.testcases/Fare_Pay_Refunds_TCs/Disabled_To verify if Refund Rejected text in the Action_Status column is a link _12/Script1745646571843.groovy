@@ -221,5 +221,3 @@ String refundReJtLink = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Re
 
 WebUI.verifyEqual(refundReJtLink, 'Refund Rejected')
 
-WebUI.closeBrowser()
-
